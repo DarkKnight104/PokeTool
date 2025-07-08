@@ -1,4102 +1,6152 @@
 [
   {
     "Number": "001",
-    "Name": "Bulbasaur"
+    "Name": "Bulbasaur",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "002",
-    "Name": "Ivysaur"
+    "Name": "Ivysaur",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "003",
-    "Name": "Venusaur"
+    "Name": "Venusaur",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "004",
-    "Name": "Charmander"
+    "Name": "Charmander",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "005",
-    "Name": "Charmeleon"
+    "Name": "Charmeleon",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "006",
-    "Name": "Charizard"
+    "Name": "Charizard",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Number": "007",
-    "Name": "Squirtle"
+    "Name": "Squirtle",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "008",
-    "Name": "Wartortle"
+    "Name": "Wartortle",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "009",
-    "Name": "Blastoise"
+    "Name": "Blastoise",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "010",
-    "Name": "Caterpie"
+    "Name": "Caterpie",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "011",
-    "Name": "Metapod"
+    "Name": "Metapod",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "012",
-    "Name": "Butterfree"
+    "Name": "Butterfree",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "013",
-    "Name": "Weedle"
+    "Name": "Weedle",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "014",
-    "Name": "Kakuna"
+    "Name": "Kakuna",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "015",
-    "Name": "Beedrill"
+    "Name": "Beedrill",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "016",
-    "Name": "Pidgey"
+    "Name": "Pidgey",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "017",
-    "Name": "Pidgeotto"
+    "Name": "Pidgeotto",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "018",
-    "Name": "Pidgeot"
+    "Name": "Pidgeot",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "019",
-    "Name": "Rattata"
+    "Name": "Rattata",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "020",
-    "Name": "Raticate"
+    "Name": "Raticate",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "021",
-    "Name": "Spearow"
+    "Name": "Spearow",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "022",
-    "Name": "Fearow"
+    "Name": "Fearow",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "023",
-    "Name": "Ekans"
+    "Name": "Ekans",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "024",
-    "Name": "Arbok"
+    "Name": "Arbok",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "025",
-    "Name": "Pikachu"
+    "Name": "Pikachu",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "026",
-    "Name": "Raichu"
+    "Name": "Raichu",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "027",
-    "Name": "Sandshrew"
+    "Name": "Sandshrew",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "028",
-    "Name": "Sandslash"
+    "Name": "Sandslash",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "029",
-    "Name": "Nidoran♀"
+    "Name": "Nidoran♀",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "030",
-    "Name": "Nidorina"
+    "Name": "Nidorina",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "031",
-    "Name": "Nidoqueen"
+    "Name": "Nidoqueen",
+    "Type 1": "Poison",
+    "Type 2": "Ground"
   },
   {
     "Number": "032",
-    "Name": "Nidoran♂"
+    "Name": "Nidoran♂",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "033",
-    "Name": "Nidorino"
+    "Name": "Nidorino",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "034",
-    "Name": "Nidoking"
+    "Name": "Nidoking",
+    "Type 1": "Poison",
+    "Type 2": "Ground"
   },
   {
     "Number": "035",
-    "Name": "Clefairy"
+    "Name": "Clefairy",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "036",
-    "Name": "Clefable"
+    "Name": "Clefable",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "037",
-    "Name": "Vulpix"
+    "Name": "Vulpix",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "038",
-    "Name": "Ninetales"
+    "Name": "Ninetales",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "039",
-    "Name": "Jigglypuff"
+    "Name": "Jigglypuff",
+    "Type 1": "Normal",
+    "Type 2": "Fairy"
   },
   {
     "Number": "040",
-    "Name": "Wigglytuff"
+    "Name": "Wigglytuff",
+    "Type 1": "Normal",
+    "Type 2": "Fairy"
   },
   {
     "Number": "041",
-    "Name": "Zubat"
+    "Name": "Zubat",
+    "Type 1": "Poison",
+    "Type 2": "Flying"
   },
   {
     "Number": "042",
-    "Name": "Golbat"
+    "Name": "Golbat",
+    "Type 1": "Poison",
+    "Type 2": "Flying"
   },
   {
     "Number": "043",
-    "Name": "Oddish"
+    "Name": "Oddish",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "044",
-    "Name": "Gloom"
+    "Name": "Gloom",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "045",
-    "Name": "Vileplume"
+    "Name": "Vileplume",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "046",
-    "Name": "Paras"
+    "Name": "Paras",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Number": "047",
-    "Name": "Parasect"
+    "Name": "Parasect",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Number": "048",
-    "Name": "Venonat"
+    "Name": "Venonat",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "049",
-    "Name": "Venomoth"
+    "Name": "Venomoth",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "050",
-    "Name": "Diglett"
+    "Name": "Diglett",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "051",
-    "Name": "Dugtrio"
+    "Name": "Dugtrio",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "052",
-    "Name": "Meowth"
+    "Name": "Meowth",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "053",
-    "Name": "Persian"
+    "Name": "Persian",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "054",
-    "Name": "Psyduck"
+    "Name": "Psyduck",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "055",
-    "Name": "Golduck"
+    "Name": "Golduck",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "056",
-    "Name": "Mankey"
+    "Name": "Mankey",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "057",
-    "Name": "Primeape"
+    "Name": "Primeape",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "058",
-    "Name": "Growlithe"
+    "Name": "Growlithe",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "059",
-    "Name": "Arcanine"
+    "Name": "Arcanine",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "060",
-    "Name": "Poliwag"
+    "Name": "Poliwag",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "061",
-    "Name": "Poliwhirl"
+    "Name": "Poliwhirl",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "062",
-    "Name": "Poliwrath"
+    "Name": "Poliwrath",
+    "Type 1": "Water",
+    "Type 2": "Fighting"
   },
   {
     "Number": "063",
-    "Name": "Abra"
+    "Name": "Abra",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "064",
-    "Name": "Kadabra"
+    "Name": "Kadabra",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "065",
-    "Name": "Alakazam"
+    "Name": "Alakazam",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "066",
-    "Name": "Machop"
+    "Name": "Machop",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "067",
-    "Name": "Machoke"
+    "Name": "Machoke",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "068",
-    "Name": "Machamp"
+    "Name": "Machamp",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "069",
-    "Name": "Bellsprout"
+    "Name": "Bellsprout",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "070",
-    "Name": "Weepinbell"
+    "Name": "Weepinbell",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "071",
-    "Name": "Victreebel"
+    "Name": "Victreebel",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "072",
-    "Name": "Tentacool"
+    "Name": "Tentacool",
+    "Type 1": "Water",
+    "Type 2": "Poison"
   },
   {
     "Number": "073",
-    "Name": "Tentacruel"
+    "Name": "Tentacruel",
+    "Type 1": "Water",
+    "Type 2": "Poison"
   },
   {
     "Number": "074",
-    "Name": "Geodude"
+    "Name": "Geodude",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Number": "075",
-    "Name": "Graveler"
+    "Name": "Graveler",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Number": "076",
-    "Name": "Golem"
+    "Name": "Golem",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Number": "077",
-    "Name": "Ponyta"
+    "Name": "Ponyta",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "078",
-    "Name": "Rapidash"
+    "Name": "Rapidash",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "079",
-    "Name": "Slowpoke"
+    "Name": "Slowpoke",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Number": "080",
-    "Name": "Slowbro"
+    "Name": "Slowbro",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Number": "081",
-    "Name": "Magnemite"
+    "Name": "Magnemite",
+    "Type 1": "Electric",
+    "Type 2": "Steel"
   },
   {
     "Number": "082",
-    "Name": "Magneton"
+    "Name": "Magneton",
+    "Type 1": "Electric",
+    "Type 2": "Steel"
   },
   {
     "Number": "083",
-    "Name": "Farfetch'd"
+    "Name": "Farfetch'd",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "084",
-    "Name": "Doduo"
+    "Name": "Doduo",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "085",
-    "Name": "Dodrio"
+    "Name": "Dodrio",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "086",
-    "Name": "Seel"
+    "Name": "Seel",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "087",
-    "Name": "Dewgong"
+    "Name": "Dewgong",
+    "Type 1": "Water",
+    "Type 2": "Ice"
   },
   {
     "Number": "088",
-    "Name": "Grimer"
+    "Name": "Grimer",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "089",
-    "Name": "Muk"
+    "Name": "Muk",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "090",
-    "Name": "Shellder"
+    "Name": "Shellder",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "091",
-    "Name": "Cloyster"
+    "Name": "Cloyster",
+    "Type 1": "Water",
+    "Type 2": "Ice"
   },
   {
     "Number": "092",
-    "Name": "Gastly"
+    "Name": "Gastly",
+    "Type 1": "Ghost",
+    "Type 2": "Poison"
   },
   {
     "Number": "093",
-    "Name": "Haunter"
+    "Name": "Haunter",
+    "Type 1": "Ghost",
+    "Type 2": "Poison"
   },
   {
     "Number": "094",
-    "Name": "Gengar"
+    "Name": "Gengar",
+    "Type 1": "Ghost",
+    "Type 2": "Poison"
   },
   {
     "Number": "095",
-    "Name": "Onix"
+    "Name": "Onix",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Number": "096",
-    "Name": "Drowzee"
+    "Name": "Drowzee",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "097",
-    "Name": "Hypno"
+    "Name": "Hypno",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "098",
-    "Name": "Krabby"
+    "Name": "Krabby",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "099",
-    "Name": "Kingler"
+    "Name": "Kingler",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "100",
-    "Name": "Voltorb"
+    "Name": "Voltorb",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "101",
-    "Name": "Electrode"
+    "Name": "Electrode",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "102",
-    "Name": "Exeggcute"
+    "Name": "Exeggcute",
+    "Type 1": "Grass",
+    "Type 2": "Psychic"
   },
   {
     "Number": "103",
-    "Name": "Exeggutor"
+    "Name": "Exeggutor",
+    "Type 1": "Grass",
+    "Type 2": "Psychic"
   },
   {
     "Number": "104",
-    "Name": "Cubone"
+    "Name": "Cubone",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "105",
-    "Name": "Marowak"
+    "Name": "Marowak",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "106",
-    "Name": "Hitmonlee"
+    "Name": "Hitmonlee",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "107",
-    "Name": "Hitmonchan"
+    "Name": "Hitmonchan",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "108",
-    "Name": "Lickitung"
+    "Name": "Lickitung",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "109",
-    "Name": "Koffing"
+    "Name": "Koffing",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "110",
-    "Name": "Weezing"
+    "Name": "Weezing",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "111",
-    "Name": "Rhyhorn"
+    "Name": "Rhyhorn",
+    "Type 1": "Ground",
+    "Type 2": "Rock"
   },
   {
     "Number": "112",
-    "Name": "Rhydon"
+    "Name": "Rhydon",
+    "Type 1": "Ground",
+    "Type 2": "Rock"
   },
   {
     "Number": "113",
-    "Name": "Chansey"
+    "Name": "Chansey",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "114",
-    "Name": "Tangela"
+    "Name": "Tangela",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "115",
-    "Name": "Kangaskhan"
+    "Name": "Kangaskhan",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "116",
-    "Name": "Horsea"
+    "Name": "Horsea",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "117",
-    "Name": "Seadra"
+    "Name": "Seadra",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "118",
-    "Name": "Goldeen"
+    "Name": "Goldeen",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "119",
-    "Name": "Seaking"
+    "Name": "Seaking",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "120",
-    "Name": "Staryu"
+    "Name": "Staryu",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "121",
-    "Name": "Starmie"
+    "Name": "Starmie",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Number": "122",
-    "Name": "Mr. Mime"
+    "Name": "Mr. Mime",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Number": "123",
-    "Name": "Scyther"
+    "Name": "Scyther",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "124",
-    "Name": "Jynx"
+    "Name": "Jynx",
+    "Type 1": "Ice",
+    "Type 2": "Psychic"
   },
   {
     "Number": "125",
-    "Name": "Electabuzz"
+    "Name": "Electabuzz",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "126",
-    "Name": "Magmar"
+    "Name": "Magmar",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "127",
-    "Name": "Pinsir"
+    "Name": "Pinsir",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "128",
-    "Name": "Tauros"
+    "Name": "Tauros",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "129",
-    "Name": "Magikarp"
+    "Name": "Magikarp",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "130",
-    "Name": "Gyarados"
+    "Name": "Gyarados",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Number": "131",
-    "Name": "Lapras"
+    "Name": "Lapras",
+    "Type 1": "Water",
+    "Type 2": "Ice"
   },
   {
     "Number": "132",
-    "Name": "Ditto"
+    "Name": "Ditto",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "133",
-    "Name": "Eevee"
+    "Name": "Eevee",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "134",
-    "Name": "Vaporeon"
+    "Name": "Vaporeon",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "135",
-    "Name": "Jolteon"
+    "Name": "Jolteon",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "136",
-    "Name": "Flareon"
+    "Name": "Flareon",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "137",
-    "Name": "Porygon"
+    "Name": "Porygon",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "138",
-    "Name": "Omanyte"
+    "Name": "Omanyte",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Number": "139",
-    "Name": "Omastar"
+    "Name": "Omastar",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Number": "140",
-    "Name": "Kabuto"
+    "Name": "Kabuto",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Number": "141",
-    "Name": "Kabutops"
+    "Name": "Kabutops",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Number": "142",
-    "Name": "Aerodactyl"
+    "Name": "Aerodactyl",
+    "Type 1": "Rock",
+    "Type 2": "Flying"
   },
   {
     "Number": "143",
-    "Name": "Snorlax"
+    "Name": "Snorlax",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "144",
-    "Name": "Articuno"
+    "Name": "Articuno",
+    "Type 1": "Ice",
+    "Type 2": "Flying"
   },
   {
     "Number": "145",
-    "Name": "Zapdos"
+    "Name": "Zapdos",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Number": "146",
-    "Name": "Moltres"
+    "Name": "Moltres",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Number": "147",
-    "Name": "Dratini"
+    "Name": "Dratini",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "148",
-    "Name": "Dragonair"
+    "Name": "Dragonair",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "149",
-    "Name": "Dragonite"
+    "Name": "Dragonite",
+    "Type 1": "Dragon",
+    "Type 2": "Flying"
   },
   {
     "Number": "150",
-    "Name": "Mewtwo"
+    "Name": "Mewtwo",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "151",
-    "Name": "Mew"
+    "Name": "Mew",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "152",
-    "Name": "Chikorita"
+    "Name": "Chikorita",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "153",
-    "Name": "Bayleef"
+    "Name": "Bayleef",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "154",
-    "Name": "Meganium"
+    "Name": "Meganium",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "155",
-    "Name": "Cyndaquil"
+    "Name": "Cyndaquil",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "156",
-    "Name": "Quilava"
+    "Name": "Quilava",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "157",
-    "Name": "Typhlosion"
+    "Name": "Typhlosion",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "158",
-    "Name": "Totodile"
+    "Name": "Totodile",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "159",
-    "Name": "Croconaw"
+    "Name": "Croconaw",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "160",
-    "Name": "Feraligatr"
+    "Name": "Feraligatr",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "161",
-    "Name": "Sentret"
+    "Name": "Sentret",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "162",
-    "Name": "Furret"
+    "Name": "Furret",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "163",
-    "Name": "Hoothoot"
+    "Name": "Hoothoot",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "164",
-    "Name": "Noctowl"
+    "Name": "Noctowl",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "165",
-    "Name": "Ledyba"
+    "Name": "Ledyba",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "166",
-    "Name": "Ledian"
+    "Name": "Ledian",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "167",
-    "Name": "Spinarak"
+    "Name": "Spinarak",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "168",
-    "Name": "Ariados"
+    "Name": "Ariados",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "169",
-    "Name": "Crobat"
+    "Name": "Crobat",
+    "Type 1": "Poison",
+    "Type 2": "Flying"
   },
   {
     "Number": "170",
-    "Name": "Chinchou"
+    "Name": "Chinchou",
+    "Type 1": "Water",
+    "Type 2": "Electric"
   },
   {
     "Number": "171",
-    "Name": "Lanturn"
+    "Name": "Lanturn",
+    "Type 1": "Water",
+    "Type 2": "Electric"
   },
   {
     "Number": "172",
-    "Name": "Pichu"
+    "Name": "Pichu",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "173",
-    "Name": "Cleffa"
+    "Name": "Cleffa",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "174",
-    "Name": "Igglybuff"
+    "Name": "Igglybuff",
+    "Type 1": "Normal",
+    "Type 2": "Fairy"
   },
   {
     "Number": "175",
-    "Name": "Togepi"
+    "Name": "Togepi",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "176",
-    "Name": "Togetic"
+    "Name": "Togetic",
+    "Type 1": "Fairy",
+    "Type 2": "Flying"
   },
   {
     "Number": "177",
-    "Name": "Natu"
+    "Name": "Natu",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Number": "178",
-    "Name": "Xatu"
+    "Name": "Xatu",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Number": "179",
-    "Name": "Mareep"
+    "Name": "Mareep",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "180",
-    "Name": "Flaaffy"
+    "Name": "Flaaffy",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "181",
-    "Name": "Ampharos"
+    "Name": "Ampharos",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "182",
-    "Name": "Bellossom"
+    "Name": "Bellossom",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "183",
-    "Name": "Marill"
+    "Name": "Marill",
+    "Type 1": "Water",
+    "Type 2": "Fairy"
   },
   {
     "Number": "184",
-    "Name": "Azumarill"
+    "Name": "Azumarill",
+    "Type 1": "Water",
+    "Type 2": "Fairy"
   },
   {
     "Number": "185",
-    "Name": "Sudowoodo"
+    "Name": "Sudowoodo",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "186",
-    "Name": "Politoed"
+    "Name": "Politoed",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "187",
-    "Name": "Hoppip"
+    "Name": "Hoppip",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Number": "188",
-    "Name": "Skiploom"
+    "Name": "Skiploom",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Number": "189",
-    "Name": "Jumpluff"
+    "Name": "Jumpluff",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Number": "190",
-    "Name": "Aipom"
+    "Name": "Aipom",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "191",
-    "Name": "Sunkern"
+    "Name": "Sunkern",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "192",
-    "Name": "Sunflora"
+    "Name": "Sunflora",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "193",
-    "Name": "Yanma"
+    "Name": "Yanma",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "194",
-    "Name": "Wooper"
+    "Name": "Wooper",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Number": "195",
-    "Name": "Quagsire"
+    "Name": "Quagsire",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Number": "196",
-    "Name": "Espeon"
+    "Name": "Espeon",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "197",
-    "Name": "Umbreon"
+    "Name": "Umbreon",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "198",
-    "Name": "Murkrow"
+    "Name": "Murkrow",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Number": "199",
-    "Name": "Slowking"
+    "Name": "Slowking",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Number": "200",
-    "Name": "Misdreavus"
+    "Name": "Misdreavus",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "201",
-    "Name": "Unown"
+    "Name": "Unown",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "202",
-    "Name": "Wobbuffet"
+    "Name": "Wobbuffet",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "203",
-    "Name": "Girafarig"
+    "Name": "Girafarig",
+    "Type 1": "Normal",
+    "Type 2": "Psychic"
   },
   {
     "Number": "204",
-    "Name": "Pineco"
+    "Name": "Pineco",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "205",
-    "Name": "Forretress"
+    "Name": "Forretress",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Number": "206",
-    "Name": "Dunsparce"
+    "Name": "Dunsparce",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "207",
-    "Name": "Gligar"
+    "Name": "Gligar",
+    "Type 1": "Ground",
+    "Type 2": "Flying"
   },
   {
     "Number": "208",
-    "Name": "Steelix"
+    "Name": "Steelix",
+    "Type 1": "Steel",
+    "Type 2": "Ground"
   },
   {
     "Number": "209",
-    "Name": "Snubbull"
+    "Name": "Snubbull",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "210",
-    "Name": "Granbull"
+    "Name": "Granbull",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "211",
-    "Name": "Qwilfish"
+    "Name": "Qwilfish",
+    "Type 1": "Water",
+    "Type 2": "Poison"
   },
   {
     "Number": "212",
-    "Name": "Scizor"
+    "Name": "Scizor",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Number": "213",
-    "Name": "Shuckle"
+    "Name": "Shuckle",
+    "Type 1": "Bug",
+    "Type 2": "Rock"
   },
   {
     "Number": "214",
-    "Name": "Heracross"
+    "Name": "Heracross",
+    "Type 1": "Bug",
+    "Type 2": "Fighting"
   },
   {
     "Number": "215",
-    "Name": "Sneasel"
+    "Name": "Sneasel",
+    "Type 1": "Dark",
+    "Type 2": "Ice"
   },
   {
     "Number": "216",
-    "Name": "Teddiursa"
+    "Name": "Teddiursa",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "217",
-    "Name": "Ursaring"
+    "Name": "Ursaring",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "218",
-    "Name": "Slugma"
+    "Name": "Slugma",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "219",
-    "Name": "Magcargo"
+    "Name": "Magcargo",
+    "Type 1": "Fire",
+    "Type 2": "Rock"
   },
   {
     "Number": "220",
-    "Name": "Swinub"
+    "Name": "Swinub",
+    "Type 1": "Ice",
+    "Type 2": "Ground"
   },
   {
     "Number": "221",
-    "Name": "Piloswine"
+    "Name": "Piloswine",
+    "Type 1": "Ice",
+    "Type 2": "Ground"
   },
   {
     "Number": "222",
-    "Name": "Corsola"
+    "Name": "Corsola",
+    "Type 1": "Water",
+    "Type 2": "Rock"
   },
   {
     "Number": "223",
-    "Name": "Remoraid"
+    "Name": "Remoraid",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "224",
-    "Name": "Octillery"
+    "Name": "Octillery",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "225",
-    "Name": "Delibird"
+    "Name": "Delibird",
+    "Type 1": "Ice",
+    "Type 2": "Flying"
   },
   {
     "Number": "226",
-    "Name": "Mantine"
+    "Name": "Mantine",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Number": "227",
-    "Name": "Skarmory"
+    "Name": "Skarmory",
+    "Type 1": "Steel",
+    "Type 2": "Flying"
   },
   {
     "Number": "228",
-    "Name": "Houndour"
+    "Name": "Houndour",
+    "Type 1": "Dark",
+    "Type 2": "Fire"
   },
   {
     "Number": "229",
-    "Name": "Houndoom"
+    "Name": "Houndoom",
+    "Type 1": "Dark",
+    "Type 2": "Fire"
   },
   {
     "Number": "230",
-    "Name": "Kingdra"
+    "Name": "Kingdra",
+    "Type 1": "Water",
+    "Type 2": "Dragon"
   },
   {
     "Number": "231",
-    "Name": "Phanpy"
+    "Name": "Phanpy",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "232",
-    "Name": "Donphan"
+    "Name": "Donphan",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "233",
-    "Name": "Porygon2"
+    "Name": "Porygon2",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "234",
-    "Name": "Stantler"
+    "Name": "Stantler",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "235",
-    "Name": "Smeargle"
+    "Name": "Smeargle",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "236",
-    "Name": "Tyrogue"
+    "Name": "Tyrogue",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "237",
-    "Name": "Hitmontop"
+    "Name": "Hitmontop",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "238",
-    "Name": "Smoochum"
+    "Name": "Smoochum",
+    "Type 1": "Ice",
+    "Type 2": "Psychic"
   },
   {
     "Number": "239",
-    "Name": "Elekid"
+    "Name": "Elekid",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "240",
-    "Name": "Magby"
+    "Name": "Magby",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "241",
-    "Name": "Miltank"
+    "Name": "Miltank",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "242",
-    "Name": "Blissey"
+    "Name": "Blissey",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "243",
-    "Name": "Raikou"
+    "Name": "Raikou",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "244",
-    "Name": "Entei"
+    "Name": "Entei",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "245",
-    "Name": "Suicune"
+    "Name": "Suicune",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "246",
-    "Name": "Larvitar"
+    "Name": "Larvitar",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Number": "247",
-    "Name": "Pupitar"
+    "Name": "Pupitar",
+    "Type 1": "Rock",
+    "Type 2": "Ground"
   },
   {
     "Number": "248",
-    "Name": "Tyranitar"
+    "Name": "Tyranitar",
+    "Type 1": "Rock",
+    "Type 2": "Dark"
   },
   {
     "Number": "249",
-    "Name": "Lugia"
+    "Name": "Lugia",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Number": "250",
-    "Name": "Ho-oh"
+    "Name": "Ho-oh",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Number": "251",
-    "Name": "Celebi"
+    "Name": "Celebi",
+    "Type 1": "Psychic",
+    "Type 2": "Grass"
   },
   {
     "Number": "252",
-    "Name": "Treecko"
+    "Name": "Treecko",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "253",
-    "Name": "Grovyle"
+    "Name": "Grovyle",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "254",
-    "Name": "Sceptile"
+    "Name": "Sceptile",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "255",
-    "Name": "Torchic"
+    "Name": "Torchic",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "256",
-    "Name": "Combusken"
+    "Name": "Combusken",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Number": "257",
-    "Name": "Blaziken"
+    "Name": "Blaziken",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Number": "258",
-    "Name": "Mudkip"
+    "Name": "Mudkip",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "259",
-    "Name": "Marshtomp"
+    "Name": "Marshtomp",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Number": "260",
-    "Name": "Swampert"
+    "Name": "Swampert",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Number": "261",
-    "Name": "Poochyena"
+    "Name": "Poochyena",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "262",
-    "Name": "Mightyena"
+    "Name": "Mightyena",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "263",
-    "Name": "Zigzagoon"
+    "Name": "Zigzagoon",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "264",
-    "Name": "Linoone"
+    "Name": "Linoone",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "265",
-    "Name": "Wurmple"
+    "Name": "Wurmple",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "266",
-    "Name": "Silcoon"
+    "Name": "Silcoon",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "267",
-    "Name": "Beautifly"
+    "Name": "Beautifly",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "268",
-    "Name": "Cascoon"
+    "Name": "Cascoon",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "269",
-    "Name": "Dustox"
+    "Name": "Dustox",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "270",
-    "Name": "Lotad"
+    "Name": "Lotad",
+    "Type 1": "Water",
+    "Type 2": "Grass"
   },
   {
     "Number": "271",
-    "Name": "Lombre"
+    "Name": "Lombre",
+    "Type 1": "Water",
+    "Type 2": "Grass"
   },
   {
     "Number": "272",
-    "Name": "Ludicolo"
+    "Name": "Ludicolo",
+    "Type 1": "Water",
+    "Type 2": "Grass"
   },
   {
     "Number": "273",
-    "Name": "Seedot"
+    "Name": "Seedot",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "274",
-    "Name": "Nuzleaf"
+    "Name": "Nuzleaf",
+    "Type 1": "Grass",
+    "Type 2": "Dark"
   },
   {
     "Number": "275",
-    "Name": "Shiftry"
+    "Name": "Shiftry",
+    "Type 1": "Grass",
+    "Type 2": "Dark"
   },
   {
     "Number": "276",
-    "Name": "Taillow"
+    "Name": "Taillow",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "277",
-    "Name": "Swellow"
+    "Name": "Swellow",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "278",
-    "Name": "Wingull"
+    "Name": "Wingull",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Number": "279",
-    "Name": "Pelipper"
+    "Name": "Pelipper",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Number": "280",
-    "Name": "Ralts"
+    "Name": "Ralts",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Number": "281",
-    "Name": "Kirlia"
+    "Name": "Kirlia",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Number": "282",
-    "Name": "Gardevoir"
+    "Name": "Gardevoir",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Number": "283",
-    "Name": "Surskit"
+    "Name": "Surskit",
+    "Type 1": "Bug",
+    "Type 2": "Water"
   },
   {
     "Number": "284",
-    "Name": "Masquerain"
+    "Name": "Masquerain",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "285",
-    "Name": "Shroomish"
+    "Name": "Shroomish",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "286",
-    "Name": "Breloom"
+    "Name": "Breloom",
+    "Type 1": "Grass",
+    "Type 2": "Fighting"
   },
   {
     "Number": "287",
-    "Name": "Slakoth"
+    "Name": "Slakoth",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "288",
-    "Name": "Vigoroth"
+    "Name": "Vigoroth",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "289",
-    "Name": "Slaking"
+    "Name": "Slaking",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "290",
-    "Name": "Nincada"
+    "Name": "Nincada",
+    "Type 1": "Bug",
+    "Type 2": "Ground"
   },
   {
     "Number": "291",
-    "Name": "Ninjask"
+    "Name": "Ninjask",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "292",
-    "Name": "Shedinja"
+    "Name": "Shedinja",
+    "Type 1": "Bug",
+    "Type 2": "Ghost"
   },
   {
     "Number": "293",
-    "Name": "Whismur"
+    "Name": "Whismur",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "294",
-    "Name": "Loudred"
+    "Name": "Loudred",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "295",
-    "Name": "Exploud"
+    "Name": "Exploud",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "296",
-    "Name": "Makuhita"
+    "Name": "Makuhita",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "297",
-    "Name": "Hariyama"
+    "Name": "Hariyama",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "298",
-    "Name": "Azurill"
+    "Name": "Azurill",
+    "Type 1": "Normal",
+    "Type 2": "Fairy"
   },
   {
     "Number": "299",
-    "Name": "Nosepass"
+    "Name": "Nosepass",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "300",
-    "Name": "Skitty"
+    "Name": "Skitty",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "301",
-    "Name": "Delcatty"
+    "Name": "Delcatty",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "302",
-    "Name": "Sableye"
+    "Name": "Sableye",
+    "Type 1": "Dark",
+    "Type 2": "Ghost"
   },
   {
     "Number": "303",
-    "Name": "Mawile"
+    "Name": "Mawile",
+    "Type 1": "Steel",
+    "Type 2": "Fairy"
   },
   {
     "Number": "304",
-    "Name": "Aron"
+    "Name": "Aron",
+    "Type 1": "Steel",
+    "Type 2": "Rock"
   },
   {
     "Number": "305",
-    "Name": "Lairon"
+    "Name": "Lairon",
+    "Type 1": "Steel",
+    "Type 2": "Rock"
   },
   {
     "Number": "306",
-    "Name": "Aggron"
+    "Name": "Aggron",
+    "Type 1": "Steel",
+    "Type 2": "Rock"
   },
   {
     "Number": "307",
-    "Name": "Meditite"
+    "Name": "Meditite",
+    "Type 1": "Fighting",
+    "Type 2": "Psychic"
   },
   {
     "Number": "308",
-    "Name": "Medicham"
+    "Name": "Medicham",
+    "Type 1": "Fighting",
+    "Type 2": "Psychic"
   },
   {
     "Number": "309",
-    "Name": "Electrike"
+    "Name": "Electrike",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "310",
-    "Name": "Manectric"
+    "Name": "Manectric",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "311",
-    "Name": "Plusle"
+    "Name": "Plusle",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "312",
-    "Name": "Minun"
+    "Name": "Minun",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "313",
-    "Name": "Volbeat"
+    "Name": "Volbeat",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "314",
-    "Name": "Illumise"
+    "Name": "Illumise",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "315",
-    "Name": "Roselia"
+    "Name": "Roselia",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "316",
-    "Name": "Gulpin"
+    "Name": "Gulpin",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "317",
-    "Name": "Swalot"
+    "Name": "Swalot",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "318",
-    "Name": "Carvanha"
+    "Name": "Carvanha",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Number": "319",
-    "Name": "Sharpedo"
+    "Name": "Sharpedo",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Number": "320",
-    "Name": "Wailmer"
+    "Name": "Wailmer",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "321",
-    "Name": "Wailord"
+    "Name": "Wailord",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "322",
-    "Name": "Numel"
+    "Name": "Numel",
+    "Type 1": "Fire",
+    "Type 2": "Ground"
   },
   {
     "Number": "323",
-    "Name": "Camerupt"
+    "Name": "Camerupt",
+    "Type 1": "Fire",
+    "Type 2": "Ground"
   },
   {
     "Number": "324",
-    "Name": "Torkoal"
+    "Name": "Torkoal",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "325",
-    "Name": "Spoink"
+    "Name": "Spoink",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "326",
-    "Name": "Grumpig"
+    "Name": "Grumpig",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "327",
-    "Name": "Spinda"
+    "Name": "Spinda",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "328",
-    "Name": "Trapinch"
+    "Name": "Trapinch",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "329",
-    "Name": "Vibrava"
+    "Name": "Vibrava",
+    "Type 1": "Ground",
+    "Type 2": "Dragon"
   },
   {
     "Number": "330",
-    "Name": "Flygon"
+    "Name": "Flygon",
+    "Type 1": "Ground",
+    "Type 2": "Dragon"
   },
   {
     "Number": "331",
-    "Name": "Cacnea"
+    "Name": "Cacnea",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "332",
-    "Name": "Cacturne"
+    "Name": "Cacturne",
+    "Type 1": "Grass",
+    "Type 2": "Dark"
   },
   {
     "Number": "333",
-    "Name": "Swablu"
+    "Name": "Swablu",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "334",
-    "Name": "Altaria"
+    "Name": "Altaria",
+    "Type 1": "Dragon",
+    "Type 2": "Flying"
   },
   {
     "Number": "335",
-    "Name": "Zangoose"
+    "Name": "Zangoose",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "336",
-    "Name": "Seviper"
+    "Name": "Seviper",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "337",
-    "Name": "Lunatone"
+    "Name": "Lunatone",
+    "Type 1": "Rock",
+    "Type 2": "Psychic"
   },
   {
     "Number": "338",
-    "Name": "Solrock"
+    "Name": "Solrock",
+    "Type 1": "Rock",
+    "Type 2": "Psychic"
   },
   {
     "Number": "339",
-    "Name": "Barboach"
+    "Name": "Barboach",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Number": "340",
-    "Name": "Whiscash"
+    "Name": "Whiscash",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Number": "341",
-    "Name": "Corphish"
+    "Name": "Corphish",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "342",
-    "Name": "Crawdaunt"
+    "Name": "Crawdaunt",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Number": "343",
-    "Name": "Baltoy"
+    "Name": "Baltoy",
+    "Type 1": "Ground",
+    "Type 2": "Psychic"
   },
   {
     "Number": "344",
-    "Name": "Claydol"
+    "Name": "Claydol",
+    "Type 1": "Ground",
+    "Type 2": "Psychic"
   },
   {
     "Number": "345",
-    "Name": "Lileep"
+    "Name": "Lileep",
+    "Type 1": "Rock",
+    "Type 2": "Grass"
   },
   {
     "Number": "346",
-    "Name": "Cradily"
+    "Name": "Cradily",
+    "Type 1": "Rock",
+    "Type 2": "Grass"
   },
   {
     "Number": "347",
-    "Name": "Anorith"
+    "Name": "Anorith",
+    "Type 1": "Rock",
+    "Type 2": "Bug"
   },
   {
     "Number": "348",
-    "Name": "Armaldo"
+    "Name": "Armaldo",
+    "Type 1": "Rock",
+    "Type 2": "Bug"
   },
   {
     "Number": "349",
-    "Name": "Feebas"
+    "Name": "Feebas",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "350",
-    "Name": "Milotic"
+    "Name": "Milotic",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "351",
-    "Name": "Castform"
+    "Name": "Castform",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "352",
-    "Name": "Kecleon"
+    "Name": "Kecleon",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "353",
-    "Name": "Shuppet"
+    "Name": "Shuppet",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "354",
-    "Name": "Banette"
+    "Name": "Banette",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "355",
-    "Name": "Duskull"
+    "Name": "Duskull",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "356",
-    "Name": "Dusclops"
+    "Name": "Dusclops",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "357",
-    "Name": "Tropius"
+    "Name": "Tropius",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Number": "358",
-    "Name": "Chimecho"
+    "Name": "Chimecho",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "359",
-    "Name": "Absol"
+    "Name": "Absol",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "360",
-    "Name": "Wynaut"
+    "Name": "Wynaut",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "361",
-    "Name": "Snorunt"
+    "Name": "Snorunt",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "362",
-    "Name": "Glalie"
+    "Name": "Glalie",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "363",
-    "Name": "Spheal"
+    "Name": "Spheal",
+    "Type 1": "Ice",
+    "Type 2": "Water"
   },
   {
     "Number": "364",
-    "Name": "Sealeo"
+    "Name": "Sealeo",
+    "Type 1": "Ice",
+    "Type 2": "Water"
   },
   {
     "Number": "365",
-    "Name": "Walrein"
+    "Name": "Walrein",
+    "Type 1": "Ice",
+    "Type 2": "Water"
   },
   {
     "Number": "366",
-    "Name": "Clamperl"
+    "Name": "Clamperl",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "367",
-    "Name": "Huntail"
+    "Name": "Huntail",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "368",
-    "Name": "Gorebyss"
+    "Name": "Gorebyss",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "369",
-    "Name": "Relicanth"
+    "Name": "Relicanth",
+    "Type 1": "Water",
+    "Type 2": "Rock"
   },
   {
     "Number": "370",
-    "Name": "Luvdisc"
+    "Name": "Luvdisc",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "371",
-    "Name": "Bagon"
+    "Name": "Bagon",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "372",
-    "Name": "Shelgon"
+    "Name": "Shelgon",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "373",
-    "Name": "Salamence"
+    "Name": "Salamence",
+    "Type 1": "Dragon",
+    "Type 2": "Flying"
   },
   {
     "Number": "374",
-    "Name": "Beldum"
+    "Name": "Beldum",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Number": "375",
-    "Name": "Metang"
+    "Name": "Metang",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Number": "376",
-    "Name": "Metagross"
+    "Name": "Metagross",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Number": "377",
-    "Name": "Regirock"
+    "Name": "Regirock",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "378",
-    "Name": "Regice"
+    "Name": "Regice",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "379",
-    "Name": "Registeel"
+    "Name": "Registeel",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Number": "380",
-    "Name": "Latias"
+    "Name": "Latias",
+    "Type 1": "Dragon",
+    "Type 2": "Psychic"
   },
   {
     "Number": "381",
-    "Name": "Latios"
+    "Name": "Latios",
+    "Type 1": "Dragon",
+    "Type 2": "Psychic"
   },
   {
     "Number": "382",
-    "Name": "Kyogre"
+    "Name": "Kyogre",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "383",
-    "Name": "Groudon"
+    "Name": "Groudon",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "384",
-    "Name": "Rayquaza"
+    "Name": "Rayquaza",
+    "Type 1": "Dragon",
+    "Type 2": "Flying"
   },
   {
     "Number": "385",
-    "Name": "Jirachi"
+    "Name": "Jirachi",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Number": "386",
-    "Name": "Deoxys"
+    "Name": "Deoxys",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "387",
-    "Name": "Turtwig"
+    "Name": "Turtwig",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "388",
-    "Name": "Grotle"
+    "Name": "Grotle",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "389",
-    "Name": "Torterra"
+    "Name": "Torterra",
+    "Type 1": "Grass",
+    "Type 2": "Ground"
   },
   {
     "Number": "390",
-    "Name": "Chimchar"
+    "Name": "Chimchar",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "391",
-    "Name": "Monferno"
+    "Name": "Monferno",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Number": "392",
-    "Name": "Infernape"
+    "Name": "Infernape",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Number": "393",
-    "Name": "Piplup"
+    "Name": "Piplup",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "394",
-    "Name": "Prinplup"
+    "Name": "Prinplup",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "395",
-    "Name": "Empoleon"
+    "Name": "Empoleon",
+    "Type 1": "Water",
+    "Type 2": "Steel"
   },
   {
     "Number": "396",
-    "Name": "Starly"
+    "Name": "Starly",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "397",
-    "Name": "Staravia"
+    "Name": "Staravia",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "398",
-    "Name": "Staraptor"
+    "Name": "Staraptor",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "399",
-    "Name": "Bidoof"
+    "Name": "Bidoof",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "400",
-    "Name": "Bibarel"
+    "Name": "Bibarel",
+    "Type 1": "Normal",
+    "Type 2": "Water"
   },
   {
     "Number": "401",
-    "Name": "Kricketot"
+    "Name": "Kricketot",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "402",
-    "Name": "Kricketune"
+    "Name": "Kricketune",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "403",
-    "Name": "Shinx"
+    "Name": "Shinx",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "404",
-    "Name": "Luxio"
+    "Name": "Luxio",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "405",
-    "Name": "Luxray"
+    "Name": "Luxray",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "406",
-    "Name": "Budew"
+    "Name": "Budew",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "407",
-    "Name": "Roserade"
+    "Name": "Roserade",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "408",
-    "Name": "Cranidos"
+    "Name": "Cranidos",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "409",
-    "Name": "Rampardos"
+    "Name": "Rampardos",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "410",
-    "Name": "Shieldon"
+    "Name": "Shieldon",
+    "Type 1": "Rock",
+    "Type 2": "Steel"
   },
   {
     "Number": "411",
-    "Name": "Bastiodon"
+    "Name": "Bastiodon",
+    "Type 1": "Rock",
+    "Type 2": "Steel"
   },
   {
     "Number": "412",
-    "Name": "Burmy"
+    "Name": "Burmy",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "413",
-    "Name": "Wormadam"
+    "Name": "Wormadam",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Number": "414",
-    "Name": "Mothim"
+    "Name": "Mothim",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "415",
-    "Name": "Combee"
+    "Name": "Combee",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "416",
-    "Name": "Vespiquen"
+    "Name": "Vespiquen",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "417",
-    "Name": "Pachirisu"
+    "Name": "Pachirisu",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "418",
-    "Name": "Buizel"
+    "Name": "Buizel",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "419",
-    "Name": "Floatzel"
+    "Name": "Floatzel",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "420",
-    "Name": "Cherubi"
+    "Name": "Cherubi",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "421",
-    "Name": "Cherrim"
+    "Name": "Cherrim",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "422",
-    "Name": "Shellos"
+    "Name": "Shellos",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "423",
-    "Name": "Gastrodon"
+    "Name": "Gastrodon",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Number": "424",
-    "Name": "Ambipom"
+    "Name": "Ambipom",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "425",
-    "Name": "Drifloon"
+    "Name": "Drifloon",
+    "Type 1": "Ghost",
+    "Type 2": "Flying"
   },
   {
     "Number": "426",
-    "Name": "Drifblim"
+    "Name": "Drifblim",
+    "Type 1": "Ghost",
+    "Type 2": "Flying"
   },
   {
     "Number": "427",
-    "Name": "Buneary"
+    "Name": "Buneary",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "428",
-    "Name": "Lopunny"
+    "Name": "Lopunny",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "429",
-    "Name": "Mismagius"
+    "Name": "Mismagius",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "430",
-    "Name": "Honchkrow"
+    "Name": "Honchkrow",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Number": "431",
-    "Name": "Glameow"
+    "Name": "Glameow",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "432",
-    "Name": "Purugly"
+    "Name": "Purugly",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "433",
-    "Name": "Chingling"
+    "Name": "Chingling",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "434",
-    "Name": "Stunky"
+    "Name": "Stunky",
+    "Type 1": "Poison",
+    "Type 2": "Dark"
   },
   {
     "Number": "435",
-    "Name": "Skuntank"
+    "Name": "Skuntank",
+    "Type 1": "Poison",
+    "Type 2": "Dark"
   },
   {
     "Number": "436",
-    "Name": "Bronzor"
+    "Name": "Bronzor",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Number": "437",
-    "Name": "Bronzong"
+    "Name": "Bronzong",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Number": "438",
-    "Name": "Bonsly"
+    "Name": "Bonsly",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "439",
-    "Name": "Mime Jr."
+    "Name": "Mime Jr.",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Number": "440",
-    "Name": "Happiny"
+    "Name": "Happiny",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "441",
-    "Name": "Chatot"
+    "Name": "Chatot",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "442",
-    "Name": "Spiritomb"
+    "Name": "Spiritomb",
+    "Type 1": "Ghost",
+    "Type 2": "Dark"
   },
   {
     "Number": "443",
-    "Name": "Gible"
+    "Name": "Gible",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Number": "444",
-    "Name": "Gabite"
+    "Name": "Gabite",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Number": "445",
-    "Name": "Garchomp"
+    "Name": "Garchomp",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Number": "446",
-    "Name": "Munchlax"
+    "Name": "Munchlax",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "447",
-    "Name": "Riolu"
+    "Name": "Riolu",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "448",
-    "Name": "Lucario"
+    "Name": "Lucario",
+    "Type 1": "Fighting",
+    "Type 2": "Steel"
   },
   {
     "Number": "449",
-    "Name": "Hippopotas"
+    "Name": "Hippopotas",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "450",
-    "Name": "Hippowdon"
+    "Name": "Hippowdon",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "451",
-    "Name": "Skorupi"
+    "Name": "Skorupi",
+    "Type 1": "Poison",
+    "Type 2": "Bug"
   },
   {
     "Number": "452",
-    "Name": "Drapion"
+    "Name": "Drapion",
+    "Type 1": "Poison",
+    "Type 2": "Dark"
   },
   {
     "Number": "453",
-    "Name": "Croagunk"
+    "Name": "Croagunk",
+    "Type 1": "Poison",
+    "Type 2": "Fighting"
   },
   {
     "Number": "454",
-    "Name": "Toxicroak"
+    "Name": "Toxicroak",
+    "Type 1": "Poison",
+    "Type 2": "Fighting"
   },
   {
     "Number": "455",
-    "Name": "Carnivine"
+    "Name": "Carnivine",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "456",
-    "Name": "Finneon"
+    "Name": "Finneon",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "457",
-    "Name": "Lumineon"
+    "Name": "Lumineon",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "458",
-    "Name": "Mantyke"
+    "Name": "Mantyke",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Number": "459",
-    "Name": "Snover"
+    "Name": "Snover",
+    "Type 1": "Grass",
+    "Type 2": "Ice"
   },
   {
     "Number": "460",
-    "Name": "Abomasnow"
+    "Name": "Abomasnow",
+    "Type 1": "Grass",
+    "Type 2": "Ice"
   },
   {
     "Number": "461",
-    "Name": "Weavile"
+    "Name": "Weavile",
+    "Type 1": "Dark",
+    "Type 2": "Ice"
   },
   {
     "Number": "462",
-    "Name": "Magnezone"
+    "Name": "Magnezone",
+    "Type 1": "Electric",
+    "Type 2": "Steel"
   },
   {
     "Number": "463",
-    "Name": "Lickilicky"
+    "Name": "Lickilicky",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "464",
-    "Name": "Rhyperior"
+    "Name": "Rhyperior",
+    "Type 1": "Ground",
+    "Type 2": "Rock"
   },
   {
     "Number": "465",
-    "Name": "Tangrowth"
+    "Name": "Tangrowth",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "466",
-    "Name": "Electivire"
+    "Name": "Electivire",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "467",
-    "Name": "Magmortar"
+    "Name": "Magmortar",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "468",
-    "Name": "Togekiss"
+    "Name": "Togekiss",
+    "Type 1": "Fairy",
+    "Type 2": "Flying"
   },
   {
     "Number": "469",
-    "Name": "Yanmega"
+    "Name": "Yanmega",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "470",
-    "Name": "Leafeon"
+    "Name": "Leafeon",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "471",
-    "Name": "Glaceon"
+    "Name": "Glaceon",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "472",
-    "Name": "Gliscor"
+    "Name": "Gliscor",
+    "Type 1": "Ground",
+    "Type 2": "Flying"
   },
   {
     "Number": "473",
-    "Name": "Mamoswine"
+    "Name": "Mamoswine",
+    "Type 1": "Ice",
+    "Type 2": "Ground"
   },
   {
     "Number": "474",
-    "Name": "Porygon-Z"
+    "Name": "Porygon-Z",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "475",
-    "Name": "Gallade"
+    "Name": "Gallade",
+    "Type 1": "Psychic",
+    "Type 2": "Fighting"
   },
   {
     "Number": "476",
-    "Name": "Probopass"
+    "Name": "Probopass",
+    "Type 1": "Rock",
+    "Type 2": "Steel"
   },
   {
     "Number": "477",
-    "Name": "Dusknoir"
+    "Name": "Dusknoir",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "478",
-    "Name": "Froslass"
+    "Name": "Froslass",
+    "Type 1": "Ice",
+    "Type 2": "Ghost"
   },
   {
     "Number": "479",
-    "Name": "Rotom"
+    "Name": "Rotom",
+    "Type 1": "Electric",
+    "Type 2": "Ghost"
   },
   {
     "Number": "480",
-    "Name": "Uxie"
+    "Name": "Uxie",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "481",
-    "Name": "Mesprit"
+    "Name": "Mesprit",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "482",
-    "Name": "Azelf"
+    "Name": "Azelf",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "483",
-    "Name": "Dialga"
+    "Name": "Dialga",
+    "Type 1": "Steel",
+    "Type 2": "Dragon"
   },
   {
     "Number": "484",
-    "Name": "Palkia"
+    "Name": "Palkia",
+    "Type 1": "Water",
+    "Type 2": "Dragon"
   },
   {
     "Number": "485",
-    "Name": "Heatran"
+    "Name": "Heatran",
+    "Type 1": "Fire",
+    "Type 2": "Steel"
   },
   {
     "Number": "486",
-    "Name": "Regigigas"
+    "Name": "Regigigas",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "487",
-    "Name": "Giratina"
+    "Name": "Giratina",
+    "Type 1": "Ghost",
+    "Type 2": "Dragon"
   },
   {
     "Number": "488",
-    "Name": "Cresselia"
+    "Name": "Cresselia",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "489",
-    "Name": "Phione"
+    "Name": "Phione",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "490",
-    "Name": "Manaphy"
+    "Name": "Manaphy",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "491",
-    "Name": "Darkrai"
+    "Name": "Darkrai",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "492",
-    "Name": "Shaymin"
+    "Name": "Shaymin",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "493",
-    "Name": "Arceus"
+    "Name": "Arceus",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "494",
-    "Name": "Victini"
+    "Name": "Victini",
+    "Type 1": "Psychic",
+    "Type 2": "Fire"
   },
   {
     "Number": "495",
-    "Name": "Snivy"
+    "Name": "Snivy",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "496",
-    "Name": "Servine"
+    "Name": "Servine",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "497",
-    "Name": "Serperior"
+    "Name": "Serperior",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "498",
-    "Name": "Tepig"
+    "Name": "Tepig",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "499",
-    "Name": "Pignite"
+    "Name": "Pignite",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Number": "500",
-    "Name": "Emboar"
+    "Name": "Emboar",
+    "Type 1": "Fire",
+    "Type 2": "Fighting"
   },
   {
     "Number": "501",
-    "Name": "Oshawott"
+    "Name": "Oshawott",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "502",
-    "Name": "Dewott"
+    "Name": "Dewott",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "503",
-    "Name": "Samurott"
+    "Name": "Samurott",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "504",
-    "Name": "Patrat"
+    "Name": "Patrat",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "505",
-    "Name": "Watchog"
+    "Name": "Watchog",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "506",
-    "Name": "Lillipup"
+    "Name": "Lillipup",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "507",
-    "Name": "Herdier"
+    "Name": "Herdier",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "508",
-    "Name": "Stoutland"
+    "Name": "Stoutland",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "509",
-    "Name": "Purrloin"
+    "Name": "Purrloin",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "510",
-    "Name": "Liepard"
+    "Name": "Liepard",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "511",
-    "Name": "Pansage"
+    "Name": "Pansage",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "512",
-    "Name": "Simisage"
+    "Name": "Simisage",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "513",
-    "Name": "Pansear"
+    "Name": "Pansear",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "514",
-    "Name": "Simisear"
+    "Name": "Simisear",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "515",
-    "Name": "Panpour"
+    "Name": "Panpour",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "516",
-    "Name": "Simipour"
+    "Name": "Simipour",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "517",
-    "Name": "Munna"
+    "Name": "Munna",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "518",
-    "Name": "Musharna"
+    "Name": "Musharna",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "519",
-    "Name": "Pidove"
+    "Name": "Pidove",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "520",
-    "Name": "Tranquill"
+    "Name": "Tranquill",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "521",
-    "Name": "Unfezant"
+    "Name": "Unfezant",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "522",
-    "Name": "Blitzle"
+    "Name": "Blitzle",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "523",
-    "Name": "Zebstrika"
+    "Name": "Zebstrika",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "524",
-    "Name": "Roggenrola"
+    "Name": "Roggenrola",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "525",
-    "Name": "Boldore"
+    "Name": "Boldore",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "526",
-    "Name": "Gigalith"
+    "Name": "Gigalith",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "527",
-    "Name": "Woobat"
+    "Name": "Woobat",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Number": "528",
-    "Name": "Swoobat"
+    "Name": "Swoobat",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Number": "529",
-    "Name": "Drilbur"
+    "Name": "Drilbur",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "530",
-    "Name": "Excadrill"
+    "Name": "Excadrill",
+    "Type 1": "Ground",
+    "Type 2": "Steel"
   },
   {
     "Number": "531",
-    "Name": "Audino"
+    "Name": "Audino",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "532",
-    "Name": "Timburr"
+    "Name": "Timburr",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "533",
-    "Name": "Gurdurr"
+    "Name": "Gurdurr",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "534",
-    "Name": "Conkeldurr"
+    "Name": "Conkeldurr",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "535",
-    "Name": "Tympole"
+    "Name": "Tympole",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "536",
-    "Name": "Palpitoad"
+    "Name": "Palpitoad",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Number": "537",
-    "Name": "Seismitoad"
+    "Name": "Seismitoad",
+    "Type 1": "Water",
+    "Type 2": "Ground"
   },
   {
     "Number": "538",
-    "Name": "Throh"
+    "Name": "Throh",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "539",
-    "Name": "Sawk"
+    "Name": "Sawk",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "540",
-    "Name": "Sewaddle"
+    "Name": "Sewaddle",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Number": "541",
-    "Name": "Swadloon"
+    "Name": "Swadloon",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Number": "542",
-    "Name": "Leavanny"
+    "Name": "Leavanny",
+    "Type 1": "Bug",
+    "Type 2": "Grass"
   },
   {
     "Number": "543",
-    "Name": "Venipede"
+    "Name": "Venipede",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "544",
-    "Name": "Whirlipede"
+    "Name": "Whirlipede",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "545",
-    "Name": "Scolipede"
+    "Name": "Scolipede",
+    "Type 1": "Bug",
+    "Type 2": "Poison"
   },
   {
     "Number": "546",
-    "Name": "Cottonee"
+    "Name": "Cottonee",
+    "Type 1": "Grass",
+    "Type 2": "Fairy"
   },
   {
     "Number": "547",
-    "Name": "Whimsicott"
+    "Name": "Whimsicott",
+    "Type 1": "Grass",
+    "Type 2": "Fairy"
   },
   {
     "Number": "548",
-    "Name": "Petilil"
+    "Name": "Petilil",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "549",
-    "Name": "Lilligant"
+    "Name": "Lilligant",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "550",
-    "Name": "Basculin"
+    "Name": "Basculin",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "551",
-    "Name": "Sandile"
+    "Name": "Sandile",
+    "Type 1": "Ground",
+    "Type 2": "Dark"
   },
   {
     "Number": "552",
-    "Name": "Krokorok"
+    "Name": "Krokorok",
+    "Type 1": "Ground",
+    "Type 2": "Dark"
   },
   {
     "Number": "553",
-    "Name": "Krookodile"
+    "Name": "Krookodile",
+    "Type 1": "Ground",
+    "Type 2": "Dark"
   },
   {
     "Number": "554",
-    "Name": "Darumaka"
+    "Name": "Darumaka",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "555",
-    "Name": "Darmanitan"
+    "Name": "Darmanitan",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "556",
-    "Name": "Maractus"
+    "Name": "Maractus",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "557",
-    "Name": "Dwebble"
+    "Name": "Dwebble",
+    "Type 1": "Bug",
+    "Type 2": "Rock"
   },
   {
     "Number": "558",
-    "Name": "Crustle"
+    "Name": "Crustle",
+    "Type 1": "Bug",
+    "Type 2": "Rock"
   },
   {
     "Number": "559",
-    "Name": "Scraggy"
+    "Name": "Scraggy",
+    "Type 1": "Dark",
+    "Type 2": "Fighting"
   },
   {
     "Number": "560",
-    "Name": "Scrafty"
+    "Name": "Scrafty",
+    "Type 1": "Dark",
+    "Type 2": "Fighting"
   },
   {
     "Number": "561",
-    "Name": "Sigilyph"
+    "Name": "Sigilyph",
+    "Type 1": "Psychic",
+    "Type 2": "Flying"
   },
   {
     "Number": "562",
-    "Name": "Yamask"
+    "Name": "Yamask",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "563",
-    "Name": "Cofagrigus"
+    "Name": "Cofagrigus",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "564",
-    "Name": "Tirtouga"
+    "Name": "Tirtouga",
+    "Type 1": "Water",
+    "Type 2": "Rock"
   },
   {
     "Number": "565",
-    "Name": "Carracosta"
+    "Name": "Carracosta",
+    "Type 1": "Water",
+    "Type 2": "Rock"
   },
   {
     "Number": "566",
-    "Name": "Archen"
+    "Name": "Archen",
+    "Type 1": "Rock",
+    "Type 2": "Flying"
   },
   {
     "Number": "567",
-    "Name": "Archeops"
+    "Name": "Archeops",
+    "Type 1": "Rock",
+    "Type 2": "Flying"
   },
   {
     "Number": "568",
-    "Name": "Trubbish"
+    "Name": "Trubbish",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "569",
-    "Name": "Garbodor"
+    "Name": "Garbodor",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "570",
-    "Name": "Zorua"
+    "Name": "Zorua",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "571",
-    "Name": "Zoroark"
+    "Name": "Zoroark",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "572",
-    "Name": "Minccino"
+    "Name": "Minccino",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "573",
-    "Name": "Cinccino"
+    "Name": "Cinccino",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "574",
-    "Name": "Gothita"
+    "Name": "Gothita",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "575",
-    "Name": "Gothorita"
+    "Name": "Gothorita",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "576",
-    "Name": "Gothitelle"
+    "Name": "Gothitelle",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "577",
-    "Name": "Solosis"
+    "Name": "Solosis",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "578",
-    "Name": "Duosion"
+    "Name": "Duosion",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "579",
-    "Name": "Reuniclus"
+    "Name": "Reuniclus",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "580",
-    "Name": "Ducklett"
+    "Name": "Ducklett",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Number": "581",
-    "Name": "Swanna"
+    "Name": "Swanna",
+    "Type 1": "Water",
+    "Type 2": "Flying"
   },
   {
     "Number": "582",
-    "Name": "Vanillite"
+    "Name": "Vanillite",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "583",
-    "Name": "Vanillish"
+    "Name": "Vanillish",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "584",
-    "Name": "Vanilluxe"
+    "Name": "Vanilluxe",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "585",
-    "Name": "Deerling"
+    "Name": "Deerling",
+    "Type 1": "Normal",
+    "Type 2": "Grass"
   },
   {
     "Number": "586",
-    "Name": "Sawsbuck"
+    "Name": "Sawsbuck",
+    "Type 1": "Normal",
+    "Type 2": "Grass"
   },
   {
     "Number": "587",
-    "Name": "Emolga"
+    "Name": "Emolga",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Number": "588",
-    "Name": "Karrablast"
+    "Name": "Karrablast",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "589",
-    "Name": "Escavalier"
+    "Name": "Escavalier",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Number": "590",
-    "Name": "Foongus"
+    "Name": "Foongus",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "591",
-    "Name": "Amoonguss"
+    "Name": "Amoonguss",
+    "Type 1": "Grass",
+    "Type 2": "Poison"
   },
   {
     "Number": "592",
-    "Name": "Frillish"
+    "Name": "Frillish",
+    "Type 1": "Water",
+    "Type 2": "Ghost"
   },
   {
     "Number": "593",
-    "Name": "Jellicent"
+    "Name": "Jellicent",
+    "Type 1": "Water",
+    "Type 2": "Ghost"
   },
   {
     "Number": "594",
-    "Name": "Alomomola"
+    "Name": "Alomomola",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "595",
-    "Name": "Joltik"
+    "Name": "Joltik",
+    "Type 1": "Bug",
+    "Type 2": "Electric"
   },
   {
     "Number": "596",
-    "Name": "Galvantula"
+    "Name": "Galvantula",
+    "Type 1": "Bug",
+    "Type 2": "Electric"
   },
   {
     "Number": "597",
-    "Name": "Ferroseed"
+    "Name": "Ferroseed",
+    "Type 1": "Grass",
+    "Type 2": "Steel"
   },
   {
     "Number": "598",
-    "Name": "Ferrothorn"
+    "Name": "Ferrothorn",
+    "Type 1": "Grass",
+    "Type 2": "Steel"
   },
   {
     "Number": "599",
-    "Name": "Klink"
+    "Name": "Klink",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Number": "600",
-    "Name": "Klang"
+    "Name": "Klang",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Number": "601",
-    "Name": "Klinklang"
+    "Name": "Klinklang",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Number": "602",
-    "Name": "Tynamo"
+    "Name": "Tynamo",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "603",
-    "Name": "Eelektrik"
+    "Name": "Eelektrik",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "604",
-    "Name": "Eelektross"
+    "Name": "Eelektross",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "605",
-    "Name": "Elgyem"
+    "Name": "Elgyem",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "606",
-    "Name": "Beheeyem"
+    "Name": "Beheeyem",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "607",
-    "Name": "Litwick"
+    "Name": "Litwick",
+    "Type 1": "Ghost",
+    "Type 2": "Fire"
   },
   {
     "Number": "608",
-    "Name": "Lampent"
+    "Name": "Lampent",
+    "Type 1": "Ghost",
+    "Type 2": "Fire"
   },
   {
     "Number": "609",
-    "Name": "Chandelure"
+    "Name": "Chandelure",
+    "Type 1": "Ghost",
+    "Type 2": "Fire"
   },
   {
     "Number": "610",
-    "Name": "Axew"
+    "Name": "Axew",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "611",
-    "Name": "Fraxure"
+    "Name": "Fraxure",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "612",
-    "Name": "Haxorus"
+    "Name": "Haxorus",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "613",
-    "Name": "Cubchoo"
+    "Name": "Cubchoo",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "614",
-    "Name": "Beartic"
+    "Name": "Beartic",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "615",
-    "Name": "Cryogonal"
+    "Name": "Cryogonal",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "616",
-    "Name": "Shelmet"
+    "Name": "Shelmet",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "617",
-    "Name": "Accelgor"
+    "Name": "Accelgor",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "618",
-    "Name": "Stunfisk"
+    "Name": "Stunfisk",
+    "Type 1": "Ground",
+    "Type 2": "Electric"
   },
   {
     "Number": "619",
-    "Name": "Mienfoo"
+    "Name": "Mienfoo",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "620",
-    "Name": "Mienshao"
+    "Name": "Mienshao",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "621",
-    "Name": "Druddigon"
+    "Name": "Druddigon",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "622",
-    "Name": "Golett"
+    "Name": "Golett",
+    "Type 1": "Ground",
+    "Type 2": "Ghost"
   },
   {
     "Number": "623",
-    "Name": "Golurk"
+    "Name": "Golurk",
+    "Type 1": "Ground",
+    "Type 2": "Ghost"
   },
   {
     "Number": "624",
-    "Name": "Pawniard"
+    "Name": "Pawniard",
+    "Type 1": "Dark",
+    "Type 2": "Steel"
   },
   {
     "Number": "625",
-    "Name": "Bisharp"
+    "Name": "Bisharp",
+    "Type 1": "Dark",
+    "Type 2": "Steel"
   },
   {
     "Number": "626",
-    "Name": "Bouffalant"
+    "Name": "Bouffalant",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "627",
-    "Name": "Rufflet"
+    "Name": "Rufflet",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "628",
-    "Name": "Braviary"
+    "Name": "Braviary",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "629",
-    "Name": "Vullaby"
+    "Name": "Vullaby",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Number": "630",
-    "Name": "Mandibuzz"
+    "Name": "Mandibuzz",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Number": "631",
-    "Name": "Heatmor"
+    "Name": "Heatmor",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "632",
-    "Name": "Durant"
+    "Name": "Durant",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Number": "633",
-    "Name": "Deino"
+    "Name": "Deino",
+    "Type 1": "Dark",
+    "Type 2": "Dragon"
   },
   {
     "Number": "634",
-    "Name": "Zweilous"
+    "Name": "Zweilous",
+    "Type 1": "Dark",
+    "Type 2": "Dragon"
   },
   {
     "Number": "635",
-    "Name": "Hydreigon"
+    "Name": "Hydreigon",
+    "Type 1": "Dark",
+    "Type 2": "Dragon"
   },
   {
     "Number": "636",
-    "Name": "Larvesta"
+    "Name": "Larvesta",
+    "Type 1": "Bug",
+    "Type 2": "Fire"
   },
   {
     "Number": "637",
-    "Name": "Volcarona"
+    "Name": "Volcarona",
+    "Type 1": "Bug",
+    "Type 2": "Fire"
   },
   {
     "Number": "638",
-    "Name": "Cobalion"
+    "Name": "Cobalion",
+    "Type 1": "Steel",
+    "Type 2": "Fighting"
   },
   {
     "Number": "639",
-    "Name": "Terrakion"
+    "Name": "Terrakion",
+    "Type 1": "Rock",
+    "Type 2": "Fighting"
   },
   {
     "Number": "640",
-    "Name": "Virizion"
+    "Name": "Virizion",
+    "Type 1": "Grass",
+    "Type 2": "Fighting"
   },
   {
     "Number": "641",
-    "Name": "Tornadus"
+    "Name": "Tornadus",
+    "Type 1": "Flying",
+    "Type 2": ""
   },
   {
     "Number": "642",
-    "Name": "Thundurus"
+    "Name": "Thundurus",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Number": "643",
-    "Name": "Reshiram"
+    "Name": "Reshiram",
+    "Type 1": "Dragon",
+    "Type 2": "Fire"
   },
   {
     "Number": "644",
-    "Name": "Zekrom"
+    "Name": "Zekrom",
+    "Type 1": "Dragon",
+    "Type 2": "Electric"
   },
   {
     "Number": "645",
-    "Name": "Landorus"
+    "Name": "Landorus",
+    "Type 1": "Ground",
+    "Type 2": "Flying"
   },
   {
     "Number": "646",
-    "Name": "Kyurem"
+    "Name": "Kyurem",
+    "Type 1": "Dragon",
+    "Type 2": "Ice"
   },
   {
     "Number": "647",
-    "Name": "Keldeo"
+    "Name": "Keldeo",
+    "Type 1": "Water",
+    "Type 2": "Fighting"
   },
   {
     "Number": "648",
-    "Name": "Meloetta"
+    "Name": "Meloetta",
+    "Type 1": "Normal",
+    "Type 2": "Psychic"
   },
   {
     "Number": "649",
-    "Name": "Genesect"
+    "Name": "Genesect",
+    "Type 1": "Bug",
+    "Type 2": "Steel"
   },
   {
     "Number": "650",
-    "Name": "Chespin"
+    "Name": "Chespin",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "651",
-    "Name": "Quilladin"
+    "Name": "Quilladin",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "652",
-    "Name": "Chesnaught"
+    "Name": "Chesnaught",
+    "Type 1": "Grass",
+    "Type 2": "Fighting"
   },
   {
     "Number": "653",
-    "Name": "Fennekin"
+    "Name": "Fennekin",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "654",
-    "Name": "Braixen"
+    "Name": "Braixen",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "655",
-    "Name": "Delphox"
+    "Name": "Delphox",
+    "Type 1": "Fire",
+    "Type 2": "Psychic"
   },
   {
     "Number": "656",
-    "Name": "Froakie"
+    "Name": "Froakie",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "657",
-    "Name": "Frogadier"
+    "Name": "Frogadier",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "658",
-    "Name": "Greninja"
+    "Name": "Greninja",
+    "Type 1": "Water",
+    "Type 2": "Dark"
   },
   {
     "Number": "659",
-    "Name": "Bunnelby"
+    "Name": "Bunnelby",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "660",
-    "Name": "Diggersby"
+    "Name": "Diggersby",
+    "Type 1": "Normal",
+    "Type 2": "Ground"
   },
   {
     "Number": "661",
-    "Name": "Fletchling"
+    "Name": "Fletchling",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "662",
-    "Name": "Fletchinder"
+    "Name": "Fletchinder",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Number": "663",
-    "Name": "Talonflame"
+    "Name": "Talonflame",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Number": "664",
-    "Name": "Scatterbug"
+    "Name": "Scatterbug",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "665",
-    "Name": "Spewpa"
+    "Name": "Spewpa",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "666",
-    "Name": "Vivillon"
+    "Name": "Vivillon",
+    "Type 1": "Bug",
+    "Type 2": "Flying"
   },
   {
     "Number": "667",
-    "Name": "Litleo"
+    "Name": "Litleo",
+    "Type 1": "Fire",
+    "Type 2": "Normal"
   },
   {
     "Number": "668",
-    "Name": "Pyroar"
+    "Name": "Pyroar",
+    "Type 1": "Fire",
+    "Type 2": "Normal"
   },
   {
     "Number": "669",
-    "Name": "Flabébé"
+    "Name": "Flabébé",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "670",
-    "Name": "Floette"
+    "Name": "Floette",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "671",
-    "Name": "Florges"
+    "Name": "Florges",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "672",
-    "Name": "Skiddo"
+    "Name": "Skiddo",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "673",
-    "Name": "Gogoat"
+    "Name": "Gogoat",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "674",
-    "Name": "Pancham"
+    "Name": "Pancham",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "675",
-    "Name": "Pangoro"
+    "Name": "Pangoro",
+    "Type 1": "Fighting",
+    "Type 2": "Dark"
   },
   {
     "Number": "676",
-    "Name": "Furfrou"
+    "Name": "Furfrou",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "677",
-    "Name": "Espurr"
+    "Name": "Espurr",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "678",
-    "Name": "Meowstic"
+    "Name": "Meowstic",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "679",
-    "Name": "Honedge"
+    "Name": "Honedge",
+    "Type 1": "Steel",
+    "Type 2": "Ghost"
   },
   {
     "Number": "680",
-    "Name": "Doublade"
+    "Name": "Doublade",
+    "Type 1": "Steel",
+    "Type 2": "Ghost"
   },
   {
     "Number": "681",
-    "Name": "Aegislash"
+    "Name": "Aegislash",
+    "Type 1": "Steel",
+    "Type 2": "Ghost"
   },
   {
     "Number": "682",
-    "Name": "Spritzee"
+    "Name": "Spritzee",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "683",
-    "Name": "Aromatisse"
+    "Name": "Aromatisse",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "684",
-    "Name": "Swirlix"
+    "Name": "Swirlix",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "685",
-    "Name": "Slurpuff"
+    "Name": "Slurpuff",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "686",
-    "Name": "Inkay"
+    "Name": "Inkay",
+    "Type 1": "Dark",
+    "Type 2": "Psychic"
   },
   {
     "Number": "687",
-    "Name": "Malamar"
+    "Name": "Malamar",
+    "Type 1": "Dark",
+    "Type 2": "Psychic"
   },
   {
     "Number": "688",
-    "Name": "Binacle"
+    "Name": "Binacle",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Number": "689",
-    "Name": "Barbaracle"
+    "Name": "Barbaracle",
+    "Type 1": "Rock",
+    "Type 2": "Water"
   },
   {
     "Number": "690",
-    "Name": "Skrelp"
+    "Name": "Skrelp",
+    "Type 1": "Poison",
+    "Type 2": "Water"
   },
   {
     "Number": "691",
-    "Name": "Dragalge"
+    "Name": "Dragalge",
+    "Type 1": "Poison",
+    "Type 2": "Dragon"
   },
   {
     "Number": "692",
-    "Name": "Clauncher"
+    "Name": "Clauncher",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "693",
-    "Name": "Clawitzer"
+    "Name": "Clawitzer",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "694",
-    "Name": "Helioptile"
+    "Name": "Helioptile",
+    "Type 1": "Electric",
+    "Type 2": "Normal"
   },
   {
     "Number": "695",
-    "Name": "Heliolisk"
+    "Name": "Heliolisk",
+    "Type 1": "Electric",
+    "Type 2": "Normal"
   },
   {
     "Number": "696",
-    "Name": "Tyrunt"
+    "Name": "Tyrunt",
+    "Type 1": "Rock",
+    "Type 2": "Dragon"
   },
   {
     "Number": "697",
-    "Name": "Tyrantrum"
+    "Name": "Tyrantrum",
+    "Type 1": "Rock",
+    "Type 2": "Dragon"
   },
   {
     "Number": "698",
-    "Name": "Amaura"
+    "Name": "Amaura",
+    "Type 1": "Rock",
+    "Type 2": "Ice"
   },
   {
     "Number": "699",
-    "Name": "Aurorus"
+    "Name": "Aurorus",
+    "Type 1": "Rock",
+    "Type 2": "Ice"
   },
   {
     "Number": "700",
-    "Name": "Sylveon"
+    "Name": "Sylveon",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "701",
-    "Name": "Hawlucha"
+    "Name": "Hawlucha",
+    "Type 1": "Fighting",
+    "Type 2": "Flying"
   },
   {
     "Number": "702",
-    "Name": "Dedenne"
+    "Name": "Dedenne",
+    "Type 1": "Electric",
+    "Type 2": "Fairy"
   },
   {
     "Number": "703",
-    "Name": "Carbink"
+    "Name": "Carbink",
+    "Type 1": "Rock",
+    "Type 2": "Fairy"
   },
   {
     "Number": "704",
-    "Name": "Goomy"
+    "Name": "Goomy",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "705",
-    "Name": "Sliggoo"
+    "Name": "Sliggoo",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "706",
-    "Name": "Goodra"
+    "Name": "Goodra",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "707",
-    "Name": "Klefki"
+    "Name": "Klefki",
+    "Type 1": "Steel",
+    "Type 2": "Fairy"
   },
   {
     "Number": "708",
-    "Name": "Phantump"
+    "Name": "Phantump",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Number": "709",
-    "Name": "Trevenant"
+    "Name": "Trevenant",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Number": "710",
-    "Name": "Pumpkaboo"
+    "Name": "Pumpkaboo",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Number": "711",
-    "Name": "Gourgeist"
+    "Name": "Gourgeist",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Number": "712",
-    "Name": "Bergmite"
+    "Name": "Bergmite",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "713",
-    "Name": "Avalugg"
+    "Name": "Avalugg",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "714",
-    "Name": "Noibat"
+    "Name": "Noibat",
+    "Type 1": "Flying",
+    "Type 2": "Dragon"
   },
   {
     "Number": "715",
-    "Name": "Noivern"
+    "Name": "Noivern",
+    "Type 1": "Flying",
+    "Type 2": "Dragon"
   },
   {
     "Number": "716",
-    "Name": "Xerneas"
+    "Name": "Xerneas",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "717",
-    "Name": "Yveltal"
+    "Name": "Yveltal",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Number": "718",
-    "Name": "Zygarde"
+    "Name": "Zygarde",
+    "Type 1": "Dragon",
+    "Type 2": "Ground"
   },
   {
     "Number": "719",
-    "Name": "Diancie"
+    "Name": "Diancie",
+    "Type 1": "Rock",
+    "Type 2": "Fairy"
   },
   {
     "Number": "720",
-    "Name": "Hoopa"
+    "Name": "Hoopa",
+    "Type 1": "Psychic",
+    "Type 2": "Ghost"
   },
   {
     "Number": "721",
-    "Name": "Volcanion"
+    "Name": "Volcanion",
+    "Type 1": "Fire",
+    "Type 2": "Water"
   },
   {
     "Number": "722",
-    "Name": "Rowlet"
+    "Name": "Rowlet",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Number": "723",
-    "Name": "Dartrix"
+    "Name": "Dartrix",
+    "Type 1": "Grass",
+    "Type 2": "Flying"
   },
   {
     "Number": "724",
-    "Name": "Decidueye"
+    "Name": "Decidueye",
+    "Type 1": "Grass",
+    "Type 2": "Ghost"
   },
   {
     "Number": "725",
-    "Name": "Litten"
+    "Name": "Litten",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "726",
-    "Name": "Torracat"
+    "Name": "Torracat",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "727",
-    "Name": "Incineroar"
+    "Name": "Incineroar",
+    "Type 1": "Fire",
+    "Type 2": "Dark"
   },
   {
     "Number": "728",
-    "Name": "Popplio"
+    "Name": "Popplio",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "729",
-    "Name": "Brionne"
+    "Name": "Brionne",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "730",
-    "Name": "Primarina"
+    "Name": "Primarina",
+    "Type 1": "Water",
+    "Type 2": "Fairy"
   },
   {
     "Number": "731",
-    "Name": "Pikipek"
+    "Name": "Pikipek",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "732",
-    "Name": "Trumbeak"
+    "Name": "Trumbeak",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "733",
-    "Name": "Toucannon"
+    "Name": "Toucannon",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "734",
-    "Name": "Yungoos"
+    "Name": "Yungoos",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "735",
-    "Name": "Gumshoos"
+    "Name": "Gumshoos",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "736",
-    "Name": "Grubbin"
+    "Name": "Grubbin",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "737",
-    "Name": "Charjabug"
+    "Name": "Charjabug",
+    "Type 1": "Bug",
+    "Type 2": "Electric"
   },
   {
     "Number": "738",
-    "Name": "Vikavolt"
+    "Name": "Vikavolt",
+    "Type 1": "Bug",
+    "Type 2": "Electric"
   },
   {
     "Number": "739",
-    "Name": "Crabrawler"
+    "Name": "Crabrawler",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "740",
-    "Name": "Crabominable"
+    "Name": "Crabominable",
+    "Type 1": "Fighting",
+    "Type 2": "Ice"
   },
   {
     "Number": "741",
-    "Name": "Oricorio"
+    "Name": "Oricorio",
+    "Type 1": "Fire",
+    "Type 2": "Flying"
   },
   {
     "Number": "742",
-    "Name": "Cutiefly"
+    "Name": "Cutiefly",
+    "Type 1": "Bug",
+    "Type 2": "Fairy"
   },
   {
     "Number": "743",
-    "Name": "Ribombee"
+    "Name": "Ribombee",
+    "Type 1": "Bug",
+    "Type 2": "Fairy"
   },
   {
     "Number": "744",
-    "Name": "Rockruff"
+    "Name": "Rockruff",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "745",
-    "Name": "Lycanroc"
+    "Name": "Lycanroc",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "746",
-    "Name": "Wishiwashi"
+    "Name": "Wishiwashi",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "747",
-    "Name": "Mareanie"
+    "Name": "Mareanie",
+    "Type 1": "Poison",
+    "Type 2": "Water"
   },
   {
     "Number": "748",
-    "Name": "Toxapex"
+    "Name": "Toxapex",
+    "Type 1": "Poison",
+    "Type 2": "Water"
   },
   {
     "Number": "749",
-    "Name": "Mudbray"
+    "Name": "Mudbray",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "750",
-    "Name": "Mudsdale"
+    "Name": "Mudsdale",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "751",
-    "Name": "Dewpider"
+    "Name": "Dewpider",
+    "Type 1": "Water",
+    "Type 2": "Bug"
   },
   {
     "Number": "752",
-    "Name": "Araquanid"
+    "Name": "Araquanid",
+    "Type 1": "Water",
+    "Type 2": "Bug"
   },
   {
     "Number": "753",
-    "Name": "Fomantis"
+    "Name": "Fomantis",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "754",
-    "Name": "Lurantis"
+    "Name": "Lurantis",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "755",
-    "Name": "Morelull"
+    "Name": "Morelull",
+    "Type 1": "Grass",
+    "Type 2": "Fairy"
   },
   {
     "Number": "756",
-    "Name": "Shiinotic"
+    "Name": "Shiinotic",
+    "Type 1": "Grass",
+    "Type 2": "Fairy"
   },
   {
     "Number": "757",
-    "Name": "Salandit"
+    "Name": "Salandit",
+    "Type 1": "Poison",
+    "Type 2": "Fire"
   },
   {
     "Number": "758",
-    "Name": "Salazzle"
+    "Name": "Salazzle",
+    "Type 1": "Poison",
+    "Type 2": "Fire"
   },
   {
     "Number": "759",
-    "Name": "Stufful"
+    "Name": "Stufful",
+    "Type 1": "Normal",
+    "Type 2": "Fighting"
   },
   {
     "Number": "760",
-    "Name": "Bewear"
+    "Name": "Bewear",
+    "Type 1": "Normal",
+    "Type 2": "Fighting"
   },
   {
     "Number": "761",
-    "Name": "Bounsweet"
+    "Name": "Bounsweet",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "762",
-    "Name": "Steenee"
+    "Name": "Steenee",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "763",
-    "Name": "Tsareena"
+    "Name": "Tsareena",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "764",
-    "Name": "Comfey"
+    "Name": "Comfey",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "765",
-    "Name": "Oranguru"
+    "Name": "Oranguru",
+    "Type 1": "Normal",
+    "Type 2": "Psychic"
   },
   {
     "Number": "766",
-    "Name": "Passimian"
+    "Name": "Passimian",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "767",
-    "Name": "Wimpod"
+    "Name": "Wimpod",
+    "Type 1": "Bug",
+    "Type 2": "Water"
   },
   {
     "Number": "768",
-    "Name": "Golisopod"
+    "Name": "Golisopod",
+    "Type 1": "Bug",
+    "Type 2": "Water"
   },
   {
     "Number": "769",
-    "Name": "Sandygast"
+    "Name": "Sandygast",
+    "Type 1": "Ghost",
+    "Type 2": "Ground"
   },
   {
     "Number": "770",
-    "Name": "Palossand"
+    "Name": "Palossand",
+    "Type 1": "Ghost",
+    "Type 2": "Ground"
   },
   {
     "Number": "771",
-    "Name": "Pyukumuku"
+    "Name": "Pyukumuku",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "772",
-    "Name": "Type: Null"
+    "Name": "Type: Null",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "773",
-    "Name": "Silvally"
+    "Name": "Silvally",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "774",
-    "Name": "Minior"
+    "Name": "Minior",
+    "Type 1": "Rock",
+    "Type 2": "Flying"
   },
   {
     "Number": "775",
-    "Name": "Komala"
+    "Name": "Komala",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "776",
-    "Name": "Turtonator"
+    "Name": "Turtonator",
+    "Type 1": "Fire",
+    "Type 2": "Dragon"
   },
   {
     "Number": "777",
-    "Name": "Togedemaru"
+    "Name": "Togedemaru",
+    "Type 1": "Electric",
+    "Type 2": "Steel"
   },
   {
     "Number": "778",
-    "Name": "Mimikyu"
+    "Name": "Mimikyu",
+    "Type 1": "Ghost",
+    "Type 2": "Fairy"
   },
   {
     "Number": "779",
-    "Name": "Bruxish"
+    "Name": "Bruxish",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Number": "780",
-    "Name": "Drampa"
+    "Name": "Drampa",
+    "Type 1": "Normal",
+    "Type 2": "Dragon"
   },
   {
     "Number": "781",
-    "Name": "Dhelmise"
+    "Name": "Dhelmise",
+    "Type 1": "Ghost",
+    "Type 2": "Grass"
   },
   {
     "Number": "782",
-    "Name": "Jangmo-o"
+    "Name": "Jangmo-o",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "783",
-    "Name": "Hakamo-o"
+    "Name": "Hakamo-o",
+    "Type 1": "Dragon",
+    "Type 2": "Fighting"
   },
   {
     "Number": "784",
-    "Name": "Kommo-o"
+    "Name": "Kommo-o",
+    "Type 1": "Dragon",
+    "Type 2": "Fighting"
   },
   {
     "Number": "785",
-    "Name": "Tapu Koko"
+    "Name": "Tapu Koko",
+    "Type 1": "Electric",
+    "Type 2": "Fairy"
   },
   {
     "Number": "786",
-    "Name": "Tapu Lele"
+    "Name": "Tapu Lele",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Number": "787",
-    "Name": "Tapu Bulu"
+    "Name": "Tapu Bulu",
+    "Type 1": "Grass",
+    "Type 2": "Fairy"
   },
   {
     "Number": "788",
-    "Name": "Tapu Fini"
+    "Name": "Tapu Fini",
+    "Type 1": "Water",
+    "Type 2": "Fairy"
   },
   {
     "Number": "789",
-    "Name": "Cosmog"
+    "Name": "Cosmog",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "790",
-    "Name": "Cosmoem"
+    "Name": "Cosmoem",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "791",
-    "Name": "Solgaleo"
+    "Name": "Solgaleo",
+    "Type 1": "Psychic",
+    "Type 2": "Steel"
   },
   {
     "Number": "792",
-    "Name": "Lunala"
+    "Name": "Lunala",
+    "Type 1": "Psychic",
+    "Type 2": "Ghost"
   },
   {
     "Number": "793",
-    "Name": "Nihilego"
+    "Name": "Nihilego",
+    "Type 1": "Rock",
+    "Type 2": "Poison"
   },
   {
     "Number": "794",
-    "Name": "Buzzwole"
+    "Name": "Buzzwole",
+    "Type 1": "Bug",
+    "Type 2": "Fighting"
   },
   {
     "Number": "795",
-    "Name": "Pheromosa"
+    "Name": "Pheromosa",
+    "Type 1": "Bug",
+    "Type 2": "Fighting"
   },
   {
     "Number": "796",
-    "Name": "Xurkitree"
+    "Name": "Xurkitree",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "797",
-    "Name": "Celesteela"
+    "Name": "Celesteela",
+    "Type 1": "Steel",
+    "Type 2": "Flying"
   },
   {
     "Number": "798",
-    "Name": "Kartana"
+    "Name": "Kartana",
+    "Type 1": "Grass",
+    "Type 2": "Steel"
   },
   {
     "Number": "799",
-    "Name": "Guzzlord"
+    "Name": "Guzzlord",
+    "Type 1": "Dark",
+    "Type 2": "Dragon"
   },
   {
     "Number": "800",
-    "Name": "Necrozma"
+    "Name": "Necrozma",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "801",
-    "Name": "Magearna"
+    "Name": "Magearna",
+    "Type 1": "Steel",
+    "Type 2": "Fairy"
   },
   {
     "Number": "802",
-    "Name": "Marshadow"
+    "Name": "Marshadow",
+    "Type 1": "Fighting",
+    "Type 2": "Ghost"
   },
   {
     "Number": "803",
-    "Name": "Poipole"
+    "Name": "Poipole",
+    "Type 1": "Poison",
+    "Type 2": ""
   },
   {
     "Number": "804",
-    "Name": "Naganadel"
+    "Name": "Naganadel",
+    "Type 1": "Poison",
+    "Type 2": "Dragon"
   },
   {
     "Number": "805",
-    "Name": "Stakataka"
+    "Name": "Stakataka",
+    "Type 1": "Rock",
+    "Type 2": "Steel"
   },
   {
     "Number": "806",
-    "Name": "Blacephalon"
+    "Name": "Blacephalon",
+    "Type 1": "Fire",
+    "Type 2": "Ghost"
   },
   {
     "Number": "807",
-    "Name": "Zeraora"
+    "Name": "Zeraora",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "808",
-    "Name": "Meltan"
+    "Name": "Meltan",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Number": "809",
-    "Name": "Melmetal"
+    "Name": "Melmetal",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Number": "810",
-    "Name": "Grookey"
+    "Name": "Grookey",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "811",
-    "Name": "Thwackey"
+    "Name": "Thwackey",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "812",
-    "Name": "Rillaboom"
+    "Name": "Rillaboom",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "813",
-    "Name": "Scorbunny"
+    "Name": "Scorbunny",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "814",
-    "Name": "Raboot"
+    "Name": "Raboot",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "815",
-    "Name": "Cinderace"
+    "Name": "Cinderace",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "816",
-    "Name": "Sobble"
+    "Name": "Sobble",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "817",
-    "Name": "Drizzile"
+    "Name": "Drizzile",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "818",
-    "Name": "Inteleon"
+    "Name": "Inteleon",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "819",
-    "Name": "Skwovet"
+    "Name": "Skwovet",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "820",
-    "Name": "Greedent"
+    "Name": "Greedent",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "821",
-    "Name": "Rookidee"
+    "Name": "Rookidee",
+    "Type 1": "Flying",
+    "Type 2": ""
   },
   {
     "Number": "822",
-    "Name": "Corvisquire"
+    "Name": "Corvisquire",
+    "Type 1": "Flying",
+    "Type 2": ""
   },
   {
     "Number": "823",
-    "Name": "Corviknight"
+    "Name": "Corviknight",
+    "Type 1": "Flying",
+    "Type 2": "Steel"
   },
   {
     "Number": "824",
-    "Name": "Blipbug"
+    "Name": "Blipbug",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "825",
-    "Name": "Dottler"
+    "Name": "Dottler",
+    "Type 1": "Bug",
+    "Type 2": "Psychic"
   },
   {
     "Number": "826",
-    "Name": "Orbeetle"
+    "Name": "Orbeetle",
+    "Type 1": "Bug",
+    "Type 2": "Psychic"
   },
   {
     "Number": "827",
-    "Name": "Nickit"
+    "Name": "Nickit",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "828",
-    "Name": "Thievul"
+    "Name": "Thievul",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "829",
-    "Name": "Gossifleur"
+    "Name": "Gossifleur",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "830",
-    "Name": "Eldegoss"
+    "Name": "Eldegoss",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "831",
-    "Name": "Wooloo"
+    "Name": "Wooloo",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "832",
-    "Name": "Dubwool"
+    "Name": "Dubwool",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "833",
-    "Name": "Chewtle"
+    "Name": "Chewtle",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "834",
-    "Name": "Drednaw"
+    "Name": "Drednaw",
+    "Type 1": "Water",
+    "Type 2": "Rock"
   },
   {
     "Number": "835",
-    "Name": "Yamper"
+    "Name": "Yamper",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "836",
-    "Name": "Boltund"
+    "Name": "Boltund",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "837",
-    "Name": "Rolycoly"
+    "Name": "Rolycoly",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "838",
-    "Name": "Carkol"
+    "Name": "Carkol",
+    "Type 1": "Rock",
+    "Type 2": "Fire"
   },
   {
     "Number": "839",
-    "Name": "Coalossal"
+    "Name": "Coalossal",
+    "Type 1": "Rock",
+    "Type 2": "Fire"
   },
   {
     "Number": "840",
-    "Name": "Applin"
+    "Name": "Applin",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Number": "841",
-    "Name": "Flapple"
+    "Name": "Flapple",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Number": "842",
-    "Name": "Appletun"
+    "Name": "Appletun",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Number": "843",
-    "Name": "Silicobra"
+    "Name": "Silicobra",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "844",
-    "Name": "Sandaconda"
+    "Name": "Sandaconda",
+    "Type 1": "Ground",
+    "Type 2": ""
   },
   {
     "Number": "845",
-    "Name": "Cramorant"
+    "Name": "Cramorant",
+    "Type 1": "Flying",
+    "Type 2": "Water"
   },
   {
     "Number": "846",
-    "Name": "Arrokuda"
+    "Name": "Arrokuda",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "847",
-    "Name": "Barraskewda"
+    "Name": "Barraskewda",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "848",
-    "Name": "Toxel"
+    "Name": "Toxel",
+    "Type 1": "Electric",
+    "Type 2": "Poison"
   },
   {
     "Number": "849",
-    "Name": "Toxtricity"
+    "Name": "Toxtricity",
+    "Type 1": "Electric",
+    "Type 2": "Poison"
   },
   {
     "Number": "850",
-    "Name": "Sizzlipede"
+    "Name": "Sizzlipede",
+    "Type 1": "Fire",
+    "Type 2": "Bug"
   },
   {
     "Number": "851",
-    "Name": "Centiskorch"
+    "Name": "Centiskorch",
+    "Type 1": "Fire",
+    "Type 2": "Bug"
   },
   {
     "Number": "852",
-    "Name": "Clobbopus"
+    "Name": "Clobbopus",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "853",
-    "Name": "Grapploct"
+    "Name": "Grapploct",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "854",
-    "Name": "Sinistea"
+    "Name": "Sinistea",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "855",
-    "Name": "Polteageist"
+    "Name": "Polteageist",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "856",
-    "Name": "Hatenna"
+    "Name": "Hatenna",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "857",
-    "Name": "Hattrem"
+    "Name": "Hattrem",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "858",
-    "Name": "Hatterene"
+    "Name": "Hatterene",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy"
   },
   {
     "Number": "859",
-    "Name": "Impidimp"
+    "Name": "Impidimp",
+    "Type 1": "Dark",
+    "Type 2": "Fairy"
   },
   {
     "Number": "860",
-    "Name": "Morgrem"
+    "Name": "Morgrem",
+    "Type 1": "Dark",
+    "Type 2": "Fairy"
   },
   {
     "Number": "861",
-    "Name": "Grimmsnarl"
+    "Name": "Grimmsnarl",
+    "Type 1": "Dark",
+    "Type 2": "Fairy"
   },
   {
     "Number": "862",
-    "Name": "Obstagoon"
+    "Name": "Obstagoon",
+    "Type 1": "Dark",
+    "Type 2": "Normal"
   },
   {
     "Number": "863",
-    "Name": "Perrserker"
+    "Name": "Perrserker",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Number": "864",
-    "Name": "Cursola"
+    "Name": "Cursola",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "865",
-    "Name": "Sirfetch'd"
+    "Name": "Sirfetch'd",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "866",
-    "Name": "Mr. Rime"
+    "Name": "Mr. Rime",
+    "Type 1": "Ice",
+    "Type 2": "Psychic"
   },
   {
     "Number": "867",
-    "Name": "Runerigus"
+    "Name": "Runerigus",
+    "Type 1": "Ground",
+    "Type 2": "Ghost"
   },
   {
     "Number": "868",
-    "Name": "Milcery"
+    "Name": "Milcery",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "869",
-    "Name": "Alcremie"
+    "Name": "Alcremie",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "870",
-    "Name": "Falinks"
+    "Name": "Falinks",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "871",
-    "Name": "Pincurchin"
+    "Name": "Pincurchin",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "872",
-    "Name": "Snom"
+    "Name": "Snom",
+    "Type 1": "Ice",
+    "Type 2": "Bug"
   },
   {
     "Number": "873",
-    "Name": "Frosmoth"
+    "Name": "Frosmoth",
+    "Type 1": "Ice",
+    "Type 2": "Bug"
   },
   {
     "Number": "874",
-    "Name": "Stonjourner"
+    "Name": "Stonjourner",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "875",
-    "Name": "Eiscue"
+    "Name": "Eiscue",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "876",
-    "Name": "Indeedee"
+    "Name": "Indeedee",
+    "Type 1": "Psychic",
+    "Type 2": "Normal"
   },
   {
     "Number": "877",
-    "Name": "Morpeko"
+    "Name": "Morpeko",
+    "Type 1": "Electric",
+    "Type 2": "Dark"
   },
   {
     "Number": "878",
-    "Name": "Cufant"
+    "Name": "Cufant",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Number": "879",
-    "Name": "Copperajah"
+    "Name": "Copperajah",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Number": "880",
-    "Name": "Dracozolt"
+    "Name": "Dracozolt",
+    "Type 1": "Electric",
+    "Type 2": "Dragon"
   },
   {
     "Number": "881",
-    "Name": "Arctozolt"
+    "Name": "Arctozolt",
+    "Type 1": "Electric",
+    "Type 2": "Ice"
   },
   {
     "Number": "882",
-    "Name": "Dracovish"
+    "Name": "Dracovish",
+    "Type 1": "Water",
+    "Type 2": "Dragon"
   },
   {
     "Number": "883",
-    "Name": "Arctovish"
+    "Name": "Arctovish",
+    "Type 1": "Water",
+    "Type 2": "Ice"
   },
   {
     "Number": "884",
-    "Name": "Duraludon"
+    "Name": "Duraludon",
+    "Type 1": "Steel",
+    "Type 2": "Dragon"
   },
   {
     "Number": "885",
-    "Name": "Dreepy"
+    "Name": "Dreepy",
+    "Type 1": "Dragon",
+    "Type 2": "Ghost"
   },
   {
     "Number": "886",
-    "Name": "Drakloak"
+    "Name": "Drakloak",
+    "Type 1": "Dragon",
+    "Type 2": "Ghost"
   },
   {
     "Number": "887",
-    "Name": "Dragapult"
+    "Name": "Dragapult",
+    "Type 1": "Dragon",
+    "Type 2": "Ghost"
   },
   {
     "Number": "888",
-    "Name": "Zacian"
+    "Name": "Zacian",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "889",
-    "Name": "Zamazenta"
+    "Name": "Zamazenta",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "890",
-    "Name": "Eternatus"
+    "Name": "Eternatus",
+    "Type 1": "Poison",
+    "Type 2": "Dragon"
   },
   {
     "Number": "891",
-    "Name": "Kubfu"
+    "Name": "Kubfu",
+    "Type 1": "Fighting",
+    "Type 2": ""
   },
   {
     "Number": "892",
-    "Name": "Urshifu"
+    "Name": "Urshifu",
+    "Type 1": "Fighting",
+    "Type 2": "Dark"
   },
   {
     "Number": "893",
-    "Name": "Zarude"
+    "Name": "Zarude",
+    "Type 1": "Dark",
+    "Type 2": "Grass"
   },
   {
     "Number": "894",
-    "Name": "Regieleki"
+    "Name": "Regieleki",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "895",
-    "Name": "Regidrago"
+    "Name": "Regidrago",
+    "Type 1": "Dragon",
+    "Type 2": ""
   },
   {
     "Number": "896",
-    "Name": "Glastrier"
+    "Name": "Glastrier",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "897",
-    "Name": "Spectrier"
+    "Name": "Spectrier",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "898",
-    "Name": "Calyrex"
+    "Name": "Calyrex",
+    "Type 1": "Psychic",
+    "Type 2": "Grass"
   },
   {
     "Number": "899",
-    "Name": "Wyrdeer"
+    "Name": "Wyrdeer",
+    "Type 1": "Normal",
+    "Type 2": "Psychic"
   },
   {
     "Number": "900",
-    "Name": "Kleavor"
+    "Name": "Kleavor",
+    "Type 1": "Bug",
+    "Type 2": "Rock"
   },
   {
     "Number": "901",
-    "Name": "Ursaluna"
+    "Name": "Ursaluna",
+    "Type 1": "Ground",
+    "Type 2": "Normal"
   },
   {
     "Number": "902",
-    "Name": "Basculegion"
+    "Name": "Basculegion",
+    "Type 1": "Water",
+    "Type 2": "Ghost"
   },
   {
     "Number": "903",
-    "Name": "Sneasler"
+    "Name": "Sneasler",
+    "Type 1": "Fighting",
+    "Type 2": "Poison"
   },
   {
     "Number": "904",
-    "Name": "Overqwil"
+    "Name": "Overqwil",
+    "Type 1": "Dark",
+    "Type 2": "Poison"
   },
   {
     "Number": "905",
-    "Name": "Enamorus"
+    "Name": "Enamorus",
+    "Type 1": "Fairy",
+    "Type 2": "Flying"
   },
   {
     "Number": "906",
-    "Name": "Sprigatito"
+    "Name": "Sprigatito",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "907",
-    "Name": "Floragato"
+    "Name": "Floragato",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "908",
-    "Name": "Meowscarada"
+    "Name": "Meowscarada",
+    "Type 1": "Grass",
+    "Type 2": "Dark"
   },
   {
     "Number": "909",
-    "Name": "Fuecoco"
+    "Name": "Fuecoco",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "910",
-    "Name": "Crocalor"
+    "Name": "Crocalor",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "911",
-    "Name": "Skeledirge"
+    "Name": "Skeledirge",
+    "Type 1": "Fire",
+    "Type 2": "Ghost"
   },
   {
     "Number": "912",
-    "Name": "Quaxly"
+    "Name": "Quaxly",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "913",
-    "Name": "Quaxwell"
+    "Name": "Quaxwell",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "914",
-    "Name": "Quaquaval"
+    "Name": "Quaquaval",
+    "Type 1": "Water",
+    "Type 2": "Fighting"
   },
   {
     "Number": "915",
-    "Name": "Lechonk"
+    "Name": "Lechonk",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "916",
-    "Name": "Oinkologne"
+    "Name": "Oinkologne",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "917",
-    "Name": "Tarountula"
+    "Name": "Tarountula",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "918",
-    "Name": "Spidops"
+    "Name": "Spidops",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "919",
-    "Name": "Nymble"
+    "Name": "Nymble",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "920",
-    "Name": "Lokix"
+    "Name": "Lokix",
+    "Type 1": "Bug",
+    "Type 2": "Dark"
   },
   {
     "Number": "921",
-    "Name": "Pawmi"
+    "Name": "Pawmi",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "922",
-    "Name": "Pawmo"
+    "Name": "Pawmo",
+    "Type 1": "Electric",
+    "Type 2": "Fighting"
   },
   {
     "Number": "923",
-    "Name": "Pawmot"
+    "Name": "Pawmot",
+    "Type 1": "Electric",
+    "Type 2": "Fighting"
   },
   {
     "Number": "924",
-    "Name": "Tandemaus"
+    "Name": "Tandemaus",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "925",
-    "Name": "Maushold"
+    "Name": "Maushold",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "926",
-    "Name": "Fidough"
+    "Name": "Fidough",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "927",
-    "Name": "Dachsbun"
+    "Name": "Dachsbun",
+    "Type 1": "Fairy",
+    "Type 2": ""
   },
   {
     "Number": "928",
-    "Name": "Smoliv"
+    "Name": "Smoliv",
+    "Type 1": "Grass",
+    "Type 2": "Normal"
   },
   {
     "Number": "929",
-    "Name": "Dolliv"
+    "Name": "Dolliv",
+    "Type 1": "Grass",
+    "Type 2": "Normal"
   },
   {
     "Number": "930",
-    "Name": "Arboliva"
+    "Name": "Arboliva",
+    "Type 1": "Grass",
+    "Type 2": "Normal"
   },
   {
     "Number": "931",
-    "Name": "Squawkabilly"
+    "Name": "Squawkabilly",
+    "Type 1": "Normal",
+    "Type 2": "Flying"
   },
   {
     "Number": "932",
-    "Name": "Nacli"
+    "Name": "Nacli",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "933",
-    "Name": "Naclstack"
+    "Name": "Naclstack",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "934",
-    "Name": "Garganacl"
+    "Name": "Garganacl",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "935",
-    "Name": "Charcadet"
+    "Name": "Charcadet",
+    "Type 1": "Fire",
+    "Type 2": ""
   },
   {
     "Number": "936",
-    "Name": "Armarouge"
+    "Name": "Armarouge",
+    "Type 1": "Fire",
+    "Type 2": "Psychic"
   },
   {
     "Number": "937",
-    "Name": "Ceruledge"
+    "Name": "Ceruledge",
+    "Type 1": "Fire",
+    "Type 2": "Ghost"
   },
   {
     "Number": "938",
-    "Name": "Tadbulb"
+    "Name": "Tadbulb",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "939",
-    "Name": "Bellibolt"
+    "Name": "Bellibolt",
+    "Type 1": "Electric",
+    "Type 2": ""
   },
   {
     "Number": "940",
-    "Name": "Wattrel"
+    "Name": "Wattrel",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Number": "941",
-    "Name": "Kilowattrel"
+    "Name": "Kilowattrel",
+    "Type 1": "Electric",
+    "Type 2": "Flying"
   },
   {
     "Number": "942",
-    "Name": "Maschiff"
+    "Name": "Maschiff",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "943",
-    "Name": "Mabosstiff"
+    "Name": "Mabosstiff",
+    "Type 1": "Dark",
+    "Type 2": ""
   },
   {
     "Number": "944",
-    "Name": "Shroodle"
+    "Name": "Shroodle",
+    "Type 1": "Poison",
+    "Type 2": "Normal"
   },
   {
     "Number": "945",
-    "Name": "Grafaiai"
+    "Name": "Grafaiai",
+    "Type 1": "Poison",
+    "Type 2": "Normal"
   },
   {
     "Number": "946",
-    "Name": "Bramblin"
+    "Name": "Bramblin",
+    "Type 1": "Grass",
+    "Type 2": "Ghost"
   },
   {
     "Number": "947",
-    "Name": "Brambleghast"
+    "Name": "Brambleghast",
+    "Type 1": "Grass",
+    "Type 2": "Ghost"
   },
   {
     "Number": "948",
-    "Name": "Toedscool"
+    "Name": "Toedscool",
+    "Type 1": "Ground",
+    "Type 2": "Grass"
   },
   {
     "Number": "949",
-    "Name": "Toedscruel"
+    "Name": "Toedscruel",
+    "Type 1": "Ground",
+    "Type 2": "Grass"
   },
   {
     "Number": "950",
-    "Name": "Klawf"
+    "Name": "Klawf",
+    "Type 1": "Rock",
+    "Type 2": ""
   },
   {
     "Number": "951",
-    "Name": "Capsakid"
+    "Name": "Capsakid",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "952",
-    "Name": "Scovillain"
+    "Name": "Scovillain",
+    "Type 1": "Grass",
+    "Type 2": "Fire"
   },
   {
     "Number": "953",
-    "Name": "Rellor"
+    "Name": "Rellor",
+    "Type 1": "Bug",
+    "Type 2": ""
   },
   {
     "Number": "954",
-    "Name": "Rabsca"
+    "Name": "Rabsca",
+    "Type 1": "Bug",
+    "Type 2": "Psychic"
   },
   {
     "Number": "955",
-    "Name": "Flittle"
+    "Name": "Flittle",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "956",
-    "Name": "Espathra"
+    "Name": "Espathra",
+    "Type 1": "Psychic",
+    "Type 2": ""
   },
   {
     "Number": "957",
-    "Name": "Tinkatink"
+    "Name": "Tinkatink",
+    "Type 1": "Fairy",
+    "Type 2": "Steel"
   },
   {
     "Number": "958",
-    "Name": "Tinkatuff"
+    "Name": "Tinkatuff",
+    "Type 1": "Fairy",
+    "Type 2": "Steel"
   },
   {
     "Number": "959",
-    "Name": "Tinkaton"
+    "Name": "Tinkaton",
+    "Type 1": "Fairy",
+    "Type 2": "Steel"
   },
   {
     "Number": "960",
-    "Name": "Wiglett"
+    "Name": "Wiglett",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "961",
-    "Name": "Wugtrio"
+    "Name": "Wugtrio",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "962",
-    "Name": "Bombirdier"
+    "Name": "Bombirdier",
+    "Type 1": "Flying",
+    "Type 2": "Dark"
   },
   {
     "Number": "963",
-    "Name": "Finizen"
+    "Name": "Finizen",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "964",
-    "Name": "Palafin"
+    "Name": "Palafin",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "965",
-    "Name": "Varoom"
+    "Name": "Varoom",
+    "Type 1": "Steel",
+    "Type 2": "Poison"
   },
   {
     "Number": "966",
-    "Name": "Revavroom"
+    "Name": "Revavroom",
+    "Type 1": "Steel",
+    "Type 2": "Poison"
   },
   {
     "Number": "967",
-    "Name": "Cyclizar"
+    "Name": "Cyclizar",
+    "Type 1": "Dragon",
+    "Type 2": "Normal"
   },
   {
     "Number": "968",
-    "Name": "Orthworm"
+    "Name": "Orthworm",
+    "Type 1": "Steel",
+    "Type 2": ""
   },
   {
     "Number": "969",
-    "Name": "Glimmet"
+    "Name": "Glimmet",
+    "Type 1": "Rock",
+    "Type 2": "Poison"
   },
   {
     "Number": "970",
-    "Name": "Glimmora"
+    "Name": "Glimmora",
+    "Type 1": "Rock",
+    "Type 2": "Poison"
   },
   {
     "Number": "971",
-    "Name": "Greavard"
+    "Name": "Greavard",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "972",
-    "Name": "Houndstone"
+    "Name": "Houndstone",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "973",
-    "Name": "Flamigo"
+    "Name": "Flamigo",
+    "Type 1": "Flying",
+    "Type 2": "Fighting"
   },
   {
     "Number": "974",
-    "Name": "Cetoddle"
+    "Name": "Cetoddle",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "975",
-    "Name": "Cetitan"
+    "Name": "Cetitan",
+    "Type 1": "Ice",
+    "Type 2": ""
   },
   {
     "Number": "976",
-    "Name": "Veluza"
+    "Name": "Veluza",
+    "Type 1": "Water",
+    "Type 2": "Psychic"
   },
   {
     "Number": "977",
-    "Name": "Dondozo"
+    "Name": "Dondozo",
+    "Type 1": "Water",
+    "Type 2": ""
   },
   {
     "Number": "978",
-    "Name": "Tatsugiri"
+    "Name": "Tatsugiri",
+    "Type 1": "Dragon",
+    "Type 2": "Water"
   },
   {
     "Number": "979",
-    "Name": "Annihilape"
+    "Name": "Annihilape",
+    "Type 1": "Fighting",
+    "Type 2": "Ghost"
   },
   {
     "Number": "980",
-    "Name": "Clodsire"
+    "Name": "Clodsire",
+    "Type 1": "Poison",
+    "Type 2": "Ground"
   },
   {
     "Number": "981",
-    "Name": "Farigiraf"
+    "Name": "Farigiraf",
+    "Type 1": "Normal",
+    "Type 2": "Psychic"
   },
   {
     "Number": "982",
-    "Name": "Dudunsparce"
+    "Name": "Dudunsparce",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "983",
-    "Name": "Kingambit"
+    "Name": "Kingambit",
+    "Type 1": "Dark",
+    "Type 2": "Steel"
   },
   {
     "Number": "984",
-    "Name": "Great Tusk"
+    "Name": "Great Tusk",
+    "Type 1": "Ground",
+    "Type 2": "Fighting"
   },
   {
     "Number": "985",
-    "Name": "Scream Tail"
+    "Name": "Scream Tail",
+    "Type 1": "Fairy",
+    "Type 2": "Psychic"
   },
   {
     "Number": "986",
-    "Name": "Brute Bonnet"
+    "Name": "Brute Bonnet",
+    "Type 1": "Grass",
+    "Type 2": "Dark"
   },
   {
     "Number": "987",
-    "Name": "Flutter Mane"
+    "Name": "Flutter Mane",
+    "Type 1": "Ghost",
+    "Type 2": "Fairy"
   },
   {
     "Number": "988",
-    "Name": "Slither Wing"
+    "Name": "Slither Wing",
+    "Type 1": "Bug",
+    "Type 2": "Fighting"
   },
   {
     "Number": "989",
-    "Name": "Sandy Shocks"
+    "Name": "Sandy Shocks",
+    "Type 1": "Electric",
+    "Type 2": "Ground"
   },
   {
     "Number": "990",
-    "Name": "Iron Treads"
+    "Name": "Iron Treads",
+    "Type 1": "Ground",
+    "Type 2": "Steel"
   },
   {
     "Number": "991",
-    "Name": "Iron Bundle"
+    "Name": "Iron Bundle",
+    "Type 1": "Ice",
+    "Type 2": "Water"
   },
   {
     "Number": "992",
-    "Name": "Iron Hands"
+    "Name": "Iron Hands",
+    "Type 1": "Fighting",
+    "Type 2": "Electric"
   },
   {
     "Number": "993",
-    "Name": "Iron Jugulis"
+    "Name": "Iron Jugulis",
+    "Type 1": "Dark",
+    "Type 2": "Flying"
   },
   {
     "Number": "994",
-    "Name": "Iron Moth"
+    "Name": "Iron Moth",
+    "Type 1": "Fire",
+    "Type 2": "Poison"
   },
   {
     "Number": "995",
-    "Name": "Iron Thorns"
+    "Name": "Iron Thorns",
+    "Type 1": "Rock",
+    "Type 2": "Electric"
   },
   {
     "Number": "996",
-    "Name": "Frigibax"
+    "Name": "Frigibax",
+    "Type 1": "Dragon",
+    "Type 2": "Ice"
   },
   {
     "Number": "997",
-    "Name": "Arctibax"
+    "Name": "Arctibax",
+    "Type 1": "Dragon",
+    "Type 2": "Ice"
   },
   {
     "Number": "998",
-    "Name": "Baxcalibur"
+    "Name": "Baxcalibur",
+    "Type 1": "Dragon",
+    "Type 2": "Ice"
   },
   {
     "Number": "999",
-    "Name": "Gimmighoul"
+    "Name": "Gimmighoul",
+    "Type 1": "Ghost",
+    "Type 2": ""
   },
   {
     "Number": "1000",
-    "Name": "Gholdengo"
+    "Name": "Gholdengo",
+    "Type 1": "Steel",
+    "Type 2": "Ghost"
   },
   {
     "Number": "1001",
-    "Name": "Wo-Chien"
+    "Name": "Wo-Chien",
+    "Type 1": "Dark",
+    "Type 2": "Grass"
   },
   {
     "Number": "1002",
-    "Name": "Chien-Pao"
+    "Name": "Chien-Pao",
+    "Type 1": "Dark",
+    "Type 2": "Ice"
   },
   {
     "Number": "1003",
-    "Name": "Ting-Lu"
+    "Name": "Ting-Lu",
+    "Type 1": "Dark",
+    "Type 2": "Ground"
   },
   {
     "Number": "1004",
-    "Name": "Chi-Yu"
+    "Name": "Chi-Yu",
+    "Type 1": "Dark",
+    "Type 2": "Fire"
   },
   {
     "Number": "1005",
-    "Name": "Roaring Moon"
+    "Name": "Roaring Moon",
+    "Type 1": "Dragon",
+    "Type 2": "Dark"
   },
   {
     "Number": "1006",
-    "Name": "Iron Valiant"
+    "Name": "Iron Valiant",
+    "Type 1": "Fairy",
+    "Type 2": "Fighting"
   },
   {
     "Number": "1007",
-    "Name": "Koraidon"
+    "Name": "Koraidon",
+    "Type 1": "Fighting",
+    "Type 2": "Dragon"
   },
   {
     "Number": "1008",
-    "Name": "Miraidon"
+    "Name": "Miraidon",
+    "Type 1": "Electric",
+    "Type 2": "Dragon"
   },
   {
     "Number": "1009",
-    "Name": "Walking Wake"
+    "Name": "Walking Wake",
+    "Type 1": "Water",
+    "Type 2": "Dragon"
   },
   {
     "Number": "1010",
-    "Name": "Iron Leaves"
+    "Name": "Iron Leaves",
+    "Type 1": "Grass",
+    "Type 2": "Psychic"
   },
   {
     "Number": "1011",
-    "Name": "Dipplin"
+    "Name": "Dipplin",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Number": "1012",
-    "Name": "Poltchageist"
+    "Name": "Poltchageist",
+    "Type 1": "Grass",
+    "Type 2": "Ghost"
   },
   {
     "Number": "1013",
-    "Name": "Sinistcha"
+    "Name": "Sinistcha",
+    "Type 1": "Grass",
+    "Type 2": "Ghost"
   },
   {
     "Number": "1014",
-    "Name": "Okidogi"
+    "Name": "Okidogi",
+    "Type 1": "Poison",
+    "Type 2": "Fighting"
   },
   {
     "Number": "1015",
-    "Name": "Munkidori"
+    "Name": "Munkidori",
+    "Type 1": "Poison",
+    "Type 2": "Psychic"
   },
   {
     "Number": "1016",
-    "Name": "Fezandipiti"
+    "Name": "Fezandipiti",
+    "Type 1": "Poison",
+    "Type 2": "Fairy"
   },
   {
     "Number": "1017",
-    "Name": "Ogerpon"
+    "Name": "Ogerpon",
+    "Type 1": "Grass",
+    "Type 2": ""
   },
   {
     "Number": "1018",
-    "Name": "Archaludon"
+    "Name": "Archaludon",
+    "Type 1": "Steel",
+    "Type 2": "Dragon"
   },
   {
     "Number": "1019",
-    "Name": "Hydrapple"
+    "Name": "Hydrapple",
+    "Type 1": "Grass",
+    "Type 2": "Dragon"
   },
   {
     "Number": "1020",
-    "Name": "Gouging Fire"
+    "Name": "Gouging Fire",
+    "Type 1": "Fire",
+    "Type 2": "Dragon"
   },
   {
     "Number": "1021",
-    "Name": "Raging Bolt"
+    "Name": "Raging Bolt",
+    "Type 1": "Electric",
+    "Type 2": "Dragon"
   },
   {
     "Number": "1022",
-    "Name": "Iron Boulder"
+    "Name": "Iron Boulder",
+    "Type 1": "Rock",
+    "Type 2": "Psychic"
   },
   {
     "Number": "1023",
-    "Name": "Iron Crown"
+    "Name": "Iron Crown",
+    "Type 1": "Steel",
+    "Type 2": "Psychic"
   },
   {
     "Number": "1024",
-    "Name": "Terapagos"
+    "Name": "Terapagos",
+    "Type 1": "Normal",
+    "Type 2": ""
   },
   {
     "Number": "1025",
-    "Name": "Pecharunt"
+    "Name": "Pecharunt",
+    "Type 1": "Poison",
+    "Type 2": "Ghost"
   }
 ]
