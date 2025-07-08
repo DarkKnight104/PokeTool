@@ -98,5 +98,10 @@ th{
 .pkm{
     width: 33%;
     text-align: center;
-    
+}
+.hidden{
+    visibility: hidden;
+}
+.show{
+    visibility: visible
 }
