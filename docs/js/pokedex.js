@@ -2,7 +2,8 @@ fetch("https://darkknight104.github.io/PokeTool/data/pokemon.json")
   .then(response => response.json())
   .then(data => {
     const button = document.getElementById("button");
-
+    let type = ""
+    console.log(data.Type1)
     function mkgen(min, max, x) {
       let id = `gen${x}`;
       let target = document.getElementById(id);
@@ -11,15 +12,23 @@ fetch("https://darkknight104.github.io/PokeTool/data/pokemon.json")
                           </tr>`;
 
       for (let i = min - 1; i <= max - 1; i += 3) {
-        let first = data[i]?.Name || "";
-        let second = data[i + 1]?.Name || "";
-        let third = data[i + 2]?.Name || "";
-
+        let first = ""
+        let third = ""
+        let second = ""
+        first = data[i].Name;
+        console.log(type)
+        console.log(data[i].Type1)
+        if((i+1)<max){
+         second = data[i + 1].Name;
+        }
+        if((i+2)<max){
+          third = data[i + 2].Name;
+        }    
         target.innerHTML += `<tr>
                               <td class="pkm">${first}</td>
-                              ${second ? `<td class="pkm">${second}</td>` : ""}
-                              ${third ? `<td class="pkm">${third}</td>` : ""}
-                            </tr>`;
+                              <td class="pkm">${second}</td>
+                              <td class="pkm">${third}</td>
+                              </tr>`;
       }
     }
 
@@ -35,8 +44,10 @@ fetch("https://darkknight104.github.io/PokeTool/data/pokemon.json")
 
     button.onclick = function () {
       clearTable();
-      let gen = document.getElementById("Gen").selectedIndex;
-      switch (gen) {
+      let genFilter = document.getElementById("Gen").selectedIndex;
+      let typeFilter = document.getElementById("Type").selectedIndex;
+      type = typeFilter
+      switch (genFilter) {
         case 1: mkgen(1, 151, 1); break;
         case 2: mkgen(152, 251, 2); break;
         case 3: mkgen(252, 386, 3); break;

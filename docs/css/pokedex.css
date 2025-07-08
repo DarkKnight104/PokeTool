@@ -75,6 +75,7 @@ body{
     margin-right: auto;
 }
 th{
+    
     width: 25%;
     float: center;
 }
@@ -97,4 +98,5 @@ th{
 .pkm{
     width: 33%;
     text-align: center;
+    
 }
