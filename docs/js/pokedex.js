@@ -1,4 +1,4 @@
-fetch('data/pokemon.json')
+fetch("https://darkknight104.github.io/PokeTool/data/pokemon.json")
   .then(response => response.json())
   .then(data => {
     const button = document.getElementById("button");
