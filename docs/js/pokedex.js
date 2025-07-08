@@ -1,4 +1,4 @@
-fetch('http://127.0.0.1:8080/public/pokemon.json')
+fetch('data/pokemon.json')
   .then(response => response.json())
   .then(data => {
     const button = document.getElementById("button");
