@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(50, 50, 50);
+}
+#navbar{
+    width: 100%;
+    border-collapse: collapse;
+    background: rgb(60, 60, 60);
+    }
+.navitem{
+    color: red;
+    font-size: 20px;
+    border-collapse: collapse;
+    width: 25%;
+    }
+#Pokedex{
+    width: 100%;
+    height: fit-content;
+    font-size: 20px;
+    border: none;
+    background: rgb(60, 60, 60);
+    color: red;
+}
+#Pokedex:hover{
+    background: rgb(50, 50, 50);
+}
+#Games{
+    width: 100%;
+    height: fit-content;
+    font-size: 20px;
+    border: none;
+    background: rgb(60, 60, 60);
+    color: red;
+}
+#Games:hover{
+    background: rgb(50, 50, 50);
+}
+#Tools{
+    width: 100%;
+    height: fit-content;
+    font-size: 20px;
+    border: none;
+    background: rgb(60, 60, 60);
+    color: red;
+}
+#Tools:hover{
+    background: rgb(50, 50, 50);
+}
+#Extra{
+    width: 100%;
+    height: fit-content;
+    font-size: 20px;
+    border: none;
+    background: rgb(60, 60, 60);
+    color: red;
+}
+#Extra:hover{
+    background: rgb(50, 50, 50);
+}
