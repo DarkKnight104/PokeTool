@@ -1,4 +1,4 @@
-fetch("https://darkknight104.github.io/PokeTool/data/pokemon.json")
+fetch("https://darkknight104.github.io/PokeTool/data/national.json")
   .then(response => response.json())
   .then(data => national(data))
 
