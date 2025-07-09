@@ -1,9 +1,12 @@
 fetch("https://darkknight104.github.io/PokeTool/data/pokemon.json")
   .then(response => response.json())
-  .then(data => {
+  .then(data => national(data))
+
+function national(data){
     const button = document.getElementById("button");
     type = ""
     function mkgen(min, max, x, ft="") {
+      min = min-1
       let id = `gen${x}`;
       let target = document.getElementById(id);
       target.innerHTML = `<tr>
@@ -13,44 +16,48 @@ fetch("https://darkknight104.github.io/PokeTool/data/pokemon.json")
         let first = ""
         let third = ""
         let second = ""
-        console.log(ft)
-        console.log(data[min].Type1)
-        if (ft != "") {
-            while (min < max) {
-                if (data[min].Type1 === ft || data[min].Type2 === ft) {
-                first = data[min].Name;
-                min++;
-                break; // trovato il primo, esco dal ciclo
-                }
-            min++;
+        if(ft=="")
+        {
+          first=data[min].Name
+          if((min+1)<max)
+          {second=data[min+1].Name}
+          if((min+1)<max)
+          {third=data[min+2].Name}
+          min += 3;
+        }else{
+          while(min<max){
+            if(ft == data[min].Type1 || ft == data[min].Type2){
+              first=data[min].Name
+              min++
+            break;
             }
+            min++
           }
-        if (ft != "") {
-            while (min < max) {
-                if (data[min].Type1 === ft || data[min].Type2 === ft) {
-                second = data[min].Name;
-                min++;
-                break; // trovato il primo, esco dal ciclo
-                }
-            min++;
+          while(min<max){
+            if(ft == data[min].Type1 || ft == data[min].Type2){
+              second=data[min].Name
+              min++
+              break;
             }
+            min++
           }
-        if (ft != "") {
-            while (min < max) {
-                if (data[min].Type1 === ft || data[min].Type2 === ft) {
-                third = data[min].Name;
-                min++;
-                break; // trovato il primo, esco dal ciclo
-                }
-            min++;
+          while(min<max){
+            if(ft == data[min].Type1 || ft == data[min].Type2){
+              third=data[min].Name
+              min++
+            break;
             }
+            min++
           }
+        }
         target.innerHTML += `<tr>
                               <td class="pkm">${first}</td>
                               <td class="pkm">${second}</td>
                               <td class="pkm">${third}</td>
                               </tr>`;
+        
       }
+      
     }
     function clearTable() {
       for (let i = 1; i <= 9; i++) {
@@ -116,4 +123,4 @@ fetch("https://darkknight104.github.io/PokeTool/data/pokemon.json")
           break;
       }
     };
-  })
+  }
