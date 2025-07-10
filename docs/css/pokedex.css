@@ -4,7 +4,7 @@ body{
 }
 #genlb{
     text-align: center;
-    font-size: 40px;
+    font-size: 4em;
 }
 #gen0{
     border: 1px solid red;
@@ -19,7 +19,7 @@ body{
 }
 #navbar{
     width: 100%;
-    font-size: 40px;
+    font-size: 4em;
 }
 #navbar th{
     width: 33%;
