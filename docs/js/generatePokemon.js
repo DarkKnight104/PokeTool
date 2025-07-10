@@ -1,25 +1,26 @@
 globalData = ""
-
-async function getData(data){
-    let region = "unova"
+region = ""
+async function getData(gen,y){
+    region = y
     const response = await fetch(`https://darkknight104.github.io/PokeTool/data/${region}.json`); 
     globalData = await response.json();
-    mktables(5)
+    mktables(gen)
     }
 function mktables(gen){
       clearTable();
-      let genFilter = document.getElementById("Gen").selectedIndex;
+      let genFilter = document.getElementById("Gen").value;
       let typeSelector = document.getElementById("Type");
       let typeFilter = typeSelector.options[typeSelector.selectedIndex].text;
-      let target = document.getElementById(`gen${gen}`);
+      let target = document.getElementById(`gen0`);
       let counter = 0
       let tempText = ""
       let row = ""
-      target.innerHTML = `<tr><td colspan="3" id="genlb">Gen ${gen}</td></tr>`;
+      let regionName = region.charAt(0).toUpperCase() + region.slice(1);
+      target.innerHTML = `<tr><td colspan="3" id="genlb">${regionName}</td></tr>`;
       for(let i=0; i<globalData.length; i++)
       {
         const pkm = globalData[i];
-        if((typeFilter==="- All -" || pkm.Type1==typeFilter || pkm.Type2==typeFilter) && (genFilter === 0 || genFilter == pkm.Gen)){
+        if((typeFilter==="- All -" || pkm.Type1==typeFilter || pkm.Type2==typeFilter) && (Number(genFilter) === 0 || Number(genFilter) == pkm.Gen)){
           if(counter%3==0 && counter>=3)
             {
               tempText+=`<tr>${row}</tr>`
@@ -43,6 +44,4 @@ function clearTable() {
         let target = document.getElementById(id);
         target.innerHTML = ``;
       }
-      document.getElementById("genun").innerHTML = ``;
-      document.getElementById("genhisui").innerHTML = ``;
-    }
+      }

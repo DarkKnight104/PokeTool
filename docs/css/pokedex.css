@@ -4,71 +4,7 @@ body{
     font-size: 40px;
     
 }
-#genlb{
-    text-align: center;
-}
-#gen1{
-    border: 1px solid red;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5%;
-}
-#gen2{
-    border: 1px solid red;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#gen3{
-    border: 1px solid red;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#gen4{
-    border: 1px solid red;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#gen5{
-    border: 1px solid red;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#gen6{
-    border: 1px solid red;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#gen7{
-    border: 1px solid red;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#gen8{
-    border: 1px solid red;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#gen9{
-    border: 1px solid red;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#genun{
-    border: 1px solid red;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#genhisui{
+#gen0{
     border: 1px solid red;
     width: 80%;
     margin-left: auto;
