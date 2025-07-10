@@ -9,7 +9,7 @@ button.onclick = function () {
     case 2: loadScript('js/jhoto.js'); break;
     case 3: loadScript('js/hoenn.js'); break;
     case 4: loadScript('js/sinnoh.js'); break;
-    case 5: loadScript('js/unova.js'); break;
+    case 5: loadScript('js/unova.js', () => getData());; break;
     case 6: loadScript('js/kalos.js'); break;
     case 7: loadScript('js/alola.js'); break;
     case 8: loadScript('js/galar.js'); break;

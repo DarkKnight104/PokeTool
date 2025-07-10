@@ -1,12 +1,9 @@
-const csv = require('csv-parser')
-const fs = require('fs')
-const results = [];
+const fs = require('fs');
+const region = "unova"
 
-fs.createReadStream('tools/national.csv')
-  .pipe(csv())
-  .on('data', (data) => results.push(data))
-  .on('end', () => {
-    console.log(results);
-    fs.writeFileSync('docs/data/national.json', JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
+let data = fs.readFileSync(`tools/${region}.csv`, 'utf8');
+
+// Remove commas at end of lines
+data = data.replace(/,\s*$/gm, '');
+
+fs.writeFileSync(`tools/${region}.csv`, data);
