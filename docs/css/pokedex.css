@@ -1,8 +1,10 @@
 body{
     background-color: rgb(50, 50, 50);
     color: rgba(255, 0, 0, 0.565);
+}
+#genlb{
+    text-align: center;
     font-size: 40px;
-    
 }
 #gen0{
     border: 1px solid red;
@@ -10,17 +12,21 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-th{
-    
-    width: 25%;
-    float: center;
+.pkm{
+    width: 33%;
+    text-align: center;
+    font-size: 40px;
 }
 #navbar{
     width: 100%;
-}
-#Searchbar{
-    width: 90%;
     font-size: 40px;
+}
+#navbar th{
+    width: 33%;
+    float: center;
+}
+#navbar td{
+    text-align: center;
 }
 #dexType{
     font-size: 20px;
@@ -31,13 +37,8 @@ th{
 #Type{
     font-size: 20px;
 }
-.pkm{
-    width: 33%;
-    text-align: center;
+#button{
+    font-size: 20px;
+    
 }
-.hidden{
-    visibility: hidden;
-}
-.show{
-    visibility: visible
-}
+

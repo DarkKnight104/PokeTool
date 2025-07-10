@@ -20,7 +20,7 @@ function mktables(gen){
       for(let i=0; i<globalData.length; i++)
       {
         const pkm = globalData[i];
-        if((typeFilter==="- All -" || pkm.Type1==typeFilter || pkm.Type2==typeFilter) && (Number(genFilter) === 0 || Number(genFilter) == pkm.Gen)){
+        if((typeFilter==="- All -" || pkm.Type1==typeFilter || pkm.Type2==typeFilter) && (Number(genFilter) === 0 || Number(genFilter) == Number(pkm.Gen))){
           if(counter%3==0 && counter>=3)
             {
               tempText+=`<tr>${row}</tr>`
@@ -39,9 +39,6 @@ function mktables(gen){
       
     };
 function clearTable() {
-      for (let i = 1; i <= 9; i++) {
-        let id = `gen${i}`;
-        let target = document.getElementById(id);
-        target.innerHTML = ``;
-      }
+      let target = document.getElementById("gen0");
+      target.innerHTML = ``;
       }
