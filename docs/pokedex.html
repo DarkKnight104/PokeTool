@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Document</title>
-    <link rel="stylesheet" href="css/pokedex.css">
+    <link rel="stylesheet" href="css/pokedex.css" />
 </head>
 <body>
-        <table id="navbar">
-            <tr>
+    <table id="navbar">
+        <tr>
+            <td class="navitemlb">Dex Type</td>
+            <td class="navitemlb">Generation</td>
+            <td class="navitemlb">Type</td>
+        </tr>
+        <tr>
             <th>
-                <label for="dexType">Dex Type</label>
-                <br>
-                <Select id="dexType">
-                    <option value> National</option>
+                <select id="dexType" class="navitem">
+                    <option value>National</option>
                     <option value="1">Kanto</option>
                     <option value="2">Jhoto</option>
                     <option value="3">Hoenn</option>
@@ -23,62 +26,57 @@
                     <option value="7">Alola</option>
                     <option value="8">Galar</option>
                     <option value="9">Paldea</option>
-                </Select>               
+                    </select>
             </th>
             <th>
-                <label for="Gen">Generation</label>
-                <br>
-                <Select id="Gen">
+                <select id="Gen" class="navitem">
                     <option value="0">- All -</option>
-					<option value="1">Generation 1</option>
-					<option value="2">Generation 2</option>
-					<option value="3">Generation 3</option>
-					<option value="4">Generation 4</option>
-					<option value="5">Generation 5</option>
-					<option value="6">Generation 6</option>
-					<option value="7">Generation 7</option>
+                    <option value="1">Generation 1</option>
+                    <option value="2">Generation 2</option>
+                    <option value="3">Generation 3</option>
+                    <option value="4">Generation 4</option>
+                    <option value="5">Generation 5</option>
+                    <option value="6">Generation 6</option>
+                    <option value="7">Generation 7</option>
                     <option value="8">Generation 8</option>
                     <option value="9">Generation 9</option>
-				</Select>
+                </select>
             </th>
             <th>
-                <label for="Type">Type</label>
-                <br>
-                <Select id="Type">
-                    
-				                    <option value="">- All -</option>
-									<option value="1">Normal</option>
-									<option value="2">Fire</option>
-									<option value="3">Water</option>
-									<option value="4">Electric</option>
-									<option value="5">Grass</option>
-									<option value="6">Ice</option>
-									<option value="7">Fighting</option>
-									<option value="8">Poison</option>
-									<option value="9">Ground</option>
-									<option value="10">Flying</option>
-									<option value="11">Psychic</option>
-									<option value="12">Bug</option>
-									<option value="13">Rock</option>
-									<option value="14">Ghost</option>
-									<option value="15">Dragon</option>
-									<option value="16">Dark</option>
-									<option value="17">Steel</option>
-									<option value="18">Fairy</option>
-							
-				/Select>
+                <select id="Type" class="navitem">
+                    <option value="">- All -</option>
+                    <option value="1">Normal</option>
+                    <option value="2">Fire</option>
+                    <option value="3">Water</option>
+                    <option value="4">Electric</option>
+                    <option value="5">Grass</option>
+                    <option value="6">Ice</option>
+                    <option value="7">Fighting</option>
+                    <option value="8">Poison</option>
+                    <option value="9">Ground</option>
+                    <option value="10">Flying</option>
+                    <option value="11">Psychic</option>
+                    <option value="12">Bug</option>
+                    <option value="13">Rock</option>
+                    <option value="14">Ghost</option>
+                    <option value="15">Dragon</option>
+                    <option value="16">Dark</option>
+                    <option value="17">Steel</option>
+                    <option value="18">Fairy</option>
+                </select>
             </th>
         </tr>
         <tr>
-            <td colspan="3">
-                <button id="button">Confirm</button>
-            </td>
+            <th colspan="3">
+                <button id="button" class="navitem">Confirm</button>
+            </th>
         </tr>
-        </table>
-        <table id="gen0">  
-        </table>
-        <script src="js/pokedex.js">
-            
-        </script>
+    </table>
+
+    <div id="genlb">Titolo Tabella</div>
+
+    <table id="pkmtable"></table>
+
+    <script src="js/pokedex.js"></script>
 </body>
 </html>

@@ -1,5 +1,6 @@
 globalData = ""
 region = ""
+target = ""
 async function getData(gen,y){
     region = y
     const response = await fetch(`https://darkknight104.github.io/PokeTool/data/${region}.json`); 
@@ -11,12 +12,11 @@ function mktables(gen){
       let genFilter = document.getElementById("Gen").value;
       let typeSelector = document.getElementById("Type");
       let typeFilter = typeSelector.options[typeSelector.selectedIndex].text;
-      let target = document.getElementById(`gen0`);
+      target = document.getElementById(`pkmtable`);
       let counter = 0
       let tempText = ""
       let row = ""
       let regionName = region.charAt(0).toUpperCase() + region.slice(1);
-      target.innerHTML = `<tr><td colspan="3" id="genlb">${regionName}</td></tr>`;
       for(let i=0; i<globalData.length; i++)
       {
         const pkm = globalData[i];
@@ -39,6 +39,5 @@ function mktables(gen){
       
     };
 function clearTable() {
-      let target = document.getElementById("gen0");
-      target.innerHTML = ``;
+      document.getElementById("pkmtable").innerHTML = ``;
       }
