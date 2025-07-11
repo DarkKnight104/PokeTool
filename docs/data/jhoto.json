@@ -1,1618 +1,1367 @@
 [
   {
-    "Number": "152",
+    "Number": "0152",
     "Name": "Chikorita",
-    "Type1": "Grass",
-    "Gen": 2
+    "Type1": "Grass"
   },
   {
-    "Number": "153",
+    "Number": "0153",
     "Name": "Bayleef",
-    "Type1": "Grass",
-    "Gen": 2
+    "Type1": "Grass"
   },
   {
-    "Number": "154",
+    "Number": "0154",
     "Name": "Meganium",
-    "Type1": "Grass",
-    "Gen": 2
+    "Type1": "Grass"
   },
   {
-    "Number": "155",
+    "Number": "0155",
     "Name": "Cyndaquil",
-    "Type1": "Fire",
-    "Gen": 2
+    "Type1": "Fire"
   },
   {
-    "Number": "156",
+    "Number": "0156",
     "Name": "Quilava",
-    "Type1": "Fire",
-    "Gen": 2
+    "Type1": "Fire"
   },
   {
-    "Number": "157",
+    "Number": "0157",
     "Name": "Typhlosion",
-    "Type1": "Fire",
-    "Gen": 2
+    "Type1": "Fire"
   },
   {
-    "Number": "158",
+    "Number": "0158",
     "Name": "Totodile",
-    "Type1": "Water",
-    "Gen": 2
+    "Type1": "Water"
   },
   {
-    "Number": "159",
+    "Number": "0159",
     "Name": "Croconaw",
-    "Type1": "Water",
-    "Gen": 2
+    "Type1": "Water"
   },
   {
-    "Number": "160",
+    "Number": "0160",
     "Name": "Feraligatr",
-    "Type1": "Water",
-    "Gen": 2
+    "Type1": "Water"
   },
   {
-    "Number": "016",
+    "Number": "0016",
     "Name": "Pidgey",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "017",
+    "Number": "0017",
     "Name": "Pidgeotto",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "018",
+    "Number": "0018",
     "Name": "Pidgeot",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "021",
+    "Number": "0021",
     "Name": "Spearow",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "022",
+    "Number": "0022",
     "Name": "Fearow",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "163",
+    "Number": "0163",
     "Name": "Hoothoot",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "164",
+    "Number": "0164",
     "Name": "Noctowl",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "019",
+    "Number": "0019",
     "Name": "Rattata",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "020",
+    "Number": "0020",
     "Name": "Raticate",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "161",
+    "Number": "0161",
     "Name": "Sentret",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "162",
+    "Number": "0162",
     "Name": "Furret",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "172",
+    "Number": "0172",
     "Name": "Pichu",
-    "Type1": "Electric",
-    "Gen": 2
+    "Type1": "Electric"
   },
   {
-    "Number": "025",
+    "Number": "0025",
     "Name": "Pikachu",
-    "Type1": "Electric",
-    "Gen": 1
+    "Type1": "Electric"
   },
   {
-    "Number": "026",
+    "Number": "0026",
     "Name": "Raichu",
-    "Type1": "Electric",
-    "Gen": 1
+    "Type1": "Electric"
   },
   {
-    "Number": "010",
+    "Number": "0010",
     "Name": "Caterpie",
-    "Type1": "Bug",
-    "Gen": 1
+    "Type1": "Bug"
   },
   {
-    "Number": "011",
+    "Number": "0011",
     "Name": "Metapod",
-    "Type1": "Bug",
-    "Gen": 1
+    "Type1": "Bug"
   },
   {
-    "Number": "012",
+    "Number": "0012",
     "Name": "Butterfree",
     "Type1": "Bug",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "013",
+    "Number": "0013",
     "Name": "Weedle",
     "Type1": "Bug",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "014",
+    "Number": "0014",
     "Name": "Kakuna",
     "Type1": "Bug",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "015",
+    "Number": "0015",
     "Name": "Beedrill",
     "Type1": "Bug",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "165",
+    "Number": "0165",
     "Name": "Ledyba",
     "Type1": "Bug",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "166",
+    "Number": "0166",
     "Name": "Ledian",
     "Type1": "Bug",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "167",
+    "Number": "0167",
     "Name": "Spinarak",
     "Type1": "Bug",
-    "Type2": "Poison",
-    "Gen": 2
+    "Type2": "Poison"
   },
   {
-    "Number": "168",
+    "Number": "0168",
     "Name": "Ariados",
     "Type1": "Bug",
-    "Type2": "Poison",
-    "Gen": 2
+    "Type2": "Poison"
   },
   {
-    "Number": "074",
+    "Number": "0074",
     "Name": "Geodude",
     "Type1": "Rock",
-    "Type2": "Ground",
-    "Gen": 1
+    "Type2": "Ground"
   },
   {
-    "Number": "075",
+    "Number": "0075",
     "Name": "Graveler",
     "Type1": "Rock",
-    "Type2": "Ground",
-    "Gen": 1
+    "Type2": "Ground"
   },
   {
-    "Number": "076",
+    "Number": "0076",
     "Name": "Golem",
     "Type1": "Rock",
-    "Type2": "Ground",
-    "Gen": 1
+    "Type2": "Ground"
   },
   {
-    "Number": "041",
+    "Number": "0041",
     "Name": "Zubat",
     "Type1": "Poison",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "042",
+    "Number": "0042",
     "Name": "Golbat",
     "Type1": "Poison",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "169",
+    "Number": "0169",
     "Name": "Crobat",
     "Type1": "Poison",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "173",
+    "Number": "0173",
     "Name": "Cleffa",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "035",
+    "Number": "0035",
     "Name": "Clefairy",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "036",
+    "Number": "0036",
     "Name": "Clefable",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "174",
+    "Number": "0174",
     "Name": "Igglybuff",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "039",
+    "Number": "0039",
     "Name": "Jigglypuff",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "040",
+    "Number": "0040",
     "Name": "Wigglytuff",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "175",
+    "Number": "0175",
     "Name": "Togepi",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "176",
+    "Number": "0176",
     "Name": "Togetic",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "027",
+    "Number": "0027",
     "Name": "Sandshrew",
-    "Type1": "Ground",
-    "Gen": 1
+    "Type1": "Ground"
   },
   {
-    "Number": "028",
+    "Number": "0028",
     "Name": "Sandslash",
-    "Type1": "Ground",
-    "Gen": 1
+    "Type1": "Ground"
   },
   {
-    "Number": "023",
+    "Number": "0023",
     "Name": "Ekans",
-    "Type1": "Poison",
-    "Gen": 1
+    "Type1": "Poison"
   },
   {
-    "Number": "024",
+    "Number": "0024",
     "Name": "Arbok",
-    "Type1": "Poison",
-    "Gen": 1
+    "Type1": "Poison"
   },
   {
-    "Number": "206",
+    "Number": "0206",
     "Name": "Dunsparce",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "179",
+    "Number": "0179",
     "Name": "Mareep",
-    "Type1": "Electric",
-    "Gen": 2
+    "Type1": "Electric"
   },
   {
-    "Number": "180",
+    "Number": "0180",
     "Name": "Flaaffy",
-    "Type1": "Electric",
-    "Gen": 2
+    "Type1": "Electric"
   },
   {
-    "Number": "181",
+    "Number": "0181",
     "Name": "Ampharos",
-    "Type1": "Electric",
-    "Gen": 2
+    "Type1": "Electric"
   },
   {
-    "Number": "194",
+    "Number": "0194",
     "Name": "Wooper",
     "Type1": "Water",
-    "Type2": "Ground",
-    "Gen": 2
+    "Type2": "Ground"
   },
   {
-    "Number": "195",
+    "Number": "0195",
     "Name": "Quagsire",
     "Type1": "Water",
-    "Type2": "Ground",
-    "Gen": 2
+    "Type2": "Ground"
   },
   {
-    "Number": "092",
+    "Number": "0092",
     "Name": "Gastly",
     "Type1": "Ghost",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "093",
+    "Number": "0093",
     "Name": "Haunter",
     "Type1": "Ghost",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "094",
+    "Number": "0094",
     "Name": "Gengar",
     "Type1": "Ghost",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "201",
+    "Number": "0201",
     "Name": "Unown",
-    "Type1": "Psychic",
-    "Gen": 2
+    "Type1": "Psychic"
   },
   {
-    "Number": "095",
+    "Number": "0095",
     "Name": "Onix",
     "Type1": "Rock",
-    "Type2": "Ground",
-    "Gen": 1
+    "Type2": "Ground"
   },
   {
-    "Number": "208",
+    "Number": "0208",
     "Name": "Steelix",
     "Type1": "Steel",
-    "Type2": "Ground",
-    "Gen": 2
+    "Type2": "Ground"
   },
   {
-    "Number": "069",
+    "Number": "0069",
     "Name": "Bellsprout",
     "Type1": "Grass",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "070",
+    "Number": "0070",
     "Name": "Weepinbell",
     "Type1": "Grass",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "071",
+    "Number": "0071",
     "Name": "Victreebel",
     "Type1": "Grass",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "187",
+    "Number": "0187",
     "Name": "Hoppip",
     "Type1": "Grass",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "188",
+    "Number": "0188",
     "Name": "Skiploom",
     "Type1": "Grass",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "189",
+    "Number": "0189",
     "Name": "Jumpluff",
     "Type1": "Grass",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "046",
+    "Number": "0046",
     "Name": "Paras",
     "Type1": "Bug",
-    "Type2": "Grass",
-    "Gen": 1
+    "Type2": "Grass"
   },
   {
-    "Number": "047",
+    "Number": "0047",
     "Name": "Parasect",
     "Type1": "Bug",
-    "Type2": "Grass",
-    "Gen": 1
+    "Type2": "Grass"
   },
   {
-    "Number": "060",
+    "Number": "0060",
     "Name": "Poliwag",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "061",
+    "Number": "0061",
     "Name": "Poliwhirl",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "062",
+    "Number": "0062",
     "Name": "Poliwrath",
     "Type1": "Water",
-    "Type2": "Fighting",
-    "Gen": 1
+    "Type2": "Fighting"
   },
   {
-    "Number": "186",
+    "Number": "0186",
     "Name": "Politoed",
-    "Type1": "Water",
-    "Gen": 2
+    "Type1": "Water"
   },
   {
-    "Number": "129",
+    "Number": "0129",
     "Name": "Magikarp",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "130",
+    "Number": "0130",
     "Name": "Gyarados",
     "Type1": "Water",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "118",
+    "Number": "0118",
     "Name": "Goldeen",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "119",
+    "Number": "0119",
     "Name": "Seaking",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "079",
+    "Number": "0079",
     "Name": "Slowpoke",
     "Type1": "Water",
-    "Type2": "Psychic",
-    "Gen": 1
+    "Type2": "Psychic"
   },
   {
-    "Number": "080",
+    "Number": "0080",
     "Name": "Slowbro",
     "Type1": "Water",
-    "Type2": "Psychic",
-    "Gen": 1
+    "Type2": "Psychic"
   },
   {
-    "Number": "199",
+    "Number": "0199",
     "Name": "Slowking",
     "Type1": "Water",
-    "Type2": "Psychic",
-    "Gen": 2
+    "Type2": "Psychic"
   },
   {
-    "Number": "043",
+    "Number": "0043",
     "Name": "Oddish",
     "Type1": "Grass",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "044",
+    "Number": "0044",
     "Name": "Gloom",
     "Type1": "Grass",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "045",
+    "Number": "0045",
     "Name": "Vileplume",
     "Type1": "Grass",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "182",
+    "Number": "0182",
     "Name": "Bellossom",
-    "Type1": "Grass",
-    "Gen": 2
+    "Type1": "Grass"
   },
   {
-    "Number": "096",
+    "Number": "0096",
     "Name": "Drowzee",
-    "Type1": "Psychic",
-    "Gen": 1
+    "Type1": "Psychic"
   },
   {
-    "Number": "097",
+    "Number": "0097",
     "Name": "Hypno",
-    "Type1": "Psychic",
-    "Gen": 1
+    "Type1": "Psychic"
   },
   {
-    "Number": "063",
+    "Number": "0063",
     "Name": "Abra",
-    "Type1": "Psychic",
-    "Gen": 1
+    "Type1": "Psychic"
   },
   {
-    "Number": "064",
+    "Number": "0064",
     "Name": "Kadabra",
-    "Type1": "Psychic",
-    "Gen": 1
+    "Type1": "Psychic"
   },
   {
-    "Number": "065",
+    "Number": "0065",
     "Name": "Alakazam",
-    "Type1": "Psychic",
-    "Gen": 1
+    "Type1": "Psychic"
   },
   {
-    "Number": "132",
+    "Number": "0132",
     "Name": "Ditto",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "204",
+    "Number": "0204",
     "Name": "Pineco",
-    "Type1": "Bug",
-    "Gen": 2
+    "Type1": "Bug"
   },
   {
-    "Number": "205",
+    "Number": "0205",
     "Name": "Forretress",
     "Type1": "Bug",
-    "Type2": "Steel",
-    "Gen": 2
+    "Type2": "Steel"
   },
   {
-    "Number": "029",
+    "Number": "0029",
     "Name": "Nidoran♀",
-    "Type1": "Poison",
-    "Gen": 1
+    "Type1": "Poison"
   },
   {
-    "Number": "030",
+    "Number": "0030",
     "Name": "Nidorina",
-    "Type1": "Poison",
-    "Gen": 1
+    "Type1": "Poison"
   },
   {
-    "Number": "031",
+    "Number": "0031",
     "Name": "Nidoqueen",
     "Type1": "Poison",
-    "Type2": "Ground",
-    "Gen": 1
+    "Type2": "Ground"
   },
   {
-    "Number": "032",
+    "Number": "0032",
     "Name": "Nidoran♂",
-    "Type1": "Poison",
-    "Gen": 1
+    "Type1": "Poison"
   },
   {
-    "Number": "033",
+    "Number": "0033",
     "Name": "Nidorino",
-    "Type1": "Poison",
-    "Gen": 1
+    "Type1": "Poison"
   },
   {
-    "Number": "034",
+    "Number": "0034",
     "Name": "Nidoking",
     "Type1": "Poison",
-    "Type2": "Ground",
-    "Gen": 1
+    "Type2": "Ground"
   },
   {
-    "Number": "193",
+    "Number": "0193",
     "Name": "Yanma",
     "Type1": "Bug",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "191",
+    "Number": "0191",
     "Name": "Sunkern",
-    "Type1": "Grass",
-    "Gen": 2
+    "Type1": "Grass"
   },
   {
-    "Number": "192",
+    "Number": "0192",
     "Name": "Sunflora",
-    "Type1": "Grass",
-    "Gen": 2
+    "Type1": "Grass"
   },
   {
-    "Number": "102",
+    "Number": "0102",
     "Name": "Exeggcute",
     "Type1": "Grass",
-    "Type2": "Psychic",
-    "Gen": 1
+    "Type2": "Psychic"
   },
   {
-    "Number": "103",
+    "Number": "0103",
     "Name": "Exeggutor",
     "Type1": "Grass",
-    "Type2": "Psychic",
-    "Gen": 1
+    "Type2": "Psychic"
   },
   {
-    "Number": "185",
+    "Number": "0185",
     "Name": "Sudowoodo",
-    "Type1": "Rock",
-    "Gen": 2
+    "Type1": "Rock"
   },
   {
-    "Number": "202",
+    "Number": "0202",
     "Name": "Wobbuffet",
-    "Type1": "Psychic",
-    "Gen": 2
+    "Type1": "Psychic"
   },
   {
-    "Number": "048",
+    "Number": "0048",
     "Name": "Venonat",
     "Type1": "Bug",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "049",
+    "Number": "0049",
     "Name": "Venomoth",
     "Type1": "Bug",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "123",
+    "Number": "0123",
     "Name": "Scyther",
     "Type1": "Bug",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "212",
+    "Number": "0212",
     "Name": "Scizor",
     "Type1": "Bug",
-    "Type2": "Steel",
-    "Gen": 2
+    "Type2": "Steel"
   },
   {
-    "Number": "127",
+    "Number": "0127",
     "Name": "Pinsir",
-    "Type1": "Bug",
-    "Gen": 1
+    "Type1": "Bug"
   },
   {
-    "Number": "214",
+    "Number": "0214",
     "Name": "Heracross",
     "Type1": "Bug",
-    "Type2": "Fighting",
-    "Gen": 2
+    "Type2": "Fighting"
   },
   {
-    "Number": "109",
+    "Number": "0109",
     "Name": "Koffing",
-    "Type1": "Poison",
-    "Gen": 1
+    "Type1": "Poison"
   },
   {
-    "Number": "110",
+    "Number": "0110",
     "Name": "Weezing",
-    "Type1": "Poison",
-    "Gen": 1
+    "Type1": "Poison"
   },
   {
-    "Number": "088",
+    "Number": "0088",
     "Name": "Grimer",
-    "Type1": "Poison",
-    "Gen": 1
+    "Type1": "Poison"
   },
   {
-    "Number": "089",
+    "Number": "0089",
     "Name": "Muk",
-    "Type1": "Poison",
-    "Gen": 1
+    "Type1": "Poison"
   },
   {
-    "Number": "081",
+    "Number": "0081",
     "Name": "Magnemite",
     "Type1": "Electric",
-    "Type2": "Steel",
-    "Gen": 1
+    "Type2": "Steel"
   },
   {
-    "Number": "082",
+    "Number": "0082",
     "Name": "Magneton",
     "Type1": "Electric",
-    "Type2": "Steel",
-    "Gen": 1
+    "Type2": "Steel"
   },
   {
-    "Number": "100",
+    "Number": "0100",
     "Name": "Voltorb",
-    "Type1": "Electric",
-    "Gen": 1
+    "Type1": "Electric"
   },
   {
-    "Number": "101",
+    "Number": "0101",
     "Name": "Electrode",
-    "Type1": "Electric",
-    "Gen": 1
+    "Type1": "Electric"
   },
   {
-    "Number": "190",
+    "Number": "0190",
     "Name": "Aipom",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "209",
+    "Number": "0209",
     "Name": "Snubbull",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "210",
+    "Number": "0210",
     "Name": "Granbull",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "037",
+    "Number": "0037",
     "Name": "Vulpix",
-    "Type1": "Fire",
-    "Gen": 1
+    "Type1": "Fire"
   },
   {
-    "Number": "038",
+    "Number": "0038",
     "Name": "Ninetales",
-    "Type1": "Fire",
-    "Gen": 1
+    "Type1": "Fire"
   },
   {
-    "Number": "058",
+    "Number": "0058",
     "Name": "Growlithe",
-    "Type1": "Fire",
-    "Gen": 1
+    "Type1": "Fire"
   },
   {
-    "Number": "059",
+    "Number": "0059",
     "Name": "Arcanine",
-    "Type1": "Fire",
-    "Gen": 1
+    "Type1": "Fire"
   },
   {
-    "Number": "234",
+    "Number": "0234",
     "Name": "Stantler",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "183",
+    "Number": "0183",
     "Name": "Marill",
-    "Type1": "Water",
-    "Gen": 2
+    "Type1": "Water"
   },
   {
-    "Number": "184",
+    "Number": "0184",
     "Name": "Azumarill",
-    "Type1": "Water",
-    "Gen": 2
+    "Type1": "Water"
   },
   {
-    "Number": "050",
+    "Number": "0050",
     "Name": "Diglett",
-    "Type1": "Ground",
-    "Gen": 1
+    "Type1": "Ground"
   },
   {
-    "Number": "051",
+    "Number": "0051",
     "Name": "Dugtrio",
-    "Type1": "Ground",
-    "Gen": 1
+    "Type1": "Ground"
   },
   {
-    "Number": "056",
+    "Number": "0056",
     "Name": "Mankey",
-    "Type1": "Fighting",
-    "Gen": 1
+    "Type1": "Fighting"
   },
   {
-    "Number": "057",
+    "Number": "0057",
     "Name": "Primeape",
-    "Type1": "Fighting",
-    "Gen": 1
+    "Type1": "Fighting"
   },
   {
-    "Number": "052",
+    "Number": "0052",
     "Name": "Meowth",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "053",
+    "Number": "0053",
     "Name": "Persian",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "054",
+    "Number": "0054",
     "Name": "Psyduck",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "055",
+    "Number": "0055",
     "Name": "Golduck",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "066",
+    "Number": "0066",
     "Name": "Machop",
-    "Type1": "Fighting",
-    "Gen": 1
+    "Type1": "Fighting"
   },
   {
-    "Number": "067",
+    "Number": "0067",
     "Name": "Machoke",
-    "Type1": "Fighting",
-    "Gen": 1
+    "Type1": "Fighting"
   },
   {
-    "Number": "068",
+    "Number": "0068",
     "Name": "Machamp",
-    "Type1": "Fighting",
-    "Gen": 1
+    "Type1": "Fighting"
   },
   {
-    "Number": "236",
+    "Number": "0236",
     "Name": "Tyrogue",
-    "Type1": "Fighting",
-    "Gen": 2
+    "Type1": "Fighting"
   },
   {
-    "Number": "106",
+    "Number": "0106",
     "Name": "Hitmonlee",
-    "Type1": "Fighting",
-    "Gen": 1
+    "Type1": "Fighting"
   },
   {
-    "Number": "107",
+    "Number": "0107",
     "Name": "Hitmonchan",
-    "Type1": "Fighting",
-    "Gen": 1
+    "Type1": "Fighting"
   },
   {
-    "Number": "237",
+    "Number": "0237",
     "Name": "Hitmontop",
-    "Type1": "Fighting",
-    "Gen": 2
+    "Type1": "Fighting"
   },
   {
-    "Number": "203",
+    "Number": "0203",
     "Name": "Girafarig",
     "Type1": "Normal",
-    "Type2": "Psychic",
-    "Gen": 2
+    "Type2": "Psychic"
   },
   {
-    "Number": "128",
+    "Number": "0128",
     "Name": "Tauros",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "241",
+    "Number": "0241",
     "Name": "Miltank",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "240",
+    "Number": "0240",
     "Name": "Magby",
-    "Type1": "Fire",
-    "Gen": 2
+    "Type1": "Fire"
   },
   {
-    "Number": "126",
+    "Number": "0126",
     "Name": "Magmar",
-    "Type1": "Fire",
-    "Gen": 1
+    "Type1": "Fire"
   },
   {
-    "Number": "238",
+    "Number": "0238",
     "Name": "Smoochum",
     "Type1": "Ice",
-    "Type2": "Psychic",
-    "Gen": 2
+    "Type2": "Psychic"
   },
   {
-    "Number": "124",
+    "Number": "0124",
     "Name": "Jynx",
     "Type1": "Ice",
-    "Type2": "Psychic",
-    "Gen": 1
+    "Type2": "Psychic"
   },
   {
-    "Number": "239",
+    "Number": "0239",
     "Name": "Elekid",
-    "Type1": "Electric",
-    "Gen": 2
+    "Type1": "Electric"
   },
   {
-    "Number": "125",
+    "Number": "0125",
     "Name": "Electabuzz",
-    "Type1": "Electric",
-    "Gen": 1
+    "Type1": "Electric"
   },
   {
-    "Number": "122",
+    "Number": "0122",
     "Name": "Mr. Mime",
-    "Type1": "Psychic",
-    "Gen": 1
+    "Type1": "Psychic"
   },
   {
-    "Number": "235",
+    "Number": "0235",
     "Name": "Smeargle",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "083",
+    "Number": "0083",
     "Name": "Farfetch'd",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "177",
+    "Number": "0177",
     "Name": "Natu",
     "Type1": "Psychic",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "178",
+    "Number": "0178",
     "Name": "Xatu",
     "Type1": "Psychic",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "211",
+    "Number": "0211",
     "Name": "Qwilfish",
     "Type1": "Water",
-    "Type2": "Poison",
-    "Gen": 2
+    "Type2": "Poison"
   },
   {
-    "Number": "072",
+    "Number": "0072",
     "Name": "Tentacool",
     "Type1": "Water",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "073",
+    "Number": "0073",
     "Name": "Tentacruel",
     "Type1": "Water",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "098",
+    "Number": "0098",
     "Name": "Krabby",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "099",
+    "Number": "0099",
     "Name": "Kingler",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "213",
+    "Number": "0213",
     "Name": "Shuckle",
     "Type1": "Bug",
-    "Type2": "Rock",
-    "Gen": 2
+    "Type2": "Rock"
   },
   {
-    "Number": "120",
+    "Number": "0120",
     "Name": "Staryu",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "121",
+    "Number": "0121",
     "Name": "Starmie",
     "Type1": "Water",
-    "Type2": "Psychic",
-    "Gen": 1
+    "Type2": "Psychic"
   },
   {
-    "Number": "090",
+    "Number": "0090",
     "Name": "Shellder",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "091",
+    "Number": "0091",
     "Name": "Cloyster",
     "Type1": "Water",
-    "Type2": "Ice",
-    "Gen": 1
+    "Type2": "Ice"
   },
   {
-    "Number": "222",
+    "Number": "0222",
     "Name": "Corsola",
     "Type1": "Water",
-    "Type2": "Rock",
-    "Gen": 2
+    "Type2": "Rock"
   },
   {
-    "Number": "223",
+    "Number": "0223",
     "Name": "Remoraid",
-    "Type1": "Water",
-    "Gen": 2
+    "Type1": "Water"
   },
   {
-    "Number": "224",
+    "Number": "0224",
     "Name": "Octillery",
-    "Type1": "Water",
-    "Gen": 2
+    "Type1": "Water"
   },
   {
-    "Number": "170",
+    "Number": "0170",
     "Name": "Chinchou",
     "Type1": "Water",
-    "Type2": "Electric",
-    "Gen": 2
+    "Type2": "Electric"
   },
   {
-    "Number": "171",
+    "Number": "0171",
     "Name": "Lanturn",
     "Type1": "Water",
-    "Type2": "Electric",
-    "Gen": 2
+    "Type2": "Electric"
   },
   {
-    "Number": "086",
+    "Number": "0086",
     "Name": "Seel",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "087",
+    "Number": "0087",
     "Name": "Dewgong",
     "Type1": "Water",
-    "Type2": "Ice",
-    "Gen": 1
+    "Type2": "Ice"
   },
   {
-    "Number": "108",
+    "Number": "0108",
     "Name": "Lickitung",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "114",
+    "Number": "0114",
     "Name": "Tangela",
-    "Type1": "Grass",
-    "Gen": 1
+    "Type1": "Grass"
   },
   {
-    "Number": "133",
+    "Number": "0133",
     "Name": "Eevee",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "134",
+    "Number": "0134",
     "Name": "Vaporeon",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "135",
+    "Number": "0135",
     "Name": "Jolteon",
-    "Type1": "Electric",
-    "Gen": 1
+    "Type1": "Electric"
   },
   {
-    "Number": "136",
+    "Number": "0136",
     "Name": "Flareon",
-    "Type1": "Fire",
-    "Gen": 1
+    "Type1": "Fire"
   },
   {
-    "Number": "196",
+    "Number": "0196",
     "Name": "Espeon",
-    "Type1": "Psychic",
-    "Gen": 2
+    "Type1": "Psychic"
   },
   {
-    "Number": "197",
+    "Number": "0197",
     "Name": "Umbreon",
-    "Type1": "Dark",
-    "Gen": 2
+    "Type1": "Dark"
   },
   {
-    "Number": "116",
+    "Number": "0116",
     "Name": "Horsea",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "117",
+    "Number": "0117",
     "Name": "Seadra",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "230",
+    "Number": "0230",
     "Name": "Kingdra",
     "Type1": "Water",
-    "Type2": "Dragon",
-    "Gen": 2
+    "Type2": "Dragon"
   },
   {
-    "Number": "207",
+    "Number": "0207",
     "Name": "Gligar",
     "Type1": "Ground",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "225",
+    "Number": "0225",
     "Name": "Delibird",
     "Type1": "Ice",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "220",
+    "Number": "0220",
     "Name": "Swinub",
     "Type1": "Ice",
-    "Type2": "Ground",
-    "Gen": 2
+    "Type2": "Ground"
   },
   {
-    "Number": "221",
+    "Number": "0221",
     "Name": "Piloswine",
     "Type1": "Ice",
-    "Type2": "Ground",
-    "Gen": 2
+    "Type2": "Ground"
   },
   {
-    "Number": "216",
+    "Number": "0216",
     "Name": "Teddiursa",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "217",
+    "Number": "0217",
     "Name": "Ursaring",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "231",
+    "Number": "0231",
     "Name": "Phanpy",
-    "Type1": "Ground",
-    "Gen": 2
+    "Type1": "Ground"
   },
   {
-    "Number": "232",
+    "Number": "0232",
     "Name": "Donphan",
-    "Type1": "Ground",
-    "Gen": 2
+    "Type1": "Ground"
   },
   {
-    "Number": "226",
+    "Number": "0226",
     "Name": "Mantine",
     "Type1": "Water",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "227",
+    "Number": "0227",
     "Name": "Skarmory",
     "Type1": "Steel",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "084",
+    "Number": "0084",
     "Name": "Doduo",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "085",
+    "Number": "0085",
     "Name": "Dodrio",
     "Type1": "Normal",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "077",
+    "Number": "0077",
     "Name": "Ponyta",
-    "Type1": "Fire",
-    "Gen": 1
+    "Type1": "Fire"
   },
   {
-    "Number": "078",
+    "Number": "0078",
     "Name": "Rapidash",
-    "Type1": "Fire",
-    "Gen": 1
+    "Type1": "Fire"
   },
   {
-    "Number": "104",
+    "Number": "0104",
     "Name": "Cubone",
-    "Type1": "Ground",
-    "Gen": 1
+    "Type1": "Ground"
   },
   {
-    "Number": "105",
+    "Number": "0105",
     "Name": "Marowak",
-    "Type1": "Ground",
-    "Gen": 1
+    "Type1": "Ground"
   },
   {
-    "Number": "115",
+    "Number": "0115",
     "Name": "Kangaskhan",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "111",
+    "Number": "0111",
     "Name": "Rhyhorn",
     "Type1": "Ground",
-    "Type2": "Rock",
-    "Gen": 1
+    "Type2": "Rock"
   },
   {
-    "Number": "112",
+    "Number": "0112",
     "Name": "Rhydon",
     "Type1": "Ground",
-    "Type2": "Rock",
-    "Gen": 1
+    "Type2": "Rock"
   },
   {
-    "Number": "198",
+    "Number": "0198",
     "Name": "Murkrow",
     "Type1": "Dark",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "228",
+    "Number": "0228",
     "Name": "Houndour",
     "Type1": "Dark",
-    "Type2": "Fire",
-    "Gen": 2
+    "Type2": "Fire"
   },
   {
-    "Number": "229",
+    "Number": "0229",
     "Name": "Houndoom",
     "Type1": "Dark",
-    "Type2": "Fire",
-    "Gen": 2
+    "Type2": "Fire"
   },
   {
-    "Number": "218",
+    "Number": "0218",
     "Name": "Slugma",
-    "Type1": "Fire",
-    "Gen": 2
+    "Type1": "Fire"
   },
   {
-    "Number": "219",
+    "Number": "0219",
     "Name": "Magcargo",
     "Type1": "Fire",
-    "Type2": "Rock",
-    "Gen": 2
+    "Type2": "Rock"
   },
   {
-    "Number": "215",
+    "Number": "0215",
     "Name": "Sneasel",
     "Type1": "Dark",
-    "Type2": "Ice",
-    "Gen": 2
+    "Type2": "Ice"
   },
   {
-    "Number": "200",
+    "Number": "0200",
     "Name": "Misdreavus",
-    "Type1": "Ghost",
-    "Gen": 2
+    "Type1": "Ghost"
   },
   {
-    "Number": "137",
+    "Number": "0137",
     "Name": "Porygon",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "233",
+    "Number": "0233",
     "Name": "Porygon2",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "113",
+    "Number": "0113",
     "Name": "Chansey",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "242",
+    "Number": "0242",
     "Name": "Blissey",
-    "Type1": "Normal",
-    "Gen": 2
+    "Type1": "Normal"
   },
   {
-    "Number": "131",
+    "Number": "0131",
     "Name": "Lapras",
     "Type1": "Water",
-    "Type2": "Ice",
-    "Gen": 1
+    "Type2": "Ice"
   },
   {
-    "Number": "138",
+    "Number": "0138",
     "Name": "Omanyte",
     "Type1": "Rock",
-    "Type2": "Water",
-    "Gen": 1
+    "Type2": "Water"
   },
   {
-    "Number": "139",
+    "Number": "0139",
     "Name": "Omastar",
     "Type1": "Rock",
-    "Type2": "Water",
-    "Gen": 1
+    "Type2": "Water"
   },
   {
-    "Number": "140",
+    "Number": "0140",
     "Name": "Kabuto",
     "Type1": "Rock",
-    "Type2": "Water",
-    "Gen": 1
+    "Type2": "Water"
   },
   {
-    "Number": "141",
+    "Number": "0141",
     "Name": "Kabutops",
     "Type1": "Rock",
-    "Type2": "Water",
-    "Gen": 1
+    "Type2": "Water"
   },
   {
-    "Number": "142",
+    "Number": "0142",
     "Name": "Aerodactyl",
     "Type1": "Rock",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "143",
+    "Number": "0143",
     "Name": "Snorlax",
-    "Type1": "Normal",
-    "Gen": 1
+    "Type1": "Normal"
   },
   {
-    "Number": "001",
+    "Number": "0001",
     "Name": "Bulbasaur",
     "Type1": "Grass",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "002",
+    "Number": "0002",
     "Name": "Ivysaur",
     "Type1": "Grass",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "003",
+    "Number": "0003",
     "Name": "Venusaur",
     "Type1": "Grass",
-    "Type2": "Poison",
-    "Gen": 1
+    "Type2": "Poison"
   },
   {
-    "Number": "004",
+    "Number": "0004",
     "Name": "Charmander",
-    "Type1": "Fire",
-    "Gen": 1
+    "Type1": "Fire"
   },
   {
-    "Number": "005",
+    "Number": "0005",
     "Name": "Charmeleon",
-    "Type1": "Fire",
-    "Gen": 1
+    "Type1": "Fire"
   },
   {
-    "Number": "006",
+    "Number": "0006",
     "Name": "Charizard",
     "Type1": "Fire",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "007",
+    "Number": "0007",
     "Name": "Squirtle",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "008",
+    "Number": "0008",
     "Name": "Wartortle",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "009",
+    "Number": "0009",
     "Name": "Blastoise",
-    "Type1": "Water",
-    "Gen": 1
+    "Type1": "Water"
   },
   {
-    "Number": "144",
+    "Number": "0144",
     "Name": "Articuno",
     "Type1": "Ice",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "145",
+    "Number": "0145",
     "Name": "Zapdos",
     "Type1": "Electric",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "146",
+    "Number": "0146",
     "Name": "Moltres",
     "Type1": "Fire",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "243",
+    "Number": "0243",
     "Name": "Raikou",
-    "Type1": "Electric",
-    "Gen": 2
+    "Type1": "Electric"
   },
   {
-    "Number": "244",
+    "Number": "0244",
     "Name": "Entei",
-    "Type1": "Fire",
-    "Gen": 2
+    "Type1": "Fire"
   },
   {
-    "Number": "245",
+    "Number": "0245",
     "Name": "Suicune",
-    "Type1": "Water",
-    "Gen": 2
+    "Type1": "Water"
   },
   {
-    "Number": "147",
+    "Number": "0147",
     "Name": "Dratini",
-    "Type1": "Dragon",
-    "Gen": 1
+    "Type1": "Dragon"
   },
   {
-    "Number": "148",
+    "Number": "0148",
     "Name": "Dragonair",
-    "Type1": "Dragon",
-    "Gen": 1
+    "Type1": "Dragon"
   },
   {
-    "Number": "149",
+    "Number": "0149",
     "Name": "Dragonite",
     "Type1": "Dragon",
-    "Type2": "Flying",
-    "Gen": 1
+    "Type2": "Flying"
   },
   {
-    "Number": "246",
+    "Number": "0246",
     "Name": "Larvitar",
     "Type1": "Rock",
-    "Type2": "Ground",
-    "Gen": 2
+    "Type2": "Ground"
   },
   {
-    "Number": "247",
+    "Number": "0247",
     "Name": "Pupitar",
     "Type1": "Rock",
-    "Type2": "Ground",
-    "Gen": 2
+    "Type2": "Ground"
   },
   {
-    "Number": "248",
+    "Number": "0248",
     "Name": "Tyranitar",
     "Type1": "Rock",
-    "Type2": "Dark",
-    "Gen": 2
+    "Type2": "Dark"
   },
   {
-    "Number": "249",
+    "Number": "0249",
     "Name": "Lugia",
     "Type1": "Psychic",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "250",
+    "Number": "0250",
     "Name": "Ho-Oh",
     "Type1": "Fire",
-    "Type2": "Flying",
-    "Gen": 2
+    "Type2": "Flying"
   },
   {
-    "Number": "150",
+    "Number": "0150",
     "Name": "Mewtwo",
-    "Type1": "Psychic",
-    "Gen": 1
+    "Type1": "Psychic"
   },
   {
-    "Number": "151",
+    "Number": "0151",
     "Name": "Mew",
-    "Type1": "Psychic",
-    "Gen": 1
+    "Type1": "Psychic"
   },
   {
-    "Number": "251",
+    "Number": "0251",
     "Name": "Celebi",
     "Type1": "Psychic",
-    "Type2": "Grass",
-    "Gen": 2
+    "Type2": "Grass"
   }
 ]

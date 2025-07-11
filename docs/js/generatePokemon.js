@@ -13,10 +13,12 @@ function mktables(gen){
       let typeSelector = document.getElementById("Type");
       let typeFilter = typeSelector.options[typeSelector.selectedIndex].text;
       target = document.getElementById(`pkmtable`);
+      let titolo = document.getElementById('genlb')
       let counter = 0
       let tempText = ""
       let row = ""
       let regionName = region.charAt(0).toUpperCase() + region.slice(1);
+      titolo.innerHTML = `${regionName}`
       for(let i=0; i<globalData.length; i++)
       {
         const pkm = globalData[i];
@@ -26,7 +28,7 @@ function mktables(gen){
               tempText+=`<tr>${row}</tr>`
               row = ""
             }
-          row+=`<td class="pkm">${globalData[i].Name}</td>`
+          row+=`<td class="pkm"><img src='${globalData[i].Number}.png' loading='lazy'>${globalData[i].Name}</td>`
           counter ++
         
         }
