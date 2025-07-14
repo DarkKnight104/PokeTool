@@ -3,7 +3,7 @@ region = ""
 target = ""
 async function getData(gen,y){
     region = y
-    const response = await fetch(`https://darkknight104.github.io/PokeTool/data/${region}.json`); 
+    const response = await fetch(`https://darkknight104.github.io/PokeTool/data/Dexes/${region}.json`); 
     globalData = await response.json();
     mktables(gen)
     }
@@ -28,7 +28,7 @@ function mktables(gen){
               tempText+=`<tr>${row}</tr>`
               row = ""
             }
-          row+=`<td class="pkm"><img src='${globalData[i].Number}.png' loading='lazy'>${globalData[i].Name}</td>`
+          row+=`<td class="pkm"><img src='data/artwork/0${globalData[i].Number}${globalData[i].Name}.png' loading='lazy'>${globalData[i].Name}</td>`
           counter ++
         
         }
