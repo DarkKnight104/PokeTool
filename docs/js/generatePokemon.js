@@ -3,13 +3,13 @@ region = ""
 target = ""
 async function getData(gen,y){
     region = y
-    const response = await fetch(`https://darkknight104.github.io/PokeTool/data/Dexes/${region}.json`); 
+    const response = await fetch(`data/Dexes/${region}.json`); 
     globalData = await response.json();
     mktables(gen)
     }
 function mktables(gen){
       clearTable();
-      let genFilter = document.getElementById("Gen").value;
+      let genFilter = Number(document.getElementById("Gen").value);
       let typeSelector = document.getElementById("Type");
       let typeFilter = typeSelector.options[typeSelector.selectedIndex].text;
       target = document.getElementById(`pkmtable`);
@@ -22,20 +22,19 @@ function mktables(gen){
       for(let i=0; i<globalData.length; i++)
       {
         const pkm = globalData[i];
-        if((typeFilter==="- All -" || pkm.Type1==typeFilter || pkm.Type2==typeFilter) && (Number(genFilter) === 0 || Number(genFilter) == Number(pkm.Gen))){
+        if((typeFilter==="- All -" || pkm.Type1==typeFilter || pkm.Type2==typeFilter) && (genFilter === 0 || genFilter == Number(pkm.Gen))){
           if(counter%3==0 && counter>=3)
             {
               tempText+=`<tr>${row}</tr>`
               row = ""
             }
-          row+=`<td class="pkm"><img src='data/artwork/0${globalData[i].Number}${globalData[i].Name}.png' loading='lazy'>${globalData[i].Name}</td>`
+          row+=`<td class="pkm"><img src="data/artwork/${globalData[i].Number}${globalData[i].Name}.png" loading='lazy'>${globalData[i].Name}</td>`
           counter ++
         
         }
         
       }
       tempText+=`<tr>${row}</tr>`
-      console.log(tempText)
       target.innerHTML += tempText      
       
       
