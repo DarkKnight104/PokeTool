@@ -1,83 +1,32 @@
-const csv = require('csv-parser')
-const fs = require('fs')
-let results = [];
-fs.createReadStream(`tools/kanto.csv`)
-  .pipe(csv())
-  .on('data', (data) => {
-    results.push(data)})
-  .on('end', () => {
-    fs.writeFileSync(`docs/data/Dexes/kanto.json`, JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
-fs.createReadStream(`tools/jhoto.csv`)
-  .pipe(csv())
-  .on('data', (data) => {
-    results.push(data)})
-  .on('end', () => {
-    fs.writeFileSync(`docs/data/Dexes/jhoto.json`, JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
-fs.createReadStream(`tools/hoenn.csv`)
-  .pipe(csv())
-  .on('data', (data) => {
-    results.push(data)})
-  .on('end', () => {
-    fs.writeFileSync(`docs/data/Dexes/hoenn.json`, JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
-fs.createReadStream(`tools/sinnoh.csv`)
-  .pipe(csv())
-  .on('data', (data) => {
-    results.push(data)})
-  .on('end', () => {
-    fs.writeFileSync(`docs/data/Dexes/sinnoh.json`, JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
-fs.createReadStream(`tools/unova.csv`)
-  .pipe(csv())
-  .on('data', (data) => {
-    results.push(data)})
-  .on('end', () => {
-    fs.writeFileSync(`docs/data/Dexes/unova.json`, JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
-fs.createReadStream(`tools/kalos.csv`)
-  .pipe(csv())
-  .on('data', (data) => {
-    results.push(data)})
-  .on('end', () => {
-    fs.writeFileSync(`docs/data/Dexes/kalos.json`, JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
-fs.createReadStream(`tools/alola.csv`)
-  .pipe(csv())
-  .on('data', (data) => {
-    results.push(data)})
-  .on('end', () => {
-    fs.writeFileSync(`docs/data/Dexes/alola.json`, JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
-fs.createReadStream(`tools/galar.csv`)
-  .pipe(csv())
-  .on('data', (data) => {
-    results.push(data)})
-  .on('end', () => {
-    fs.writeFileSync(`docs/data/Dexes/galar.json`, JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
-fs.createReadStream(`tools/paldea.csv`)
-  .pipe(csv())
-  .on('data', (data) => {
-    results.push(data)})
-  .on('end', () => {
-    fs.writeFileSync(`docs/data/Dexes/paldea.json`, JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
-  fs.createReadStream(`tools/national.csv`)
-  .pipe(csv())
-  .on('data', (data) => {
-    results.push(data)})
-  .on('end', () => {
-    fs.writeFileSync(`docs/data/Dexes/national.json`, JSON.stringify(results, null, 2));
-    console.log("pokemon.json creato!");
-  });
+const csv = require('csv-parser');
+const fs = require('fs');
+
+for (let i = 0; i < 10; i++) {
+  let fileName = '';
+  let outputName = '';
+
+  switch (i) {
+    case 0: fileName = 'kanto'; break;
+    case 1: fileName = 'jhoto'; break;
+    case 2: fileName = 'hoenn'; break;
+    case 3: fileName = 'sinnoh'; break;
+    case 4: fileName = 'unova'; break;
+    case 5: fileName = 'kalos'; break;
+    case 6: fileName = 'alola'; break;
+    case 7: fileName = 'galar'; break;
+    case 8: fileName = 'paldea'; break;
+    case 9: fileName = 'national'; break;
+  }
+
+  const results = []; // define locally per loop iteration
+
+  fs.createReadStream(`tools/${fileName}.csv`)
+    .pipe(csv())
+    .on('data', (data) => {
+      results.push(data);
+    })
+    .on('end', () => {
+      fs.writeFileSync(`docs/data/Dexes/${fileName}.json`, JSON.stringify(results, null, 2));
+      console.log(`${fileName}.json creato!`);
+    });
+}

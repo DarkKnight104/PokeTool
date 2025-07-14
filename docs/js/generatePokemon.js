@@ -3,7 +3,7 @@ region = ""
 target = ""
 async function getData(gen,y){
     region = y
-    const response = await fetch(`data/Dexes/${region}.json`); 
+    const response = await fetch(`data/Dexes/${region}.json`);
     globalData = await response.json();
     mktables(gen)
     }
