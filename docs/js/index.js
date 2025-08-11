@@ -11,7 +11,7 @@ games.onclick = function(){
     location.href = "pokedex.html"
 }
 tools.onclick = function(){
-    location.href = "pokedex.html"
+    location.href = "tools.html"
 }
 extra.onclick = function(){
     location.href = "pokedex.html"

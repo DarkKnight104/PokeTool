@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/randomizer.css">
+</head>
+<body>
+    <table>
+        <tr>
+            <th id="img1"></th>
+            <th id="img2"></th>
+            <th id="img3"></th>
+            <th id="img4"></th>
+            <th id="img5"></th>
+            <th id="img6"></th>
+        </tr>
+        <tr>
+            <th colspan="6" class="inputs"><button id="generate">Generate</button></th>
+        </tr>
+         <tr>
+            <th colspan="6" class="inputs"><input id="slider" type="range" min="1" max="6" value="1"></th>
+        </tr>
+        <tr>
+            <th colspan="2" class="inputs">
+                <select id="dexType" class="">
+                    <option value>National</option>
+                    <option value="1">Kanto</option>
+                    <option value="2">Jhoto</option>
+                    <option value="3">Hoenn</option>
+                    <option value="4">Sinnoh</option>
+                    <option value="5">Unova</option>
+                    <option value="6">Kalos</option>
+                    <option value="7">Alola</option>
+                    <option value="8">Galar</option>
+                    <option value="9">Paldea</option>
+                </select>
+            </th>
+            <th colspan="2" class="inputs">
+                <div class="dropdown">
+                    <button>Gen</button>
+                    <div class="popup">
+                        <label><input type="checkbox" value="1" name="gen" id="gen1">1</label><br>
+                        <label><input type="checkbox" value="2" name="gen" id="gen2">2</label><br>
+                        <label><input type="checkbox" value="3" name="gen" id="gen3">3</label><br>
+                        <label><input type="checkbox" value="4" name="gen" id="gen4">4</label><br>
+                        <label><input type="checkbox" value="5" name="gen" id="gen5">5</label><br>
+                        <label><input type="checkbox" value="6" name="gen" id="gen6">6</label><br>
+                        <label><input type="checkbox" value="7" name="gen" id="gen7">7</label><br>
+                        <label><input type="checkbox" value="8" name="gen" id="gen8">8</label><br>
+                        <label><input type="checkbox" value="9" name="gen" id="gen9">9</label><br>
+                    </div>
+                </div>
+            </th>
+            <th colspan="2" class="inputs">
+                <div class="dropdown">
+                    <button>Type</button>
+                    <div class="popup">
+                        <label><input type="checkbox" name="type" value="Normal">Normal</label><br>
+                        <label><input type="checkbox" name="type" value="Fire">Fire</label><br>
+                        <label><input type="checkbox" name="type" value="Water">Water</label><br>
+                        <label><input type="checkbox" name="type" value="Electric">Electric</label><br>
+                        <label><input type="checkbox" name="type" value="Grass">Grass</label><br>
+                        <label><input type="checkbox" name="type" value="Ice">Ice</label><br>
+                        <label><input type="checkbox" name="type" value="Fighting">Fighting</label><br>
+                        <label><input type="checkbox" name="type" value="Poison">Poison</label><br>
+                        <label><input type="checkbox" name="type" value="Ground">Ground</label><br>
+                        <label><input type="checkbox" name="type" value="Flying">Flying</label><br>
+                        <label><input type="checkbox" name="type" value="Psychic">Psychic</label><br>
+                        <label><input type="checkbox" name="type" value="Bug">Bug</label><br>
+                        <label><input type="checkbox" name="type" value="Rock">Rock</label><br>
+                        <label><input type="checkbox" name="type" value="Ghost">Ghost</label><br>
+                        <label><input type="checkbox" name="type" value="Dragon">Dragon</label><br>
+                        <label><input type="checkbox" name="type" value="Dark">Dark</label><br>
+                        <label><input type="checkbox" name="type" value="Steel">Steel</label><br>
+                        <label><input type="checkbox" name="type" value="Fairy">Fairy</label><br>
+                    </div>
+                </div>
+            </th>
+            </tr>
+            <tr>
+            <th colspan="2" class="inputs">
+                <div class="dropdown">
+                    <button>Status</button>
+                    <div class="popup">
+                        <label><input type="checkbox" value="Option1" id="NotLegend">Non-Legendaries</label><br>
+                        <label><input type="checkbox" value="Option1" id="Legend">Legendaries</label><br>
+                        <label><input type="checkbox" value="Option1" id="Mythical">Mythical</label><br>
+                    </div>
+                </div>
+            </th>
+            <th colspan="2" class="inputs">
+                <div class="dropdown">
+                    <button>Evo</button>
+                    <div class="popup">
+                        <label><input type="checkbox" value="Option1" id="FullEvo">Fully Evolved</label><br>
+                        <label><input type="checkbox" value="Option1" id="NotFullEvo">Not Fully Evolved</label><br>
+                        <label><input type="checkbox" value="Option1" id="BaseForm">Base Form</label><br>
+                        <label><input type="checkbox" value="Option1" id="Stage1">Stage 1</label><br>
+                        <label><input type="checkbox" value="Option1" id="Stage2">Stage 2</label><br>
+                    </div>
+                </div>
+            </th>
+            <th colspan="2" class="inputs">
+                <div class="dropdown">
+                    <button>Form</button>
+                    <div class="popup">
+                        <label><input type="checkbox" value="Option1" id="GenDif">Sexual dimorphism</label><br>
+                        <label><input type="checkbox" value="Option1" id="RegVar">Regional variant</label><br>
+                        <label><input type="checkbox" value="Option1" id="AltForm">Alternate Form</label><br>
+                    </div>
+                </div>
+            </th>
+            </tr>
+    </table>
+    <script src="js/randomizer.js"></script>
+</body>
+</html>
