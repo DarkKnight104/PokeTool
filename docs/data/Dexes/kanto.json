@@ -4,1056 +4,3356 @@
     "Name": "Bulbasaur",
     "Type1": "Grass",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0002",
     "Name": "Ivysaur",
     "Type1": "Grass",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0003",
     "Name": "Venusaur",
     "Type1": "Grass",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0004",
     "Name": "Charmander",
     "Type1": "Fire",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0005",
     "Name": "Charmeleon",
     "Type1": "Fire",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0006",
     "Name": "Charizard",
     "Type1": "Fire",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Electric"
+    ],
+    "Resistances": [
+      "Fire",
+      "Fighting",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [
+      "Rock"
+    ],
+    "QuadResistances": [
+      "Grass",
+      "Bug"
+    ],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0007",
     "Name": "Squirtle",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0008",
     "Name": "Wartortle",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0009",
     "Name": "Blastoise",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0010",
     "Name": "Caterpie",
     "Type1": "Bug",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0011",
     "Name": "Metapod",
     "Type1": "Bug",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0012",
     "Name": "Butterfree",
     "Type1": "Bug",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Electric",
+      "Ice",
+      "Flying"
+    ],
+    "Resistances": [
+      "Bug"
+    ],
+    "QuadWeaknesses": [
+      "Rock"
+    ],
+    "QuadResistances": [
+      "Grass",
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0013",
     "Name": "Weedle",
     "Type1": "Bug",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "Resistances": [
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass",
+      "Fighting"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0014",
     "Name": "Kakuna",
     "Type1": "Bug",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "Resistances": [
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass",
+      "Fighting"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0015",
     "Name": "Beedrill",
     "Type1": "Bug",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "Resistances": [
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass",
+      "Fighting"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0016",
     "Name": "Pidgey",
     "Type1": "Normal",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Bug"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ground",
+      "Ghost"
+    ]
   },
   {
     "Number": "0017",
     "Name": "Pidgeotto",
     "Type1": "Normal",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Bug"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ground",
+      "Ghost"
+    ]
   },
   {
     "Number": "0018",
     "Name": "Pidgeot",
     "Type1": "Normal",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Bug"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ground",
+      "Ghost"
+    ]
   },
   {
     "Number": "0019",
     "Name": "Rattata",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0020",
     "Name": "Raticate",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0021",
     "Name": "Spearow",
     "Type1": "Normal",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Bug"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ground",
+      "Ghost"
+    ]
   },
   {
     "Number": "0022",
     "Name": "Fearow",
     "Type1": "Normal",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Bug"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ground",
+      "Ghost"
+    ]
   },
   {
     "Number": "0023",
     "Name": "Ekans",
     "Type1": "Poison",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0024",
     "Name": "Arbok",
     "Type1": "Poison",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0025",
     "Name": "Pikachu",
     "Type1": "Electric",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground"
+    ],
+    "Resistances": [
+      "Electric",
+      "Flying",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0026",
     "Name": "Raichu",
     "Type1": "Electric",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground"
+    ],
+    "Resistances": [
+      "Electric",
+      "Flying",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0027",
     "Name": "Sandshrew",
     "Type1": "Ground",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "Resistances": [
+      "Poison",
+      "Rock"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0028",
     "Name": "Sandslash",
     "Type1": "Ground",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "Resistances": [
+      "Poison",
+      "Rock"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0029",
     "Name": "Nidoran♀",
     "Type1": "Poison",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0030",
     "Name": "Nidorina",
     "Type1": "Poison",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0031",
     "Name": "Nidoqueen",
     "Type1": "Poison",
     "Type2": "Ground",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ice",
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Bug",
+      "Rock",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Poison"
+    ],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0032",
     "Name": "Nidoran♂",
     "Type1": "Poison",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0033",
     "Name": "Nidorino",
     "Type1": "Poison",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0034",
     "Name": "Nidoking",
     "Type1": "Poison",
     "Type2": "Ground",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ice",
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Bug",
+      "Rock",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Poison"
+    ],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0035",
     "Name": "Clefairy",
     "Type1": "Fairy",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Poison",
+      "Steel"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Bug",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Dragon"
+    ]
   },
   {
     "Number": "0036",
     "Name": "Clefable",
     "Type1": "Fairy",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Poison",
+      "Steel"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Bug",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Dragon"
+    ]
   },
   {
     "Number": "0037",
     "Name": "Vulpix",
     "Type1": "Fire",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0038",
     "Name": "Ninetales",
     "Type1": "Fire",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0039",
     "Name": "Jigglypuff",
     "Type1": "Normal",
     "Type2": "Fairy",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Poison",
+      "Steel"
+    ],
+    "Resistances": [
+      "Bug",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ghost",
+      "Dragon"
+    ]
   },
   {
     "Number": "0040",
     "Name": "Wigglytuff",
     "Type1": "Normal",
     "Type2": "Fairy",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Poison",
+      "Steel"
+    ],
+    "Resistances": [
+      "Bug",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ghost",
+      "Dragon"
+    ]
   },
   {
     "Number": "0041",
     "Name": "Zubat",
     "Type1": "Poison",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ],
+    "Resistances": [
+      "Poison",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0042",
     "Name": "Golbat",
     "Type1": "Poison",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ],
+    "Resistances": [
+      "Poison",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass",
+      "Fighting",
+      "Bug"
+    ],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0043",
     "Name": "Oddish",
     "Type1": "Grass",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0044",
     "Name": "Gloom",
     "Type1": "Grass",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0045",
     "Name": "Vileplume",
     "Type1": "Grass",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0046",
     "Name": "Paras",
     "Type1": "Bug",
     "Type2": "Grass",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Poison",
+      "Bug",
+      "Rock"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting"
+    ],
+    "QuadWeaknesses": [
+      "Fire",
+      "Flying"
+    ],
+    "QuadResistances": [
+      "Grass",
+      "Ground"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0047",
     "Name": "Parasect",
     "Type1": "Bug",
     "Type2": "Grass",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Poison",
+      "Bug",
+      "Rock"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting"
+    ],
+    "QuadWeaknesses": [
+      "Fire",
+      "Flying"
+    ],
+    "QuadResistances": [
+      "Grass",
+      "Ground"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0048",
     "Name": "Venonat",
     "Type1": "Bug",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "Resistances": [
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass",
+      "Fighting"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0049",
     "Name": "Venomoth",
     "Type1": "Bug",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "Resistances": [
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass",
+      "Fighting"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0050",
     "Name": "Diglett",
     "Type1": "Ground",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "Resistances": [
+      "Poison",
+      "Rock"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0051",
     "Name": "Dugtrio",
     "Type1": "Ground",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "Resistances": [
+      "Poison",
+      "Rock"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0052",
     "Name": "Meowth",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0053",
     "Name": "Persian",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0054",
     "Name": "Psyduck",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0055",
     "Name": "Golduck",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0056",
     "Name": "Mankey",
     "Type1": "Fighting",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Bug",
+      "Rock",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0057",
     "Name": "Primeape",
     "Type1": "Fighting",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Bug",
+      "Rock",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0058",
     "Name": "Growlithe",
     "Type1": "Fire",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0059",
     "Name": "Arcanine",
     "Type1": "Fire",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0060",
     "Name": "Poliwag",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0061",
     "Name": "Poliwhirl",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0062",
     "Name": "Poliwrath",
     "Type1": "Water",
     "Type2": "Fighting",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass",
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Bug",
+      "Rock",
+      "Dark",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0063",
     "Name": "Abra",
     "Type1": "Psychic",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Psychic"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0064",
     "Name": "Kadabra",
     "Type1": "Psychic",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Psychic"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0065",
     "Name": "Alakazam",
     "Type1": "Psychic",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Psychic"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0066",
     "Name": "Machop",
     "Type1": "Fighting",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Bug",
+      "Rock",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0067",
     "Name": "Machoke",
     "Type1": "Fighting",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Bug",
+      "Rock",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0068",
     "Name": "Machamp",
     "Type1": "Fighting",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Bug",
+      "Rock",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0069",
     "Name": "Bellsprout",
     "Type1": "Grass",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0070",
     "Name": "Weepinbell",
     "Type1": "Grass",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0071",
     "Name": "Victreebel",
     "Type1": "Grass",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Grass"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0072",
     "Name": "Tentacool",
     "Type1": "Water",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0073",
     "Name": "Tentacruel",
     "Type1": "Water",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0074",
     "Name": "Geodude",
     "Type1": "Rock",
     "Type2": "Ground",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "Resistances": [
+      "Normal",
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "QuadWeaknesses": [
+      "Water",
+      "Grass"
+    ],
+    "QuadResistances": [
+      "Poison"
+    ],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0075",
     "Name": "Graveler",
     "Type1": "Rock",
     "Type2": "Ground",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "Resistances": [
+      "Normal",
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "QuadWeaknesses": [
+      "Water",
+      "Grass"
+    ],
+    "QuadResistances": [
+      "Poison"
+    ],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0076",
     "Name": "Golem",
     "Type1": "Rock",
     "Type2": "Ground",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "Resistances": [
+      "Normal",
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "QuadWeaknesses": [
+      "Water",
+      "Grass"
+    ],
+    "QuadResistances": [
+      "Poison"
+    ],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0077",
     "Name": "Ponyta",
     "Type1": "Fire",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0078",
     "Name": "Rapidash",
     "Type1": "Fire",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0079",
     "Name": "Slowpoke",
     "Type1": "Water",
     "Type2": "Psychic",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Fighting",
+      "Psychic",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0080",
     "Name": "Slowbro",
     "Type1": "Water",
     "Type2": "Psychic",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Fighting",
+      "Psychic",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0081",
     "Name": "Magnemite",
     "Type1": "Electric",
     "Type2": "Steel",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Fighting"
+    ],
+    "Resistances": [
+      "Normal",
+      "Electric",
+      "Grass",
+      "Ice",
+      "Psychic",
+      "Bug",
+      "Rock",
+      "Dragon",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [
+      "Ground"
+    ],
+    "QuadResistances": [
+      "Flying",
+      "Steel"
+    ],
+    "Immunity": [
+      "Poison"
+    ]
   },
   {
     "Number": "0082",
     "Name": "Magneton",
     "Type1": "Electric",
     "Type2": "Steel",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Fighting"
+    ],
+    "Resistances": [
+      "Normal",
+      "Electric",
+      "Grass",
+      "Ice",
+      "Psychic",
+      "Bug",
+      "Rock",
+      "Dragon",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [
+      "Ground"
+    ],
+    "QuadResistances": [
+      "Flying",
+      "Steel"
+    ],
+    "Immunity": [
+      "Poison"
+    ]
   },
   {
     "Number": "0083",
     "Name": "Farfetch'd",
     "Type1": "Normal",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Bug"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ground",
+      "Ghost"
+    ]
   },
   {
     "Number": "0084",
     "Name": "Doduo",
     "Type1": "Normal",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Bug"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ground",
+      "Ghost"
+    ]
   },
   {
     "Number": "0085",
     "Name": "Dodrio",
     "Type1": "Normal",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Bug"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ground",
+      "Ghost"
+    ]
   },
   {
     "Number": "0086",
     "Name": "Seel",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0087",
     "Name": "Dewgong",
     "Type1": "Water",
     "Type2": "Ice",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "Resistances": [
+      "Water"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Ice"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0088",
     "Name": "Grimer",
     "Type1": "Poison",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0089",
     "Name": "Muk",
     "Type1": "Poison",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0090",
     "Name": "Shellder",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0091",
     "Name": "Cloyster",
     "Type1": "Water",
     "Type2": "Ice",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "Resistances": [
+      "Water"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Ice"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0092",
     "Name": "Gastly",
     "Type1": "Ghost",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Poison",
+      "Bug"
+    ],
+    "Immunity": [
+      "Normal",
+      "Fighting"
+    ]
   },
   {
     "Number": "0093",
     "Name": "Haunter",
     "Type1": "Ghost",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Poison",
+      "Bug"
+    ],
+    "Immunity": [
+      "Normal",
+      "Fighting"
+    ]
   },
   {
     "Number": "0094",
     "Name": "Gengar",
     "Type1": "Ghost",
     "Type2": "Poison",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Poison",
+      "Bug"
+    ],
+    "Immunity": [
+      "Normal",
+      "Fighting"
+    ]
   },
   {
     "Number": "0095",
     "Name": "Onix",
     "Type1": "Rock",
     "Type2": "Ground",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "Resistances": [
+      "Normal",
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "QuadWeaknesses": [
+      "Water",
+      "Grass"
+    ],
+    "QuadResistances": [
+      "Poison"
+    ],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0096",
     "Name": "Drowzee",
     "Type1": "Psychic",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Psychic"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0097",
     "Name": "Hypno",
     "Type1": "Psychic",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Psychic"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0098",
     "Name": "Krabby",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0099",
     "Name": "Kingler",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0100",
     "Name": "Voltorb",
     "Type1": "Electric",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground"
+    ],
+    "Resistances": [
+      "Electric",
+      "Flying",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0101",
     "Name": "Electrode",
     "Type1": "Electric",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground"
+    ],
+    "Resistances": [
+      "Electric",
+      "Flying",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0102",
     "Name": "Exeggcute",
     "Type1": "Grass",
     "Type2": "Psychic",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Psychic"
+    ],
+    "QuadWeaknesses": [
+      "Bug"
+    ],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0103",
     "Name": "Exeggutor",
     "Type1": "Grass",
     "Type2": "Psychic",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Psychic"
+    ],
+    "QuadWeaknesses": [
+      "Bug"
+    ],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0104",
     "Name": "Cubone",
     "Type1": "Ground",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "Resistances": [
+      "Poison",
+      "Rock"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0105",
     "Name": "Marowak",
     "Type1": "Ground",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "Resistances": [
+      "Poison",
+      "Rock"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0106",
     "Name": "Hitmonlee",
     "Type1": "Fighting",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Bug",
+      "Rock",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0107",
     "Name": "Hitmonchan",
     "Type1": "Fighting",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Bug",
+      "Rock",
+      "Dark"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0108",
     "Name": "Lickitung",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0109",
     "Name": "Koffing",
     "Type1": "Poison",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0110",
     "Name": "Weezing",
     "Type1": "Poison",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Poison",
+      "Bug",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0111",
     "Name": "Rhyhorn",
     "Type1": "Ground",
     "Type2": "Rock",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "Resistances": [
+      "Normal",
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "QuadWeaknesses": [
+      "Water",
+      "Grass"
+    ],
+    "QuadResistances": [
+      "Poison"
+    ],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0112",
     "Name": "Rhydon",
     "Type1": "Ground",
     "Type2": "Rock",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "Resistances": [
+      "Normal",
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "QuadWeaknesses": [
+      "Water",
+      "Grass"
+    ],
+    "QuadResistances": [
+      "Poison"
+    ],
+    "Immunity": [
+      "Electric"
+    ]
   },
   {
     "Number": "0113",
     "Name": "Chansey",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0114",
     "Name": "Tangela",
     "Type1": "Grass",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "Resistances": [
+      "Water",
+      "Electric",
+      "Grass",
+      "Ground"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0115",
     "Name": "Kangaskhan",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0116",
     "Name": "Horsea",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0117",
     "Name": "Seadra",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0118",
     "Name": "Goldeen",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0119",
     "Name": "Seaking",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0120",
     "Name": "Staryu",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0121",
     "Name": "Starmie",
     "Type1": "Water",
     "Type2": "Psychic",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Fighting",
+      "Psychic",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0122",
     "Name": "Mr.Mime",
     "Type1": "Psychic",
     "Type2": "Fairy",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Poison",
+      "Ghost",
+      "Steel"
+    ],
+    "Resistances": [
+      "Psychic"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Fighting"
+    ],
+    "Immunity": [
+      "Dragon"
+    ]
   },
   {
     "Number": "0123",
     "Name": "Scyther",
     "Type1": "Bug",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Electric",
+      "Ice",
+      "Flying"
+    ],
+    "Resistances": [
+      "Bug"
+    ],
+    "QuadWeaknesses": [
+      "Rock"
+    ],
+    "QuadResistances": [
+      "Grass",
+      "Fighting"
+    ],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0124",
     "Name": "Jynx",
     "Type1": "Ice",
     "Type2": "Psychic",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Bug",
+      "Rock",
+      "Ghost",
+      "Dark",
+      "Steel"
+    ],
+    "Resistances": [
+      "Ice",
+      "Psychic"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0125",
     "Name": "Electabuzz",
     "Type1": "Electric",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground"
+    ],
+    "Resistances": [
+      "Electric",
+      "Flying",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0126",
     "Name": "Magmar",
     "Type1": "Fire",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0127",
     "Name": "Pinsir",
     "Type1": "Bug",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0128",
     "Name": "Tauros",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0129",
     "Name": "Magikarp",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0130",
     "Name": "Gyarados",
     "Type1": "Water",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Fighting",
+      "Bug",
+      "Steel"
+    ],
+    "QuadWeaknesses": [
+      "Electric"
+    ],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0131",
     "Name": "Lapras",
     "Type1": "Water",
     "Type2": "Ice",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "Resistances": [
+      "Water"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [
+      "Ice"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0132",
     "Name": "Ditto",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0133",
     "Name": "Eevee",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0134",
     "Name": "Vaporeon",
     "Type1": "Water",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0135",
     "Name": "Jolteon",
     "Type1": "Electric",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ground"
+    ],
+    "Resistances": [
+      "Electric",
+      "Flying",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0136",
     "Name": "Flareon",
     "Type1": "Fire",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "Resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0137",
     "Name": "Porygon",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0138",
     "Name": "Omanyte",
     "Type1": "Rock",
     "Type2": "Water",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Fighting",
+      "Ground"
+    ],
+    "Resistances": [
+      "Normal",
+      "Ice",
+      "Poison",
+      "Flying"
+    ],
+    "QuadWeaknesses": [
+      "Grass"
+    ],
+    "QuadResistances": [
+      "Fire"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0139",
     "Name": "Omastar",
     "Type1": "Rock",
     "Type2": "Water",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Fighting",
+      "Ground"
+    ],
+    "Resistances": [
+      "Normal",
+      "Ice",
+      "Poison",
+      "Flying"
+    ],
+    "QuadWeaknesses": [
+      "Grass"
+    ],
+    "QuadResistances": [
+      "Fire"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0140",
     "Name": "Kabuto",
     "Type1": "Rock",
     "Type2": "Water",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Fighting",
+      "Ground"
+    ],
+    "Resistances": [
+      "Normal",
+      "Ice",
+      "Poison",
+      "Flying"
+    ],
+    "QuadWeaknesses": [
+      "Grass"
+    ],
+    "QuadResistances": [
+      "Fire"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0141",
     "Name": "Kabutops",
     "Type1": "Rock",
     "Type2": "Water",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Electric",
+      "Fighting",
+      "Ground"
+    ],
+    "Resistances": [
+      "Normal",
+      "Ice",
+      "Poison",
+      "Flying"
+    ],
+    "QuadWeaknesses": [
+      "Grass"
+    ],
+    "QuadResistances": [
+      "Fire"
+    ],
+    "Immunity": []
   },
   {
     "Number": "0142",
     "Name": "Aerodactyl",
     "Type1": "Rock",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Electric",
+      "Ice",
+      "Rock",
+      "Steel"
+    ],
+    "Resistances": [
+      "Normal",
+      "Fire",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0143",
     "Name": "Snorlax",
     "Type1": "Normal",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [],
+    "Resistances": [
+      "Fighting"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ghost"
+    ]
   },
   {
     "Number": "0144",
     "Name": "Articuno",
     "Type1": "Ice",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Fire",
+      "Electric",
+      "Steel"
+    ],
+    "Resistances": [
+      "Grass",
+      "Bug"
+    ],
+    "QuadWeaknesses": [
+      "Rock"
+    ],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0145",
     "Name": "Zapdos",
     "Type1": "Electric",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Rock"
+    ],
+    "Resistances": [
+      "Grass",
+      "Fighting",
+      "Flying",
+      "Bug",
+      "Steel"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0146",
     "Name": "Moltres",
     "Type1": "Fire",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Water",
+      "Electric"
+    ],
+    "Resistances": [
+      "Fire",
+      "Fighting",
+      "Steel",
+      "Fairy"
+    ],
+    "QuadWeaknesses": [
+      "Rock"
+    ],
+    "QuadResistances": [
+      "Grass",
+      "Bug"
+    ],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0147",
     "Name": "Dratini",
     "Type1": "Dragon",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Electric",
+      "Grass"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0148",
     "Name": "Dragonair",
     "Type1": "Dragon",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Electric",
+      "Grass"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0149",
     "Name": "Dragonite",
     "Type1": "Dragon",
     "Type2": "Flying",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Rock",
+      "Dragon",
+      "Fairy"
+    ],
+    "Resistances": [
+      "Fire",
+      "Water",
+      "Fighting",
+      "Bug"
+    ],
+    "QuadWeaknesses": [
+      "Ice"
+    ],
+    "QuadResistances": [
+      "Grass"
+    ],
+    "Immunity": [
+      "Ground"
+    ]
   },
   {
     "Number": "0150",
     "Name": "Mewtwo",
     "Type1": "Psychic",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Psychic"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   },
   {
     "Number": "0151",
     "Name": "Mew",
     "Type1": "Psychic",
     "Type2": "None",
-    "Gen": "1"
+    "Gen": "1",
+    "Weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "Resistances": [
+      "Fighting",
+      "Psychic"
+    ],
+    "QuadWeaknesses": [],
+    "QuadResistances": [],
+    "Immunity": []
   }
 ]
